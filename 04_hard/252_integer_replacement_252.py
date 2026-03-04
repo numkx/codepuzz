@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return integer replacement.
+# Given the input, return integer replacement.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

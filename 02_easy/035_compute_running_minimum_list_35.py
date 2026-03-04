@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute running minimum list.
+# Compute running minimum list and return the result.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

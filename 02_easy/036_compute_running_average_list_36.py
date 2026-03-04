@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute running average list.
+# Compute running average list and return the result.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

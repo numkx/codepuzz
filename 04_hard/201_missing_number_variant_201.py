@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return missing number.
+# Given the input, return missing number.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

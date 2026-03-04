@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "keep only vowels from a string" and return the result.
+# Given string input, return the result for keep only vowels from a string.
 #
 # Example: solve('alphabet') -> 'aae'.
 # Example: solve('xyz') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return plus one.
+# Given an integer represented as an array of digits, add one and return the updated digit array.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

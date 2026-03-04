@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Perform the required string operation for "wrap text at width w without breaking words" and return the result.
+# Given string input, return the result for wrap text at width w without breaking words.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "repeated substring pattern" and return the result.
+# Given a binary-tree input, return the result for repeated substring pattern.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

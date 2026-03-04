@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the town judge.
+# Given the input, return the town judge.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "valid word" and return the result.
+# Given string input, return the result for valid word.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

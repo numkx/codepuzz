@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Perform the required string operation for "valid palindrome" and return the result.
+# Given string input, return the result for valid palindrome.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

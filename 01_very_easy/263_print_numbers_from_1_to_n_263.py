@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return print numbers from 1 to n.
+# Given the input, return numbers from 1 to n.
 #
 # Example: solve(1) -> [1].
 # Example: solve(3) -> [1, 2, 3].

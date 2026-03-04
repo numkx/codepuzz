@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return ant on the boundary.
+# Given the input, return ant on the boundary.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

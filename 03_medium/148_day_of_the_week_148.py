@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return day of the week.
+# Given the input, return day of the week.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

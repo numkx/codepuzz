@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return champion i.
+# Given the input, return champion i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

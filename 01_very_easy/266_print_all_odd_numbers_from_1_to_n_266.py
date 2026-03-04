@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return print all odd numbers from 1 to n.
+# Return all odd numbers from 1 to n.
 #
 # Example: solve(1) -> [1].
 # Example: solve(2) -> [1].

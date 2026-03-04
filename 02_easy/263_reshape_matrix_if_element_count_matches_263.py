@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Apply the required operation on the given matrix and return the result.
+# Given a matrix/grid input, return the result for reshape matrix if element count matches.
 #
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.

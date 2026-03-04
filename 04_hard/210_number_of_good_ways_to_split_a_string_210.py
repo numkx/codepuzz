@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Perform the required string operation for "number of good ways to split a string" and return the result.
+# Return the number of good ways to split a string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Apply the required operation on the given matrix and return the result.
+# Return secondary diagonal of square matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [2, 3].
 # Example: solve([[5]]) -> [5].

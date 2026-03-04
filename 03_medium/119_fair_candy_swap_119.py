@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return fair candy swap.
+# Given the input, return fair candy swap.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

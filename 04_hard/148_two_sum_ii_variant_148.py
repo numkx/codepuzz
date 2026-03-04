@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the two sum ii.
+# Given the input, return two sum ii.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return arranging coins.
+# Given the input, return arranging coins.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

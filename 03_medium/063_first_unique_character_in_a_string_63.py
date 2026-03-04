@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "first unique character in a string" and return the result.
+# Given string input, return the result for first unique character in a string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return plus one.
+# Given an integer represented as an array of digits, add one and return the updated digit array.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 4].
 # Example: solve([4, 3, 2, 1]) -> [4, 3, 2, 2].

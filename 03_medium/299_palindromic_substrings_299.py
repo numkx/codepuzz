@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "palindromic substrings" and return the result.
+# Given a binary-tree input, return the result for palindromic substrings.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

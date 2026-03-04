@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Apply the required operation on the given grid/board and return the result.
+# Given a matrix/grid input, return the result for battleships in a board.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

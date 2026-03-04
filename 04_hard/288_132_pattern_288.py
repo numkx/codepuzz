@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return 132 pattern.
+# Given the input, return 132 pattern.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

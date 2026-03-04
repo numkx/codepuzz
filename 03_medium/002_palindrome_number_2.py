@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "palindrome number" and return the result.
+# Given string input, return the result for palindrome number.
 #
 # Example: solve(121) -> True.
 # Example: solve(-121) -> False.

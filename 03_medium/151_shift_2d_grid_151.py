@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Apply the required operation on the given grid/board and return the result.
+# Given a matrix/grid input, return the result for shift 2d grid.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

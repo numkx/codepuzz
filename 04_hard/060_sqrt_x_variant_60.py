@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return sqrt x.
+# Given a non-negative integer x, return the integer square root of x.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

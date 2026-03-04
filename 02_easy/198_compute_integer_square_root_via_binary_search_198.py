@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute integer square root via binary search.
+# Compute integer square root via binary search and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

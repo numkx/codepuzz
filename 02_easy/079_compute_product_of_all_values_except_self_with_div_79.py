@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute product of all values except self.
+# Compute product of all values except self and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return construct rectangle.
+# Given the input, return construct rectangle.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

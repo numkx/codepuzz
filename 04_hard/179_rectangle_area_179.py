@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the rectangle area.
+# Given the input, return rectangle area.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

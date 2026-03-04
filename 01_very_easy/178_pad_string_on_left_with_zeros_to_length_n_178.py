@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "pad string on left with zeros to length n" and return the result.
+# Given string input, return the result for pad string on left with zeros to length n.
 #
 # Example: solve('42', 5) -> '00042'.
 # Example: solve('123', 3) -> '123'.

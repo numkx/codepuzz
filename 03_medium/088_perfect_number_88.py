@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return perfect number.
+# Given the input, return perfect number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

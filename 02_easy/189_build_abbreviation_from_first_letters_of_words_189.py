@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Perform the required string operation for "build abbreviation from first letters of words" and return the result.
+# Given string input, return the result for build abbreviation from first letters of words.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

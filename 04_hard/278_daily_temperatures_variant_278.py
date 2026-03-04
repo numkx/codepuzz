@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return daily temperatures.
+# Given the input, return daily temperatures.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

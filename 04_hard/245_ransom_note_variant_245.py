@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return ransom note.
+# Return True if the ransom note can be constructed from the magazine letters, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

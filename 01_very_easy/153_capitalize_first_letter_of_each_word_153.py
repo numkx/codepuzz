@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "capitalize first letter of each word" and return the result.
+# Given string input, return the result for capitalize first letter of each word.
 #
 # Example: solve('hello world') -> 'Hello World'.
 # Example: solve('') -> ''.

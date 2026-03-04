@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute gcd of two integers.
+# Compute gcd of two integers and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return print list elements in reverse order.
+# Return list elements in reverse order.
 #
 # Example: solve([1, 2, 3]) -> [3, 2, 1].
 # Example: solve([]) -> [].

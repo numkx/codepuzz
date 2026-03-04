@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return list primes up to n.
+# Given the input, return list primes up to n.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

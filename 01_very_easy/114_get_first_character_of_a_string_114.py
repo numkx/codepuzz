@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "get first character of a string" and return the result.
+# Return first character of a string.
 #
 # Example: solve('abc') -> 'a'.
 # Example: solve('a') -> 'a'.

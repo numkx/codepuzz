@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Perform the required string operation for "permutation in string" and return the result.
+# Given string input, return the result for permutation in string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

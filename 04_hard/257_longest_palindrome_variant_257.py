@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Perform the required string operation for "longest palindrome" and return the result.
+# Given string input, return the result for longest palindrome.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute waiting times from burst durations.
+# Compute waiting times from burst durations and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

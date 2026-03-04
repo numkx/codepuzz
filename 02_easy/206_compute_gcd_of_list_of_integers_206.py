@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute gcd of list of integers.
+# Compute gcd of list of integers and return the result.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

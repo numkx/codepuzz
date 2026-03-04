@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return right interval.
+# Given the input, return right interval.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

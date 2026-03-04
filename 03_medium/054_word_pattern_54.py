@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "word pattern" and return the result.
+# Given string input, return the result for word pattern.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

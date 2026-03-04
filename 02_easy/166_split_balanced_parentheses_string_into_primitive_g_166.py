@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Perform the required string operation for "split balanced-parentheses string into primitive groups" and return the result.
+# Given string input, return the result for split balanced-parentheses string into primitive groups.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

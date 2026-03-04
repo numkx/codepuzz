@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Perform the required string operation for "compare two strings ignoring punctuation and spaces" and return the result.
+# Compare two strings ignoring punctuation and spaces and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

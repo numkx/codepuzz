@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Apply the required operation on the given matrix and return the result.
+# Return all elements of a 2d matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [1, 2, 3, 4].
 # Example: solve([[1]]) -> [1].

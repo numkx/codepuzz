@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return k closest elements.
+# Given the input, return k closest elements.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

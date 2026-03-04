@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return power of three.
+# Given the input, return power of three.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "join words with commas" and return the result.
+# Given string input, return the result for join words with commas.
 #
 # Example: solve(['a', 'b', 'c']) -> 'a,b,c'.
 # Example: solve([]) -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return distinct averages.
+# Given the input, return distinct averages.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

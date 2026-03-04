@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return print list without duplicates.
+# Return list without duplicates.
 #
 # Example: solve([1, 2, 2, 3, 1]) -> [1, 2, 3].
 # Example: solve([]) -> [].

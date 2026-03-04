@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return happy number.
+# Return True if repeatedly replacing the number by the sum of squares of its digits ends at 1, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

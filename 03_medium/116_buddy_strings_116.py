@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Perform the required string operation for "buddy strings" and return the result.
+# Given string input, return the result for buddy strings.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Perform the required string operation for "pad string on right with dots to length n" and return the result.
+# Given string input, return the result for pad string on right with dots to length n.
 #
 # Example: solve('42', 5) -> '42...'.
 # Example: solve('123', 3) -> '123'.

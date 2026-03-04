@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return climbing stairs.
+# Given n stairs, return the number of distinct ways to reach the top using 1 or 2 steps.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

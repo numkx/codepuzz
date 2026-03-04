@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return jump game.
+# Given the input, return jump game.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

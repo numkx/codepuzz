@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the difference.
+# Given the input, return the difference.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

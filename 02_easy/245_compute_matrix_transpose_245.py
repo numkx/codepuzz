@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Apply the required operation on the given matrix and return the result.
+# Compute matrix transpose and return the result.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 3], [2, 4]].
 # Example: solve([[1]]) -> [[1]].

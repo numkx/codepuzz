@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return can place flowers.
+# Given the input, return can place flowers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

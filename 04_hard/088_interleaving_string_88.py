@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Perform the required string operation for "interleaving string" and return the result.
+# Given string input, return the result for interleaving string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

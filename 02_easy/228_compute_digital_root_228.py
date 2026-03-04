@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return compute digital root.
+# Compute digital root and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
