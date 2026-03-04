@@ -7,6 +7,8 @@
 # Example: solve('listen', 'silent') -> True.
 # Example: solve('triangle', 'integral') -> True.
 #
+# Tags: [string]
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

@@ -7,6 +7,8 @@
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #
+# Tags: [linked list] [list]
+#
 
 def solve(s):
     """Implement the solution here."""

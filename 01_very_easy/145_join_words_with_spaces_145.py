@@ -7,6 +7,8 @@
 # Example: solve(['a', 'b', 'c']) -> 'a b c'.
 # Example: solve([]) -> ''.
 #
+# Tags: [string] [list] [array]
+#
 
 def solve(lst):
     """Implement the solution here."""

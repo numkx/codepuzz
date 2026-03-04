@@ -7,6 +7,8 @@
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #
+# Tags: [tree] [list] [array] [tree traversal] [dfs]
+#
 
 def solve(lst):
     """Implement the solution here."""

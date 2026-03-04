@@ -7,6 +7,8 @@
 # Example: solve('racecar') -> True.
 # Example: solve('abba') -> True.
 #
+# Tags: [string]
+#
 
 def solve(s):
     """Implement the solution here."""

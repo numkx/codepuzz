@@ -7,6 +7,8 @@
 # Example: solve(0) -> 32.0.
 # Example: solve(100) -> 212.0.
 #
+# Tags: [integer]
+#
 
 def solve(n):
     """Implement the solution here."""

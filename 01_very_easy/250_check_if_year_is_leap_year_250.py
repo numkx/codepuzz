@@ -7,6 +7,8 @@
 # Example: solve(2000) -> True.
 # Example: solve(1900) -> False.
 #
+# Tags: [integer]
+#
 
 def solve(n):
     """Implement the solution here."""

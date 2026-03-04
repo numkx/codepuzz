@@ -7,6 +7,8 @@
 # Example: solve([1, 2, 3], 2) -> True.
 # Example: solve([1, 2, 3], 4) -> False.
 #
+# Tags: [list] [array] [integer]
+#
 
 def solve(lst, x):
     """Implement the solution here."""

@@ -7,6 +7,8 @@
 # Example: solve(121) -> True.
 # Example: solve(123) -> False.
 #
+# Tags: [string] [integer]
+#
 
 def solve(n):
     """Implement the solution here."""

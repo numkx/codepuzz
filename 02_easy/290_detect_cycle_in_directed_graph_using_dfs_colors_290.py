@@ -7,6 +7,8 @@
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.
 #
+# Tags: [dfs] [graph]
+#
 
 def solve(t):
     """Implement the solution here."""

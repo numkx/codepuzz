@@ -7,6 +7,8 @@
 # Example: solve(['flower', 'flow', 'flight']) -> 'fl'.
 # Example: solve(['dog', 'racecar', 'car']) -> ''.
 #
+# Tags: [list] [array]
+#
 
 def solve(lst):
     """Implement the solution here."""

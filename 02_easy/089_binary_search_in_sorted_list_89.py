@@ -7,6 +7,8 @@
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #
+# Tags: [binary search] [list] [sorting] [search] [array]
+#
 
 def solve(lst):
     """Implement the solution here."""

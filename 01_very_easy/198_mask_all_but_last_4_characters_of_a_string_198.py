@@ -7,6 +7,8 @@
 # Example: solve('12345678') -> '****5678'.
 # Example: solve('1234') -> '1234'.
 #
+# Tags: [string]
+#
 
 def solve(s):
     """Implement the solution here."""

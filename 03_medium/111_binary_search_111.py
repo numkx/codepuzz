@@ -7,6 +7,8 @@
 # Example: solve([-1, 0, 3, 5, 9, 12], 9) -> 4.
 # Example: solve([-1, 0, 3, 5, 9, 12], 2) -> -1.
 #
+# Tags: [binary search] [search] [list] [array]
+#
 
 def solve(lst, n):
     """Implement the solution here."""

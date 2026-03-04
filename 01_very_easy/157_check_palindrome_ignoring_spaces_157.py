@@ -7,6 +7,8 @@
 # Example: solve('n u r s e s r u n') -> True.
 # Example: solve('never odd or even') -> True.
 #
+# Tags: [string]
+#
 
 def solve(s):
     """Implement the solution here."""

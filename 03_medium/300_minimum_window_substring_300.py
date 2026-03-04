@@ -7,6 +7,8 @@
 # Example: solve('ADOBECODEBANC', 'ABC') -> 'BANC'.
 # Example: solve('a', 'a') -> 'a'.
 #
+# Tags: [binary tree] [string]
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

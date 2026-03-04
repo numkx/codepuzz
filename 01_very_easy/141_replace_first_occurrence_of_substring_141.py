@@ -7,6 +7,8 @@
 # Example: solve('a b') -> 'a_b'.
 # Example: solve('') -> ''.
 #
+# Tags: [binary tree] [string]
+#
 
 def solve(s):
     """Implement the solution here."""

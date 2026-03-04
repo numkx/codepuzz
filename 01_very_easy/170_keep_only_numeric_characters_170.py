@@ -7,6 +7,8 @@
 # Example: solve('a1b2!') -> '12'.
 # Example: solve('') -> ''.
 #
+# Tags: [string]
+#
 
 def solve(s):
     """Implement the solution here."""

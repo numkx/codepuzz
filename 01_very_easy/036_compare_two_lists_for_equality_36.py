@@ -7,6 +7,8 @@
 # Example: solve([1, 2], [1, 2]) -> True.
 # Example: solve([1, 2], [2, 1]) -> False.
 #
+# Tags: [list] [array]
+#
 
 def solve(lst1, lst2):
     """Implement the solution here."""

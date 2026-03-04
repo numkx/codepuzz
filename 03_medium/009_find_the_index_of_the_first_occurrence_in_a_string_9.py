@@ -7,6 +7,8 @@
 # Example: solve('sadbutsad', 'sad') -> 0.
 # Example: solve('leetcode', 'leeto') -> -1.
 #
+# Tags: [string]
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

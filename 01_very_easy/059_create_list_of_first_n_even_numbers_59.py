@@ -7,6 +7,8 @@
 # Example: solve(5) -> [2, 4, 6, 8, 10].
 # Example: solve(1) -> [2].
 #
+# Tags: [list] [integer]
+#
 
 def solve(n):
     """Implement the solution here."""

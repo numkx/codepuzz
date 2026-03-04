@@ -7,6 +7,8 @@
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #
+# Tags: [bit manipulation]
+#
 
 def solve(n):
     """Implement the solution here."""

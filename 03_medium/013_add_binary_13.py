@@ -7,6 +7,8 @@
 # Example: solve('11', '1') -> '100'.
 # Example: solve('1010', '1011') -> '10101'.
 #
+# Tags: [string]
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

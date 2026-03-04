@@ -7,6 +7,8 @@
 # Example: solve(2, 3) -> (3, 2).
 # Example: solve(-1, 1) -> (1, -1).
 #
+# Tags: [integer]
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

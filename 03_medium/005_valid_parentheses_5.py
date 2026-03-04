@@ -7,6 +7,8 @@
 # Example: solve('()') -> True.
 # Example: solve('()[]{}') -> True.
 #
+# Tags: [string]
+#
 
 def solve(s):
     """Implement the solution here."""
