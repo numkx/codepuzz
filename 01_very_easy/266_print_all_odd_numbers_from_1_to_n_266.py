@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return all odd numbers from 1 to n.
+# Solve print all odd numbers from 1 to n and return the result.
+#
+# Example: solve(1) -> [1].
+# Example: solve(2) -> [1].
 #
 
 def solve(n):

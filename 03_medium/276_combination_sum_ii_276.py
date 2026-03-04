@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, find all combinations that reach the target sum.
-# Return the resulting list/collection.
+# Solve combination sum ii and return the result.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

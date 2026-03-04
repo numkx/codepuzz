@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return compress repeated chars as char+count.
+# Solve compress repeated chars as char+count and return the result.
+#
+# Example: solve('aaabb') -> 'a3b2'.
+# Example: solve('a') -> 'a1'.
 #
 
 def solve(s):

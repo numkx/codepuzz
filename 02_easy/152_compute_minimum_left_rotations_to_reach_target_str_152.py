@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, compute minimum left rotations to reach target string.
-# Return the resulting string.
+# Solve compute minimum left rotations to reach target string and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

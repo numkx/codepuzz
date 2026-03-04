@@ -4,6 +4,9 @@
 # Description:
 # Rotate string left by 1 and return the result.
 #
+# Example: solve('abc') -> 'bca'.
+# Example: solve('a') -> 'a'.
+#
 
 def solve(s):
     """Implement the solution here."""

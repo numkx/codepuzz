@@ -4,6 +4,9 @@
 # Description:
 # Reverse first half of a list and return the result.
 #
+# Example: solve([1, 2, 3]) -> [3, 2, 1].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

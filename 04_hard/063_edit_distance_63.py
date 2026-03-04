@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, compute the minimum operations to convert one string into the other.
-# Return the computed result.
+# Solve edit distance and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

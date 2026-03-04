@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve validate simple arithmetic expression with +,-,*,/ and spaces and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, find the maximum product subarray.
-# Return the resulting list/collection.
+# Solve maximum product subarray and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Toggle case of each character and return the result.
+# Solve toggle case of each character and return the result.
+#
+# Example: solve('AbC') -> 'aBc'.
+# Example: solve('hello') -> 'HELLO'.
 #
 
 def solve(s):

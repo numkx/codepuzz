@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the resulting string.
+# Solve decompress char+count encoded text and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

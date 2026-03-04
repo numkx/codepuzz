@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given graph-style input and any required parameters, count paths from top-left to bottom-right moving right/down only.
-# Return the computed result.
+# Return the count of paths from top-left to bottom-right moving right/down only.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, convert the fraction to a decimal string, wrapping repeating digits in parentheses.
-# Return the computed result.
+# Solve fraction to recurring decimal and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

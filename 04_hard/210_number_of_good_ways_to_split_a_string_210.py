@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, find the number of good ways to split a string.
-# Return the resulting string.
+# Return the number of good ways to split a string.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

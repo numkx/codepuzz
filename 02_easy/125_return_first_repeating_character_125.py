@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return first repeating character.
-# Return the computed result.
+# Return first repeating character.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

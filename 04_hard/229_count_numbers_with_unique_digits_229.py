@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, count numbers with unique digits.
-# Return the computed result.
+# Return the count of numbers with unique digits.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

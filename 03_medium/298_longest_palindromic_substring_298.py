@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a binary tree and any required parameters, find the longest palindromic substring.
-# Return the resulting string.
+# Solve longest palindromic substring and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return product of digits of an integer.
+# Solve product of digits of an integer and return the result.
+#
+# Example: solve(123) -> 6.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -4,6 +4,9 @@
 # Description:
 # Merge two lists and return the result.
 #
+# Example: solve([1, 2], [3, 4]) -> [1, 2, 3, 4].
+# Example: solve([], [1]) -> [1].
+#
 
 def solve(lst1, lst2):
     """Implement the solution here."""

@@ -4,6 +4,9 @@
 # Description:
 # Return index of first occurrence of a value.
 #
+# Example: solve([1, 2, 3, 2], 2) -> 1.
+# Example: solve([5, 5, 5], 5) -> 0.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

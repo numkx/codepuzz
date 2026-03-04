@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, compute digital root.
-# Return the computed result.
+# Solve compute digital root and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

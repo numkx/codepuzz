@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check divisibility by 3.
+# Solve check divisibility by 3 and return the result.
+#
+# Example: solve(3) -> True.
+# Example: solve(4) -> False.
 #
 
 def solve(n):

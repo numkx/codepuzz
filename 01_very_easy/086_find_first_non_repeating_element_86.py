@@ -4,6 +4,9 @@
 # Description:
 # Return first non-repeating element.
 #
+# Example: solve([1, 2, 2, 3]) -> 1.
+# Example: solve([2, 2, 3, 3]) -> None.
+#
 
 def solve(lst):
     """Implement the solution here."""

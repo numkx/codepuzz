@@ -4,6 +4,9 @@
 # Description:
 # Return the count of lowercase letters.
 #
+# Example: solve('AbC') -> 1.
+# Example: solve('abc') -> 3.
+#
 
 def solve(s):
     """Implement the solution here."""

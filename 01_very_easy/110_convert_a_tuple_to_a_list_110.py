@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert a tuple to a list and return the converted value.
+# Convert a tuple to a list and return the result.
+#
+# Example: solve((1, 2, 3)) -> [1, 2, 3].
+# Example: solve(()) -> [].
 #
 
 def solve(t):

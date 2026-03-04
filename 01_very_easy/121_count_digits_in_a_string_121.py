@@ -4,6 +4,9 @@
 # Description:
 # Return the count of digits in a string.
 #
+# Example: solve('a1b2') -> 2.
+# Example: solve('123') -> 3.
+#
 
 def solve(s):
     """Implement the solution here."""

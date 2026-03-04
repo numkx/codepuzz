@@ -4,6 +4,9 @@
 # Description:
 # Return longest word in sentence.
 #
+# Example: solve('a bb ccc') -> 'ccc'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

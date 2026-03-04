@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, verify whether the Sudoku board configuration is valid.
-# Return True when the condition holds; otherwise return False.
+# Solve valid sudoku and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

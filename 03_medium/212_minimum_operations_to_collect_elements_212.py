@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the minimum operations to collect elements.
-# Return the computed result.
+# Solve minimum operations to collect elements and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

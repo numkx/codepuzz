@@ -4,6 +4,9 @@
 # Description:
 # Return substring index.
 #
+# Example: solve('hello world', 'world') -> 6.
+# Example: solve('abc', 'd') -> -1.
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

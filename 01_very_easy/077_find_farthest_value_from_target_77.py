@@ -4,6 +4,9 @@
 # Description:
 # Return farthest value from target.
 #
+# Example: solve([1, 4, 7], 5) -> 1.
+# Example: solve([1, 4, 7], 6) -> 1.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

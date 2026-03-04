@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, rotate square matrix 90 degrees counterclockwise.
-# Return the computed result.
+# Rotate square matrix 90 degrees counterclockwise and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
 #
 
 def solve(lst):

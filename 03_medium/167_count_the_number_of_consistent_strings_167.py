@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, count the number of consistent strings.
-# Return the resulting string.
+# Return the count of the number of consistent strings.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

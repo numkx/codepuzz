@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, determine color of a chessboard square.
-# Return the computed result.
+# Solve determine color of a chessboard square and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return max of every window of size k.
-# Return the computed result.
+# Return max of every window of size k.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

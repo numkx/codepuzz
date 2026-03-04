@@ -4,6 +4,9 @@
 # Description:
 # Replace spaces with underscores and return the result.
 #
+# Example: solve('a b c') -> 'a_b_c'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

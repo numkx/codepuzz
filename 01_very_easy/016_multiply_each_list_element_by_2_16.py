@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of multiply each list element by 2.
+# Multiply each list element by 2 and return the result.
+#
+# Example: solve([1, 2, 3]) -> [2, 4, 6].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

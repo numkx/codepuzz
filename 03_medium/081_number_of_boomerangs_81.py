@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the number of boomerangs.
-# Return the computed result.
+# Return the number of boomerangs.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

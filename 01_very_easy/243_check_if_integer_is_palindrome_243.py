@@ -4,6 +4,9 @@
 # Description:
 # Return True if integer is palindrome, otherwise return False.
 #
+# Example: solve(121) -> True.
+# Example: solve(123) -> False.
+#
 
 def solve(n):
     """Implement the solution here."""

@@ -4,6 +4,9 @@
 # Description:
 # Return True if matrix is symmetric, otherwise return False.
 #
+# Example: solve([[1, 2], [2, 1]]) -> True.
+# Example: solve([[1, 0], [2, 1]]) -> False.
+#
 
 def solve(lst):
     """Implement the solution here."""

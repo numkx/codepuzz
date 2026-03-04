@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Take second half of a list and return the result.
+# Return second half of a list.
+#
+# Example: solve([1, 2, 3, 4]) -> [3, 4].
+# Example: solve([1, 2, 3]) -> [2, 3].
 #
 
 def solve(lst):

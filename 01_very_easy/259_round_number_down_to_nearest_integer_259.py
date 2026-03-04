@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Round number down to nearest integer and return the result.
+# Solve round number down to nearest integer and return the result.
+#
+# Example: solve(2.9) -> 2.
+# Example: solve(2.0) -> 2.
 #
 
 def solve(n):

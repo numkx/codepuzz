@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return pad string on left with zeros to length n.
+# Pad string on left with zeros to length n and return the result.
+#
+# Example: solve('42', 5) -> '00042'.
+# Example: solve('123', 3) -> '123'.
 #
 
 def solve(s, n):

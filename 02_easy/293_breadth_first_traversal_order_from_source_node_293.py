@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a linked list and any required parameters, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve breadth-first traversal order from source node and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

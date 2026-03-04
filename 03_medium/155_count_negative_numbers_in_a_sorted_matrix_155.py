@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, count negative numbers in a sorted matrix.
-# Return the computed result.
+# Return the count of negative numbers in a sorted matrix.
+#
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
 #
 
 def solve(lst):

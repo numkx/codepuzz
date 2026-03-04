@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, find missing value from 1..n in list of size n-1.
-# Return the resulting list/collection.
+# Return missing value from 1..n in list of size n-1.
+#
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve([]) -> -1.
 #
 
 def solve(lst):

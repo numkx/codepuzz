@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, find the shortest transformation sequence length.
-# Return the resulting string.
+# Solve word ladder and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

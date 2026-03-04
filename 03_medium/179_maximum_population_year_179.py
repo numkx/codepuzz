@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the earliest year with the highest population.
-# Return the computed result.
+# Solve maximum population year and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

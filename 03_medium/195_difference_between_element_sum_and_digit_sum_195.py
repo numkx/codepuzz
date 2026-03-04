@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve difference between element sum and digit sum and return the result.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

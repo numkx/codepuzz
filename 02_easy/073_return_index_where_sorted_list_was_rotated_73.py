@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return index where sorted list was rotated.
-# Return the resulting list/collection.
+# Return index where sorted list was rotated.
+#
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

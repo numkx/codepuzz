@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, find all numbers in a matrix in spiral order.
-# Return the computed result.
+# Return all numbers in a matrix in spiral order.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

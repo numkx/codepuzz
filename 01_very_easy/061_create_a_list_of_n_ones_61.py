@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create a list of n ones and return it.
+# Create a list of n ones and return the result.
+#
+# Example: solve(5) -> [1, 1, 1, 1, 1].
+# Example: solve(1) -> [1].
 #
 
 def solve(n):

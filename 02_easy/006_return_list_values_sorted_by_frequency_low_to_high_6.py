@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return list values sorted by frequency.
-# Return the resulting list/collection.
+# Return list values sorted by frequency.
+#
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

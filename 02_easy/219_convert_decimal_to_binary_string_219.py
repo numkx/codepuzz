@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, convert decimal to binary string.
-# Return the resulting string.
+# Convert decimal to binary string and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is odd, otherwise return False.
 #
+# Example: solve(2) -> False.
+# Example: solve(3) -> True.
+#
 
 def solve(n):
     """Implement the solution here."""

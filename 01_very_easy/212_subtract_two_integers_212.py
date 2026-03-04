@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of subtract two integers.
+# Subtract two integers and return the result.
+#
+# Example: solve(5, 3) -> 2.
+# Example: solve(-1, 1) -> -2.
 #
 
 def solve(n1, n2):

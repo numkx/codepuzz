@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the minimum time visiting all points.
-# Return the computed result.
+# Solve minimum time visiting all points and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

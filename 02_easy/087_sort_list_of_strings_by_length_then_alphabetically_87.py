@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, sort list of strings by length then alphabetically.
-# Return the resulting list/collection.
+# Sort list of strings by length then alphabetically and return the result.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

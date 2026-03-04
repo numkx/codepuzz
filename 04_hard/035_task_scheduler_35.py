@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, find the minimum intervals needed to finish all tasks with cooldown.
-# Return the computed result.
+# Solve task scheduler and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

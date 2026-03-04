@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a linked list and any required parameters, reverse list nodes in groups of size k.
-# Return the resulting list/collection.
+# Reverse nodes in k group and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

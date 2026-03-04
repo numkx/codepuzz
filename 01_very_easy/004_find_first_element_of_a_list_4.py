@@ -4,6 +4,9 @@
 # Description:
 # Return first element of a list.
 #
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve(['a', 'b']) -> 'a'.
+#
 
 def solve(lst):
     """Implement the solution here."""

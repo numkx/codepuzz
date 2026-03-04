@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, search value in rotated sorted list.
-# Return the resulting list/collection.
+# Solve search value in rotated sorted list and return the result.
+#
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

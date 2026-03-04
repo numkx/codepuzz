@@ -4,6 +4,9 @@
 # Description:
 # Return the count of multiples of k from 1 to n.
 #
+# Example: solve(10, 2) -> 5.
+# Example: solve(10, 3) -> 3.
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

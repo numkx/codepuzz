@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, perform the required array/list operation.
-# Return the resulting list/collection.
+# Solve permutations ii and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

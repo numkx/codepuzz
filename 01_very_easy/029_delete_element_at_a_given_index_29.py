@@ -4,6 +4,9 @@
 # Description:
 # Delete element at a given index and return the result.
 #
+# Example: solve([1, 2, 3], 1) -> [1, 3].
+# Example: solve([5], 0) -> [].
+#
 
 def solve(lst, n):
     """Implement the solution here."""

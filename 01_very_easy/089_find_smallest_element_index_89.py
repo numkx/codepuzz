@@ -4,6 +4,9 @@
 # Description:
 # Return smallest element index.
 #
+# Example: solve([3, 1, 2]) -> 1.
+# Example: solve([5]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

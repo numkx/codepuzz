@@ -4,6 +4,9 @@
 # Description:
 # Return number of columns in a matrix.
 #
+# Example: solve([[1, 2], [3, 4]]) -> 2.
+# Example: solve([[1]]) -> 1.
+#
 
 def solve(lst):
     """Implement the solution here."""

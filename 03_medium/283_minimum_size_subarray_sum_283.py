@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, find the minimum size subarray sum.
-# Return the resulting list/collection.
+# Solve minimum size subarray sum and return the result.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

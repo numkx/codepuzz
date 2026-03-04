@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, perform the required array/list operation.
-# Return the resulting list/collection.
+# Split the array by parity and return the result.
+#
+# Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Append digit to integer end and return the result.
 #
+# Example: solve(12, 3) -> 123.
+# Example: solve(0, 5) -> 5.
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

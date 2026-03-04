@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given graph-style input and any required parameters, compute the required path-based result.
-# Return the computed result.
+# Solve unique paths ii and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

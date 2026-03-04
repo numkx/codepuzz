@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, perform the required string operation.
-# Return the resulting list/collection.
+# Split balanced-parentheses string into primitive groups and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

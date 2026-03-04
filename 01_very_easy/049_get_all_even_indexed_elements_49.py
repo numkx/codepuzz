@@ -4,6 +4,9 @@
 # Description:
 # Return all even-indexed elements.
 #
+# Example: solve([1, 2, 3, 4]) -> [1, 3].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

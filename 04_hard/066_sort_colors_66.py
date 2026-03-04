@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, sort the array containing 0, 1, and 2 in-place.
-# Return the computed result.
+# Sort colors and return the result.
+#
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

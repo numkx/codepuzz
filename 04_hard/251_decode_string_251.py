@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, decode string.
-# Return the resulting string.
+# Solve decode string and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

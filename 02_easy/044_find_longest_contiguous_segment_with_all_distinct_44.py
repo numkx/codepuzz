@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, find longest contiguous segment with all distinct values.
-# Return the computed result.
+# Return longest contiguous segment with all distinct values.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

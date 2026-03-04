@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve validate balanced brackets with , [], {} and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, remove outermost parentheses.
-# Return the computed result.
+# Remove outermost parentheses and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

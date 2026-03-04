@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, find the minimum number of arrows to burst balloons.
-# Return the computed result.
+# Solve minimum number of arrows to burst balloons and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
 #
 
 def solve(lst):

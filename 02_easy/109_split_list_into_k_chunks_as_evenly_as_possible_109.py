@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return True when the condition holds; otherwise return False.
+# Split list into k chunks as evenly as possible and return the result.
+#
+# Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Return elements in list a not in list b.
 #
+# Example: solve([1, 2, 3], [2, 4]) -> [1, 3].
+# Example: solve([], [1]) -> [].
+#
 
 def solve(lst1, lst2):
     """Implement the solution here."""

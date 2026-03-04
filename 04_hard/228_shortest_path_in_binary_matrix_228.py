@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, find the shortest path in binary matrix.
-# Return the computed result.
+# Solve shortest path in binary matrix and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

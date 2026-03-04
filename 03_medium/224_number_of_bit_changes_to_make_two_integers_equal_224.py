@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the number of bit changes to make two integers equal.
-# Return True when the condition holds; otherwise return False.
+# Return the number of bit changes to make two integers equal.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert celsius to fahrenheit and return the converted value.
+# Convert celsius to fahrenheit and return the result.
+#
+# Example: solve(0) -> 32.0.
+# Example: solve(100) -> 212.0.
 #
 
 def solve(n):

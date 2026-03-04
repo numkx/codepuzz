@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, support insert, delete, and random retrieval in average O(1) time.
-# Return the computed result.
+# Insert delete getrandom o1 duplicates allowed and return the result.
+#
+# Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
+# Example: solve([], 0, 5) -> [5].
 #
 
 def solve(lst, n1, n2):

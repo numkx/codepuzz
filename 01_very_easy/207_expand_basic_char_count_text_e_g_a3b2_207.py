@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return expand basic char+count text.
+# Solve expand basic char+count text and return the result.
+#
+# Example: solve('a3b2') -> 'aaabb'.
+# Example: solve('x1') -> 'x'.
 #
 
 def solve(s):

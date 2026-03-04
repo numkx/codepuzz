@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, find minimum in rotated sorted array.
-# Return the resulting list/collection.
+# Return minimum in rotated sorted array.
+#
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve([]) -> -1.
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve valid anagram variant and return the result.
+#
+# Example: solve('abba') -> True.
+# Example: solve('abc') -> False.
 #
 
 def solve(s):

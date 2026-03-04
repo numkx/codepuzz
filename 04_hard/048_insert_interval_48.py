@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a list of intervals and any required parameters, insert the new interval and merge overlaps.
-# Return the resulting list/collection.
+# Insert interval and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

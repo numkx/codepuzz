@@ -4,6 +4,9 @@
 # Description:
 # Return the count of uppercase letters.
 #
+# Example: solve('AbC') -> 2.
+# Example: solve('abc') -> 0.
+#
 
 def solve(s):
     """Implement the solution here."""

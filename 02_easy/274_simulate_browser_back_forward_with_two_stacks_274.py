@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, implement the required data-structure behavior.
-# Return the computed result.
+# Solve simulate browser back/forward with two stacks and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

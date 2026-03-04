@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check divisibility by 5.
+# Solve check divisibility by 5 and return the result.
+#
+# Example: solve(5) -> True.
+# Example: solve(4) -> False.
 #
 
 def solve(n):

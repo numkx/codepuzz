@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is power of 2, otherwise return False.
 #
+# Example: solve(1) -> True.
+# Example: solve(2) -> True.
+#
 
 def solve(n):
     """Implement the solution here."""

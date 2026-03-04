@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given graph-style input and any required parameters, find the number of islands.
-# Return the computed result.
+# Return the number of islands.
+#
+# Example: solve([['1', '1', '1', '1', '0'], ['1', '1', '0', '1', '0'], ['1', '1', '0', '0', '0'], ['0', '0', '0', '0', '0']]) -> 1.
+# Example: solve([['1', '1', '0', '0', '0'], ['1', '1', '0', '0', '0'], ['0', '0', '1', '0', '0'], ['0', '0', '0', '1', '1']]) -> 3.
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve binary search and return the result.
+#
+# Example: solve([-1, 0, 3, 5, 9, 12], 9) -> 4.
+# Example: solve([-1, 0, 3, 5, 9, 12], 2) -> -1.
 #
 
 def solve(lst, n):

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, determine if string halves are alike.
-# Return the resulting string.
+# Return True if string halves are alike, otherwise return False.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

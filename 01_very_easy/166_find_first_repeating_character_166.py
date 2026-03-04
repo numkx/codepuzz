@@ -4,6 +4,9 @@
 # Description:
 # Return first repeating character.
 #
+# Example: solve('swiss') -> 's'.
+# Example: solve('abc') -> None.
+#
 
 def solve(s):
     """Implement the solution here."""

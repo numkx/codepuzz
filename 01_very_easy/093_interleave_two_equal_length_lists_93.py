@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return interleave two equal-length lists.
+# Interleave two equal-length lists and return the result.
+#
+# Example: solve([1, 2], [3, 4]) -> [1, 3, 2, 4].
+# Example: solve([], []) -> [].
 #
 
 def solve(lst1, lst2):

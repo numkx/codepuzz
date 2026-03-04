@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a binary tree and any required parameters, count binary substrings.
-# Return the resulting string.
+# Return the count of binary substrings.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

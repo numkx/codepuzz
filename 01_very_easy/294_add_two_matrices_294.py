@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of add two matrices.
+# Add two matrices and return the result.
+#
+# Example: solve([[1, 2], [3, 4]], [[5, 6], [7, 8]]) -> [[6, 8], [10, 12]].
+# Example: solve([[0]], [[0]]) -> [[0]].
 #
 
 def solve(lst1, lst2):

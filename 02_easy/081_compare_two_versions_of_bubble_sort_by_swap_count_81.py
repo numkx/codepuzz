@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Compare two versions of bubble sort by swap count and return the result.
+#
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

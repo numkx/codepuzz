@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, add strings.
-# Return the resulting string.
+# Add strings and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

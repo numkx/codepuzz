@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, multiply the numeric strings and return the product as a string.
-# Return the resulting string.
+# Multiply strings and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

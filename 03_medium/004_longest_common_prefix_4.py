@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the longest common prefix.
-# Return the computed result.
+# Solve longest common prefix and return the result.
+#
+# Example: solve(['flower', 'flow', 'flight']) -> 'fl'.
+# Example: solve(['dog', 'racecar', 'car']) -> ''.
 #
 
 def solve(lst):

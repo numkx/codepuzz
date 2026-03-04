@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return build frequency map of list values.
+# Build frequency map of list values and return the result.
+#
+# Example: solve([1, 2, 2, 3]) -> {1: 1, 2: 2, 3: 1}.
+# Example: solve([]) -> {}.
 #
 
 def solve(lst):

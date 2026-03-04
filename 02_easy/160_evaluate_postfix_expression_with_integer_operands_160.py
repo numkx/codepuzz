@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, evaluate postfix expression with integer operands.
-# Return the computed result.
+# Solve evaluate postfix expression with integer operands and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

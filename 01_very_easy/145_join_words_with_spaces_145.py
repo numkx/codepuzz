@@ -4,6 +4,9 @@
 # Description:
 # Join words with spaces and return the result.
 #
+# Example: solve(['a', 'b', 'c']) -> 'a b c'.
+# Example: solve([]) -> ''.
+#
 
 def solve(lst):
     """Implement the solution here."""

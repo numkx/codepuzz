@@ -4,6 +4,9 @@
 # Description:
 # Return the count of zeros in a list.
 #
+# Example: solve([0, 1, 0, 2]) -> 2.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

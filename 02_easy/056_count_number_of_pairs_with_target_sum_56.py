@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given an array/list and any required parameters, count number of pairs with target sum.
-# Return the computed result.
+# Return the count of number of pairs with target sum.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

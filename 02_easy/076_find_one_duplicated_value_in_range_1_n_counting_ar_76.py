@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, find one duplicated value in range 1..n.
-# Return the computed result.
+# Return one duplicated value in range 1..n.
+#
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve([]) -> -1.
 #
 
 def solve(lst):

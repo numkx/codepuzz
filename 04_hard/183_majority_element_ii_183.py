@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, find all values that appear more than n/3 times.
-# Return the computed result.
+# Solve majority element ii and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Return True if one string is rotation of another, otherwise return False.
 #
+# Example: solve('abba') -> True.
+# Example: solve('abc') -> False.
+#
 
 def solve(s):
     """Implement the solution here."""

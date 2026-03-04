@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, count occurrences of target in sorted list using binary search.
-# Return the resulting list/collection.
+# Return the count of occurrences of target in sorted list using binary search.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

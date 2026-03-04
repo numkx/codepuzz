@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of subtract two matrices.
+# Subtract two matrices and return the result.
+#
+# Example: solve([[5, 6], [7, 8]], [[1, 2], [3, 4]]) -> [[4, 4], [4, 4]].
+# Example: solve([[0]], [[0]]) -> [[0]].
 #
 
 def solve(lst1, lst2):

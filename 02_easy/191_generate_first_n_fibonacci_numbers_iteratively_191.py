@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, generate first n fibonacci numbers iteratively.
-# Return the computed result.
+# Generate first n fibonacci numbers iteratively and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

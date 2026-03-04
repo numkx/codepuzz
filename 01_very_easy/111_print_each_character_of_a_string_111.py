@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return each character of a string.
+# Solve print each character of a string and return the result.
+#
+# Example: solve('abc') -> ['a', 'b', 'c'].
+# Example: solve('') -> [].
 #
 
 def solve(s):

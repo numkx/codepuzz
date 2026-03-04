@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given an array/list and any required parameters, compute prefix sums list.
-# Return the resulting list/collection.
+# Solve compute prefix sums list and return the result.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Return the count of consonants in a string.
 #
+# Example: solve('hello') -> 3.
+# Example: solve('AEIOU') -> 0.
+#
 
 def solve(s):
     """Implement the solution here."""

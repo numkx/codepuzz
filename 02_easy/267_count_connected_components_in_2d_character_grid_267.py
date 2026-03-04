@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, count connected components in 2d character grid.
-# Return the computed result.
+# Return the count of connected components in 2d character grid.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, count valid words under custom dictionary rule set.
-# Return True when the condition holds; otherwise return False.
+# Return the count of valid words under custom dictionary rule set.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

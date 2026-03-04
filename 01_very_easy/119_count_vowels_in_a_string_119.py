@@ -4,6 +4,9 @@
 # Description:
 # Return the count of vowels in a string.
 #
+# Example: solve('hello') -> 2.
+# Example: solve('AEIOU') -> 5.
+#
 
 def solve(s):
     """Implement the solution here."""

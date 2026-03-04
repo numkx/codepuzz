@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, partition list.
-# Return the resulting list/collection.
+# Solve partition list and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

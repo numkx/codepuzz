@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, evaluate bracket sequence validity in a text stream.
-# Return True when the condition holds; otherwise return False.
+# Solve evaluate bracket sequence validity in a text stream and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

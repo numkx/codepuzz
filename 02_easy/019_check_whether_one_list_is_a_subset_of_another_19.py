@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check whether one list is a subset of another.
-# Return True when the condition holds; otherwise return False.
+# Return True if one list is a subset of another, otherwise return False.
+#
+# Example: solve([1, 2, 3]) -> True.
+# Example: solve([]) -> True.
 #
 
 def solve(lst):

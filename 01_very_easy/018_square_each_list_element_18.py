@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return square each list element.
+# Solve square each list element and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 4, 9].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

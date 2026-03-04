@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, generate tribonacci sequence up to n terms.
-# Return the computed result.
+# Generate tribonacci sequence up to n terms and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

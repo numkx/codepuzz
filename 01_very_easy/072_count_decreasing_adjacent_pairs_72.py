@@ -4,6 +4,9 @@
 # Description:
 # Return the count of decreasing adjacent pairs.
 #
+# Example: solve([3, 2, 2, 1]) -> 2.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

@@ -4,6 +4,9 @@
 # Description:
 # Replace all zeros with -1 and return the result.
 #
+# Example: solve([0, 1, 0]) -> [-1, 1, -1].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

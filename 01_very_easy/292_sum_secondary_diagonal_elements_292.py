@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of secondary diagonal elements.
 #
+# Example: solve([[1, 2], [3, 4]]) -> 5.
+# Example: solve([[5]]) -> 5.
+#
 
 def solve(lst):
     """Implement the solution here."""

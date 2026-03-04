@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is zero, otherwise return False.
 #
+# Example: solve(0) -> True.
+# Example: solve(1) -> False.
+#
 
 def solve(n):
     """Implement the solution here."""

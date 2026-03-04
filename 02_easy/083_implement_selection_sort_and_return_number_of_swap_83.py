@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, implement selection sort and return number of swaps.
-# Return the computed result.
+# Implement selection sort and return number of swaps and return outputs for the required operations.
+#
+# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
 
 def solve(t):

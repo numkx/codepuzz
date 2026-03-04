@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve valid palindrome and return the result.
+#
+# Example: solve('A man, a plan, a canal: Panama') -> True.
+# Example: solve('race a car') -> False.
 #
 
 def solve(s):

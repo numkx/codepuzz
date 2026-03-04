@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given graph-style input and any required parameters, find the number of connected components in an undirected graph.
-# Return the computed result.
+# Return the number of connected components in an undirected graph.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

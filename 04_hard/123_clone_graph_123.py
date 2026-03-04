@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given graph-style input and any required parameters, perform the required graph traversal or connectivity operation.
-# Return the computed result.
+# Solve clone graph and return the result.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

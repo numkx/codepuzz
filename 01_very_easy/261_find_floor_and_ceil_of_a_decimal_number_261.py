@@ -4,6 +4,9 @@
 # Description:
 # Return floor and ceil of a decimal number.
 #
+# Example: solve(2.3) -> (2, 3).
+# Example: solve(2.0) -> (2, 2).
+#
 
 def solve(n):
     """Implement the solution here."""

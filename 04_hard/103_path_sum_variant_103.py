@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, compute the required path-based result.
-# Return the computed result.
+# Solve path sum variant and return the result.
+#
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

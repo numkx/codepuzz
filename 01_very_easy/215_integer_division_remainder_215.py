@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return integer division remainder.
+# Solve integer division remainder and return the result.
+#
+# Example: solve(7, 3) -> 1.
+# Example: solve(10, 2) -> 0.
 #
 
 def solve(n1, n2):

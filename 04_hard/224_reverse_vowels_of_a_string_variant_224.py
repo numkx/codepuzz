@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, reverse vowels of a string.
-# Return the resulting string.
+# Reverse vowels of a string variant and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

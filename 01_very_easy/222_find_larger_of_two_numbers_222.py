@@ -4,6 +4,9 @@
 # Description:
 # Return larger of two numbers.
 #
+# Example: solve(2, 3) -> 3.
+# Example: solve(3, 2) -> 3.
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

@@ -4,6 +4,9 @@
 # Description:
 # Flatten matrix into a list and return the result.
 #
+# Example: solve([[1, 2], [3, 4]]) -> [1, 2, 3, 4].
+# Example: solve([[1]]) -> [1].
+#
 
 def solve(lst):
     """Implement the solution here."""

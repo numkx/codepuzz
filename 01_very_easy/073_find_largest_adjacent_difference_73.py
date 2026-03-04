@@ -4,6 +4,9 @@
 # Description:
 # Return largest adjacent difference.
 #
+# Example: solve([1, 4, 2]) -> 3.
+# Example: solve([5]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

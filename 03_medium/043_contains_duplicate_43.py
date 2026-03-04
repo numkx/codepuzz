@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve contains duplicate and return the result.
+#
+# Example: solve([1, 2, 3, 1]) -> True.
+# Example: solve([1, 2, 3, 4]) -> False.
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, support cache operations with least-recently-used eviction.
-# Return the computed result.
+# Build lru cache simulation with capacity c and return the result.
+#
+# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
 
 def solve(t):

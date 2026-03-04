@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, find longest contiguous non-decreasing segment.
-# Return the computed result.
+# Return longest contiguous non-decreasing segment.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

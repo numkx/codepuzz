@@ -4,6 +4,9 @@
 # Description:
 # Return the count of digits in an integer.
 #
+# Example: solve(0) -> 1.
+# Example: solve(7) -> 1.
+#
 
 def solve(n):
     """Implement the solution here."""

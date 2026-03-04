@@ -4,6 +4,9 @@
 # Description:
 # Calculate simple interest and return the result.
 #
+# Example: solve(1000, 5, 2) -> 100.0.
+# Example: solve(500, 10, 1) -> 50.0.
+#
 
 def solve(n1, n2, n3):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve single number and return the result.
+#
+# Example: solve([2, 2, 1]) -> 1.
+# Example: solve([4, 1, 2, 1, 2]) -> 4.
 #
 
 def solve(lst):

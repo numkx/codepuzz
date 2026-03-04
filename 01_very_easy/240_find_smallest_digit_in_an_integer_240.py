@@ -4,6 +4,9 @@
 # Description:
 # Return smallest digit in an integer.
 #
+# Example: solve(123) -> 1.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

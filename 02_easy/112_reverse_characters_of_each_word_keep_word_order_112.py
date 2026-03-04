@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, reverse characters of each word, keep word order.
-# Return the resulting string.
+# Reverse characters of each word, keep word order and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

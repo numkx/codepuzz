@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given an array/list and any required parameters, compute combinations count for repeated test cases efficiently.
-# Return the resulting list/collection.
+# Solve compute combinations count for repeated test cases efficiently and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

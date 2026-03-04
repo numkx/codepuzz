@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return cube each list element.
+# Solve cube each list element and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 8, 27].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary tree and any required parameters, perform the required tree operation.
-# Return the computed result.
+# Solve symmetric tree variant and return the result.
+#
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

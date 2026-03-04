@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check palindrome ignoring case.
+# Solve check palindrome ignoring case and return the result.
+#
+# Example: solve('RaceCar') -> True.
+# Example: solve('Hello') -> False.
 #
 
 def solve(s):

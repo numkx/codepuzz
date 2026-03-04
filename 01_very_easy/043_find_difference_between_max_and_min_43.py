@@ -4,6 +4,9 @@
 # Description:
 # Return difference between max and min.
 #
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([5]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

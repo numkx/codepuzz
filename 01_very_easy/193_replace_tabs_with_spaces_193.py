@@ -4,6 +4,9 @@
 # Description:
 # Replace tabs with spaces and return the result.
 #
+# Example: solve('a\tb') -> 'a b'.
+# Example: solve('\t') -> ' '.
+#
 
 def solve(s):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, partition array into three parts with equal sum.
-# Return True when the condition holds; otherwise return False.
+# Solve partition array into three parts with equal sum and return the result.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

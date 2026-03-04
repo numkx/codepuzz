@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of add 1 to each list element.
+# Add 1 to each list element and return the result.
+#
+# Example: solve([1, 2, 3]) -> [2, 3, 4].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

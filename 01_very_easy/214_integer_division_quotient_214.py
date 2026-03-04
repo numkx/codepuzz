@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return integer division quotient.
+# Solve integer division quotient and return the result.
+#
+# Example: solve(7, 3) -> 2.
+# Example: solve(10, 2) -> 5.
 #
 
 def solve(n1, n2):

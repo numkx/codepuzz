@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert octal string to decimal and return the converted value.
+# Convert octal string to decimal and return the result.
+#
+# Example: solve('AbC') -> 'abc'.
+# Example: solve('HELLO') -> 'hello'.
 #
 
 def solve(s):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, compute running maximum list.
-# Return the resulting list/collection.
+# Solve compute running maximum list and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, count nice pairs in an array.
-# Return the resulting list/collection.
+# Return the count of nice pairs in an array.
+#
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

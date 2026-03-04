@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is even, otherwise return False.
 #
+# Example: solve(2) -> True.
+# Example: solve(3) -> False.
+#
 
 def solve(n):
     """Implement the solution here."""

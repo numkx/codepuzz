@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, reverse words in a string.
-# Return the resulting string.
+# Reverse words in a string and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

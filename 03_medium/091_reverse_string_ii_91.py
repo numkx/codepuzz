@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, reverse string ii.
-# Return the resulting string.
+# Reverse string 2 and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

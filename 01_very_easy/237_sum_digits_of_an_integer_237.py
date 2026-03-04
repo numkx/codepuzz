@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of digits of an integer.
 #
+# Example: solve(123) -> 6.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

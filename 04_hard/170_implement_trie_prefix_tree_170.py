@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary tree and any required parameters, implement trie prefix tree.
-# Return the computed result.
+# Implement trie prefix tree and return outputs for the required operations.
+#
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

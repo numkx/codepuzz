@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a binary tree and any required parameters, count all palindromic substrings.
-# Return the resulting string.
+# Return the count of all palindromic substrings.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

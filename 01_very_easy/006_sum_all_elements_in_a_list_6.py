@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of all elements in a list.
 #
+# Example: solve([1, 2, 3]) -> 6.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find missing and repeated values.
-# Return the computed result.
+# Return missing and repeated values.
+#
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve([]) -> -1.
 #
 
 def solve(lst):

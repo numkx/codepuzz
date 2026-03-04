@@ -4,6 +4,9 @@
 # Description:
 # Rotate string right by k and return the result.
 #
+# Example: solve('abc', 1) -> 'cab'.
+# Example: solve('abc', 2) -> 'bca'.
+#
 
 def solve(s, n):
     """Implement the solution here."""

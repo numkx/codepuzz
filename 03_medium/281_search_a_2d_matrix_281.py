@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, search a 2d matrix.
-# Return the computed result.
+# Solve search a 2d matrix and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

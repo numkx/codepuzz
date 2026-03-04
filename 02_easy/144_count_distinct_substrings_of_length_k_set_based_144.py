@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a binary tree and any required parameters, count distinct substrings of length k.
-# Return the resulting string.
+# Return the count of distinct substrings of length k.
+#
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
 #
 
 def solve(s):

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, check if the sentence is pangram.
-# Return True when the condition holds; otherwise return False.
+# Return True if the sentence is pangram, otherwise return False.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

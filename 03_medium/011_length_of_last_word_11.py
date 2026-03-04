@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, perform the required string operation.
-# Return the resulting string.
+# Solve length of last word and return the result.
+#
+# Example: solve('Hello World') -> 5.
+# Example: solve('   fly me   to   the moon  ') -> 4.
 #
 
 def solve(s):

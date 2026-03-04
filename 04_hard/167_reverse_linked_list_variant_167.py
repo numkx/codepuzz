@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a linked list and any required parameters, reverse linked list.
-# Return the resulting list/collection.
+# Reverse linked list variant and return the result.
+#
+# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
 
 def solve(t):

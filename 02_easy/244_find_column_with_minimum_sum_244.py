@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given an array/list and any required parameters, find column with minimum sum.
-# Return the computed result.
+# Return column with minimum sum.
+#
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
 #
 
 def solve(lst):

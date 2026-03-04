@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of multiply two same-length lists element-wise.
+# Multiply two same-length lists element-wise and return the result.
+#
+# Example: solve([1, 2], [3, 4]) -> [3, 8].
+# Example: solve([], []) -> [].
 #
 
 def solve(lst1, lst2):

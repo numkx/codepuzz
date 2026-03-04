@@ -4,6 +4,9 @@
 # Description:
 # Return first character of a string.
 #
+# Example: solve('abc') -> 'a'.
+# Example: solve('a') -> 'a'.
+#
 
 def solve(s):
     """Implement the solution here."""

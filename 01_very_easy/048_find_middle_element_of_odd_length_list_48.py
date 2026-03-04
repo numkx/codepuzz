@@ -4,6 +4,9 @@
 # Description:
 # Return middle element of odd-length list.
 #
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([5]) -> 5.
+#
 
 def solve(lst):
     """Implement the solution here."""

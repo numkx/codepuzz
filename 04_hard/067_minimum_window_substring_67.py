@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary tree and any required parameters, find the shortest substring that contains all required characters.
-# Return the resulting string.
+# Solve minimum window substring and return the result.
+#
+# Example: solve('ADOBECODEBANC', 'ABC') -> 'BANC'.
+# Example: solve('a', 'a') -> 'a'.
 #
 
 def solve(s1, s2):

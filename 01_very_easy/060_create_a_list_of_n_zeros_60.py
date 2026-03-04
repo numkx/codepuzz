@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create a list of n zeros and return it.
+# Create a list of n zeros and return the result.
+#
+# Example: solve(5) -> [0, 0, 0, 0, 0].
+# Example: solve(1) -> [0].
 #
 
 def solve(n):

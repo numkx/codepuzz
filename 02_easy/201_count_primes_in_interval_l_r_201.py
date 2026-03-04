@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a list of intervals and any required parameters, count primes in interval [l, r].
-# Return the resulting list/collection.
+# Return the count of primes in interval [l, r].
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

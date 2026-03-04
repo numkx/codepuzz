@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, perform the required matrix/grid operation.
-# Return the computed result.
+# Return the sum of each column in matrix.
+#
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
 #
 
 def solve(lst):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return nth fibonacci using bottom-up dp.
-# Return the computed result.
+# Return nth fibonacci using bottom-up dp.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

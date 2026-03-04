@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, remove one value from a sorted list and keep it sorted.
-# Return the resulting list/collection.
+# Remove one value from a sorted list and keep it sorted and return the result.
+#
+# Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

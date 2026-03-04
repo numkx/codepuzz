@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the longest increasing subsequence.
-# Return the computed result.
+# Solve longest increasing subsequence and return the result.
+#
+# Example: solve([10, 9, 2, 5, 3, 7, 101, 18]) -> 4.
+# Example: solve([0, 1, 0, 3, 2, 3]) -> 4.
 #
 
 def solve(lst):

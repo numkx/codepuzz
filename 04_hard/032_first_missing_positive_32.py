@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, find the smallest missing positive integer.
-# Return the computed result.
+# Solve first missing positive and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

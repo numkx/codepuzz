@@ -4,6 +4,9 @@
 # Description:
 # Return the count of pairs with equal values.
 #
+# Example: solve([1, 1, 2, 2, 2]) -> 4.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

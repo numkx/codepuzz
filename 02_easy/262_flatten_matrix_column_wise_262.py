@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, perform the required matrix/grid operation.
-# Return the computed result.
+# Flatten matrix column-wise and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

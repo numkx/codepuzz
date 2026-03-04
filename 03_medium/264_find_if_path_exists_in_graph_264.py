@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given graph-style input and any required parameters, find if path exists in graph.
-# Return the computed result.
+# Return if path exists in graph.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

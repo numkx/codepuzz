@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create a copy of a list and return it.
+# Create a copy of a list and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

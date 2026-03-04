@@ -4,6 +4,9 @@
 # Description:
 # Return common characters between two strings.
 #
+# Example: solve('abc', 'bcd') -> 'bc'.
+# Example: solve('abc', 'xyz') -> ''.
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

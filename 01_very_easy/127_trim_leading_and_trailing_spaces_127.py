@@ -4,6 +4,9 @@
 # Description:
 # Trim leading and trailing spaces and return the result.
 #
+# Example: solve('  hi  ') -> 'hi'.
+# Example: solve('hi') -> 'hi'.
+#
 
 def solve(s):
     """Implement the solution here."""

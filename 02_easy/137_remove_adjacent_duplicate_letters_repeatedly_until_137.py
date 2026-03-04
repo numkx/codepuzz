@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, remove adjacent duplicate letters repeatedly until stable.
-# Return the computed result.
+# Remove adjacent duplicate letters repeatedly until stable and return the result.
+#
+# Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

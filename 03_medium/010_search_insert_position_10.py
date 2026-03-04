@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, search insert position.
-# Return the computed result.
+# Solve search insert position and return the result.
+#
+# Example: solve([1, 3, 5, 6], 5) -> 2.
+# Example: solve([1, 3, 5, 6], 2) -> 1.
 #
 
 def solve(lst, n):

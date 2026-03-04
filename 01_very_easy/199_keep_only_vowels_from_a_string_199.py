@@ -4,6 +4,9 @@
 # Description:
 # Keep only vowels from a string and return the result.
 #
+# Example: solve('alphabet') -> 'aae'.
+# Example: solve('xyz') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

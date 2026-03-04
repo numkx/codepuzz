@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, add binary.
-# Return the computed result.
+# Add binary and return the result.
+#
+# Example: solve('11', '1') -> '100'.
+# Example: solve('1010', '1011') -> '10101'.
 #
 
 def solve(s1, s2):

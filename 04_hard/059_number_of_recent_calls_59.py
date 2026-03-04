@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, return the number of recent requests in the last 3000 milliseconds.
-# Return the computed result.
+# Return the number of recent calls.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

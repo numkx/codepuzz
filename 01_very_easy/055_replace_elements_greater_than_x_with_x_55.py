@@ -4,6 +4,9 @@
 # Description:
 # Replace elements greater than x with x and return the result.
 #
+# Example: solve([1, 5, 3], 3) -> [1, 3, 3].
+# Example: solve([], 1) -> [].
+#
 
 def solve(lst, n):
     """Implement the solution here."""

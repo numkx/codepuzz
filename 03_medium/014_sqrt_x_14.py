@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve sqrt x and return the result.
+#
+# Example: solve(4) -> 2.
+# Example: solve(8) -> 2.
 #
 
 def solve(n):

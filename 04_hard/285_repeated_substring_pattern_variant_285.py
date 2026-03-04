@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary tree and any required parameters, perform the required tree operation.
-# Return the resulting string.
+# Solve repeated substring pattern variant and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

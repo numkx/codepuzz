@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of add two same-length lists element-wise.
+# Add two same-length lists element-wise and return the result.
+#
+# Example: solve([1, 2], [3, 4]) -> [4, 6].
+# Example: solve([], []) -> [].
 #
 
 def solve(lst1, lst2):

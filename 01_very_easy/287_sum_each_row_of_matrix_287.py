@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of each row of matrix.
 #
+# Example: solve([[1, 2], [3, 4]]) -> 10.
+# Example: solve([[0]]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

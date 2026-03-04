@@ -4,6 +4,9 @@
 # Description:
 # Return the count of even digits in an integer.
 #
+# Example: solve(1234) -> 2.
+# Example: solve(0) -> 1.
+#
 
 def solve(n):
     """Implement the solution here."""

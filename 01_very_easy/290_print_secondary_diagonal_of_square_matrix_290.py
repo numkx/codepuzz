@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return secondary diagonal of square matrix.
+# Solve print secondary diagonal of square matrix and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [2, 3].
+# Example: solve([[5]]) -> [5].
 #
 
 def solve(lst):

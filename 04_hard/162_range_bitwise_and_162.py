@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, compute the bitwise AND for all numbers in the inclusive range.
-# Return the computed result.
+# Solve range bitwise and and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

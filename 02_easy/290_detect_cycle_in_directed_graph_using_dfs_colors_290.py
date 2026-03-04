@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given graph-style input and any required parameters, perform the required linked-list operation.
-# Return the computed result.
+# Solve detect cycle in directed graph using dfs colors and return the result.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, find smallest window containing all chars of pattern.
-# Return the computed result.
+# Return smallest window containing all chars of pattern.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

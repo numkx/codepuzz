@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve plus one and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 4].
+# Example: solve([4, 3, 2, 1]) -> [4, 3, 2, 2].
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Return the count of adjacent equal pairs.
 #
+# Example: solve([1, 1, 2, 2, 2]) -> 3.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

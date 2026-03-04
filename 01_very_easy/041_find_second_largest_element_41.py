@@ -4,6 +4,9 @@
 # Description:
 # Return second largest element.
 #
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([5, 5, 4]) -> 4.
+#
 
 def solve(lst):
     """Implement the solution here."""

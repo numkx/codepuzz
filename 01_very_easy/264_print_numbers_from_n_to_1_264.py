@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return numbers from n to 1.
+# Solve print numbers from n to 1 and return the result.
+#
+# Example: solve(1) -> [1].
+# Example: solve(3) -> [3, 2, 1].
 #
 
 def solve(n):

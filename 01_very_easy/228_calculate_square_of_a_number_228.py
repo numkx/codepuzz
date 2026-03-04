@@ -4,6 +4,9 @@
 # Description:
 # Calculate square of a number and return the result.
 #
+# Example: solve(3) -> 9.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

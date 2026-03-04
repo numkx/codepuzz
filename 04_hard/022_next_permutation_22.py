@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, transform the sequence into the next lexicographically greater permutation.
-# Return the resulting list/collection.
+# Solve next permutation and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

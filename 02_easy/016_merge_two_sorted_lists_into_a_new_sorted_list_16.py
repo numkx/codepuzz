@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, merge two sorted lists into a new sorted list.
-# Return the resulting list/collection.
+# Merge two sorted lists into a new sorted list and return the result.
+#
+# Example: solve([1, 3, 5], [2, 4, 6]) -> [1, 2, 3, 4, 5, 6].
+# Example: solve([], [1]) -> [1].
 #
 
 def solve(lst1, lst2):

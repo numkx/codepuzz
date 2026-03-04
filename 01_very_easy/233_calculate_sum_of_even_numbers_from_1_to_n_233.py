@@ -4,6 +4,9 @@
 # Description:
 # Calculate sum of even numbers from 1 to n and return the result.
 #
+# Example: solve(1) -> 0.
+# Example: solve(2) -> 2.
+#
 
 def solve(n):
     """Implement the solution here."""

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert snake_case to space separated words and return the converted value.
+# Convert snake_case to space separated words and return the result.
+#
+# Example: solve('AbC') -> 'abc'.
+# Example: solve('HELLO') -> 'hello'.
 #
 
 def solve(s):

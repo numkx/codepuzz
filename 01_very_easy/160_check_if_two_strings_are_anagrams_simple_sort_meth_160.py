@@ -4,6 +4,9 @@
 # Description:
 # Return True if two strings are anagrams, otherwise return False.
 #
+# Example: solve('listen', 'silent') -> True.
+# Example: solve('triangle', 'integral') -> True.
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

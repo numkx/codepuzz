@@ -4,6 +4,9 @@
 # Description:
 # Calculate average of n numbers and return the result.
 #
+# Example: solve([1, 2, 3]) -> 2.0.
+# Example: solve([5]) -> 5.0.
+#
 
 def solve(lst):
     """Implement the solution here."""

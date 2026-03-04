@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, check if it is a straight line.
-# Return True when the condition holds; otherwise return False.
+# Return True if it is a straight line, otherwise return False.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

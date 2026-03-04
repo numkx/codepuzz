@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, implement the required data-structure behavior.
-# Return the computed result.
+# Solve simulate queue of tasks with arrival and fixed service time and return the result.
+#
+# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
 
 def solve(t):

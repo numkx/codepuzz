@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a list of intervals and any required parameters, find right interval.
-# Return the resulting list/collection.
+# Return right interval.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

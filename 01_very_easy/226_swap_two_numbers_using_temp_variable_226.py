@@ -4,6 +4,9 @@
 # Description:
 # Swap two numbers using temp variable and return the result.
 #
+# Example: solve(2, 3) -> (3, 2).
+# Example: solve(-1, 1) -> (1, -1).
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

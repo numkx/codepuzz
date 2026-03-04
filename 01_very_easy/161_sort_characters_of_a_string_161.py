@@ -4,6 +4,9 @@
 # Description:
 # Sort characters of a string and return the result.
 #
+# Example: solve('cba') -> 'abc'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

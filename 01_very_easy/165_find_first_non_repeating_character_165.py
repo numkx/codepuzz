@@ -4,6 +4,9 @@
 # Description:
 # Return first non-repeating character.
 #
+# Example: solve('swiss') -> 'w'.
+# Example: solve('aabb') -> None.
+#
 
 def solve(s):
     """Implement the solution here."""

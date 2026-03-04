@@ -4,6 +4,9 @@
 # Description:
 # Keep every second character and return the result.
 #
+# Example: solve('abcdef') -> 'ace'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

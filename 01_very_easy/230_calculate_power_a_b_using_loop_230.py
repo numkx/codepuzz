@@ -4,6 +4,9 @@
 # Description:
 # Calculate power a^b using loop and return the result.
 #
+# Example: solve(2, 3) -> 8.
+# Example: solve(5, 0) -> 1.
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, remove duplicates from sorted array.
-# Return the resulting list/collection.
+# Remove duplicates from sorted array and return the result.
+#
+# Example: solve([1, 1, 2]) -> ([1, 2], 2).
+# Example: solve([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]) -> ([0, 1, 2, 3, 4], 5).
 #
 
 def solve(lst):

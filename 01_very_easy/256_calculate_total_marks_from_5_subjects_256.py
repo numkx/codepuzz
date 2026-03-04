@@ -4,6 +4,9 @@
 # Description:
 # Calculate total marks from 5 subjects and return the result.
 #
+# Example: solve([10, 20, 30, 40, 50]) -> 150.
+# Example: solve([0, 0, 0, 0, 0]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

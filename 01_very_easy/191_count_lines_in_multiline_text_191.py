@@ -4,6 +4,9 @@
 # Description:
 # Return the count of lines in multiline text.
 #
+# Example: solve('a\nb\nc') -> 3.
+# Example: solve('') -> 0.
+#
 
 def solve(s):
     """Implement the solution here."""

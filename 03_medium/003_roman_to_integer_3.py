@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, convert the Roman numeral to its integer value.
-# Return the resulting string.
+# Solve roman to integer and return the result.
+#
+# Example: solve('III') -> 3.
+# Example: solve('LVIII') -> 58.
 #
 
 def solve(s):

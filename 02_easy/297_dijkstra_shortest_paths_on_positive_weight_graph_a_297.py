@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given graph-style input and any required parameters, compute the required path-based result.
-# Return the computed result.
+# Solve dijkstra shortest paths on positive-weight graph and return the result.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

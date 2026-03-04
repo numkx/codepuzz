@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, find the minimum path sum.
-# Return the computed result.
+# Solve minimum path sum and return the result.
+#
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

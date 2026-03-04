@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given an array/list and any required parameters, check if output sequence is possible stack permutation.
-# Return True when the condition holds; otherwise return False.
+# Return True if output sequence is possible stack permutation, otherwise return False.
+#
+# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
 
 def solve(t):

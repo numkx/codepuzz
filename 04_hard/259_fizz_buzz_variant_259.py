@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, generate the fizz-buzz sequence for numbers from 1 to n.
-# Return the computed result.
+# Solve fizz buzz variant and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

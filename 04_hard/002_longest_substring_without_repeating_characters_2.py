@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary tree and any required parameters, find the length of the longest substring without repeated characters.
-# Return the resulting string.
+# Solve longest substring without repeating characters and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

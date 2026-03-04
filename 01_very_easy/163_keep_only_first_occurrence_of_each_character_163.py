@@ -4,6 +4,9 @@
 # Description:
 # Keep only first occurrence of each character and return the result.
 #
+# Example: solve('banana') -> 'ban'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, convert sentence to title case with stop-word exceptions.
-# Return the resulting string.
+# Convert sentence to title case with stop-word exceptions and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

@@ -4,6 +4,9 @@
 # Description:
 # Calculate factorial of n and return the result.
 #
+# Example: solve(0) -> 1.
+# Example: solve(1) -> 1.
+#
 
 def solve(n):
     """Implement the solution here."""

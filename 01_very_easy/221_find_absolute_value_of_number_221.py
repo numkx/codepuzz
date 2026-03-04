@@ -4,6 +4,9 @@
 # Description:
 # Return absolute value of number.
 #
+# Example: solve(5) -> 5.
+# Example: solve(-5) -> 5.
+#
 
 def solve(n):
     """Implement the solution here."""

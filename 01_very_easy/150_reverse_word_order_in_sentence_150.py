@@ -4,6 +4,9 @@
 # Description:
 # Reverse word order in sentence and return the result.
 #
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

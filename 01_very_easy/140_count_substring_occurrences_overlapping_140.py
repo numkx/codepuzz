@@ -4,6 +4,9 @@
 # Description:
 # Return the count of substring occurrences.
 #
+# Example: solve('abc') -> 3.
+# Example: solve('') -> 0.
+#
 
 def solve(s):
     """Implement the solution here."""

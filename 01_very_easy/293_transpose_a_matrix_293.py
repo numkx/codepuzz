@@ -4,6 +4,9 @@
 # Description:
 # Transpose a matrix and return the result.
 #
+# Example: solve([[1, 2, 3], [4, 5, 6]]) -> [[1, 4], [2, 5], [3, 6]].
+# Example: solve([[1]]) -> [[1]].
+#
 
 def solve(lst):
     """Implement the solution here."""

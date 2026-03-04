@@ -4,6 +4,9 @@
 # Description:
 # Return smallest character in string.
 #
+# Example: solve('bca') -> 'a'.
+# Example: solve('a') -> 'a'.
+#
 
 def solve(s):
     """Implement the solution here."""

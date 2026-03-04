@@ -4,6 +4,9 @@
 # Description:
 # Insert a value at the beginning of a list and return the result.
 #
+# Example: solve([1, 2, 3], 0) -> [0, 1, 2, 3].
+# Example: solve([], 5) -> [5].
+#
 
 def solve(lst, x):
     """Implement the solution here."""

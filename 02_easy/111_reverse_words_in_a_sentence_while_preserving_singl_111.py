@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, reverse words in a sentence while preserving single spaces.
-# Return the resulting string.
+# Reverse words in a sentence while preserving single spaces and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

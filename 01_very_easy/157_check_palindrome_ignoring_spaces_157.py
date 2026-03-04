@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check palindrome ignoring spaces.
+# Solve check palindrome ignoring spaces and return the result.
+#
+# Example: solve('n u r s e s r u n') -> True.
+# Example: solve('never odd or even') -> True.
 #
 
 def solve(s):

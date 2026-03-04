@@ -4,6 +4,9 @@
 # Description:
 # Lowercase first letter of each word and return the result.
 #
+# Example: solve('Hello World') -> 'hello world'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

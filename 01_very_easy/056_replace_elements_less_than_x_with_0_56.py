@@ -4,6 +4,9 @@
 # Description:
 # Replace elements less than x with 0 and return the result.
 #
+# Example: solve([1, 5, 3], 3) -> [0, 5, 3].
+# Example: solve([], 1) -> [].
+#
 
 def solve(lst, n):
     """Implement the solution here."""

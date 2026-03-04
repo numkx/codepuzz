@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, remove extra spaces and normalize to single spaces.
-# Return the computed result.
+# Remove extra spaces and normalize to single spaces and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

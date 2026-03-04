@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check if two numbers are coprime.
-# Return the computed result.
+# Return True if two numbers are coprime, otherwise return False.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

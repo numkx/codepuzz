@@ -4,6 +4,9 @@
 # Description:
 # Insert a value at the end of a list and return the result.
 #
+# Example: solve([1, 2, 3], 0) -> [1, 2, 3, 0].
+# Example: solve([], 5) -> [5].
+#
 
 def solve(lst, x):
     """Implement the solution here."""

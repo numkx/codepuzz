@@ -4,6 +4,9 @@
 # Description:
 # Return True if two lists have any common element, otherwise return False.
 #
+# Example: solve([1, 2, 3]) -> True.
+# Example: solve([]) -> True.
+#
 
 def solve(lst):
     """Implement the solution here."""

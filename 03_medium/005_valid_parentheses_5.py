@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve valid parentheses and return the result.
+#
+# Example: solve('()') -> True.
+# Example: solve('()[]{}') -> True.
 #
 
 def solve(s):

@@ -4,6 +4,9 @@
 # Description:
 # Keep only last occurrence of each character and return the result.
 #
+# Example: solve('banana') -> 'bna'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

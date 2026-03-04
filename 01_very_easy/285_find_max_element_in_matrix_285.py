@@ -4,6 +4,9 @@
 # Description:
 # Return max element in matrix.
 #
+# Example: solve([[1, 2], [3, 4]]) -> 4.
+# Example: solve([[1]]) -> 1.
+#
 
 def solve(lst):
     """Implement the solution here."""

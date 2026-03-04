@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, merge sorted array.
-# Return the resulting list/collection.
+# Merge sorted array variant and return the result.
+#
+# Example: solve([1, 3, 5], [2, 4, 6]) -> [1, 2, 3, 4, 5, 6].
+# Example: solve([], [1]) -> [1].
 #
 
 def solve(lst1, lst2):

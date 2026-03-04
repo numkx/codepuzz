@@ -4,6 +4,9 @@
 # Description:
 # Delete first element of a list and return the result.
 #
+# Example: solve([1, 2, 3]) -> [2, 3].
+# Example: solve([5]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

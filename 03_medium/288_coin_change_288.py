@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve coin change and return the result.
+#
+# Example: solve([1, 2, 5], 11) -> 3.
+# Example: solve([2], 3) -> -1.
 #
 
 def solve(lst, n):

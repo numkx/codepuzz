@@ -4,6 +4,9 @@
 # Description:
 # Calculate cube of a number and return the result.
 #
+# Example: solve(3) -> 27.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

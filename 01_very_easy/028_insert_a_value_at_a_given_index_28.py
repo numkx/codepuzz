@@ -4,6 +4,9 @@
 # Description:
 # Insert a value at a given index and return the result.
 #
+# Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
+# Example: solve([], 0, 5) -> [5].
+#
 
 def solve(lst, n, x):
     """Implement the solution here."""

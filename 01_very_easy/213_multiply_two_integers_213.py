@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of multiply two integers.
+# Multiply two integers and return the result.
+#
+# Example: solve(2, 3) -> 6.
+# Example: solve(-1, 1) -> -1.
 #
 
 def solve(n1, n2):

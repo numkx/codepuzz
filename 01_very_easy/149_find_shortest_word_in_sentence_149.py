@@ -4,6 +4,9 @@
 # Description:
 # Return shortest word in sentence.
 #
+# Example: solve('a bb ccc') -> 'a'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, find the index of the first occurrence in a string.
-# Return the resulting string.
+# Return the index of the first occurrence in a string.
+#
+# Example: solve('sadbutsad', 'sad') -> 0.
+# Example: solve('leetcode', 'leeto') -> -1.
 #
 
 def solve(s1, s2):

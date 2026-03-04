@@ -4,6 +4,9 @@
 # Description:
 # Return the count of negative numbers in a list.
 #
+# Example: solve([-1, 0, 1, 2]) -> 1.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

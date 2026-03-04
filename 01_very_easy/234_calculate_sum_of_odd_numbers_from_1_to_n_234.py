@@ -4,6 +4,9 @@
 # Description:
 # Calculate sum of odd numbers from 1 to n and return the result.
 #
+# Example: solve(1) -> 1.
+# Example: solve(2) -> 1.
+#
 
 def solve(n):
     """Implement the solution here."""

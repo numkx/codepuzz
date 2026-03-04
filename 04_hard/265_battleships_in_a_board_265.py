@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, perform the required matrix/grid operation.
-# Return the computed result.
+# Solve battleships in a board and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

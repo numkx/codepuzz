@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve flood fill and return the result.
+#
+# Example: solve([[1, 1, 1], [1, 1, 0], [1, 0, 1]], 1, 1, 2) -> [[2, 2, 2], [2, 2, 0], [2, 0, 1]].
+# Example: solve([[0, 0, 0], [0, 0, 0]], 0, 0, 0) -> [[0, 0, 0], [0, 0, 0]].
 #
 
 def solve(lst, n1, n2, n3):

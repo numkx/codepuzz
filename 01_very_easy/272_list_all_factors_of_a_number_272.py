@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return list all factors of a number.
+# Solve list all factors of a number and return the result.
+#
+# Example: solve(1) -> [1].
+# Example: solve(6) -> [1, 2, 3, 6].
 #
 
 def solve(n):

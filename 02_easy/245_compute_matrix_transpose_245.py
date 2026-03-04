@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, compute matrix transpose.
-# Return the computed result.
+# Solve compute matrix transpose and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 3], [2, 4]].
+# Example: solve([[1]]) -> [[1]].
 #
 
 def solve(lst):

@@ -4,6 +4,9 @@
 # Description:
 # Return True if a value exists in a list, otherwise return False.
 #
+# Example: solve([1, 2, 3], 2) -> True.
+# Example: solve([1, 2, 3], 4) -> False.
+#
 
 def solve(lst, x):
     """Implement the solution here."""

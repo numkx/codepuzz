@@ -4,6 +4,9 @@
 # Description:
 # Return the count of elements less than x.
 #
+# Example: solve([1, 2, 3], 2) -> 1.
+# Example: solve([], 1) -> 0.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

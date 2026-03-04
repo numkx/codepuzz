@@ -4,6 +4,9 @@
 # Description:
 # Return the count of odd digits in an integer.
 #
+# Example: solve(1234) -> 2.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

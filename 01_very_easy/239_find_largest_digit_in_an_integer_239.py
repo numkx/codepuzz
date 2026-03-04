@@ -4,6 +4,9 @@
 # Description:
 # Return largest digit in an integer.
 #
+# Example: solve(123) -> 3.
+# Example: solve(0) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

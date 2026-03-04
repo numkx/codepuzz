@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the resulting list/collection.
+# Solve reorder list by alternating smallest, largest, second smallest... and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

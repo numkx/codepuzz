@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create list of first n even numbers and return it.
+# Create list of first n even numbers and return the result.
+#
+# Example: solve(5) -> [2, 4, 6, 8, 10].
+# Example: solve(1) -> [2].
 #
 
 def solve(n):

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of add two integers.
+# Add two integers and return the result.
+#
+# Example: solve(2, 3) -> 5.
+# Example: solve(-1, 1) -> 0.
 #
 
 def solve(n1, n2):

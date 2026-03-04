@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, find the length of the longest valid parentheses substring.
-# Return True when the condition holds; otherwise return False.
+# Solve longest valid parentheses and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

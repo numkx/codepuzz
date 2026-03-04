@@ -4,6 +4,9 @@
 # Description:
 # Return all odd-indexed elements.
 #
+# Example: solve([1, 2, 3, 4]) -> [2, 4].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

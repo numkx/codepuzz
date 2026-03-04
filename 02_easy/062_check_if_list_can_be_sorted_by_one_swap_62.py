@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check if list can be sorted by one swap.
-# Return True when the condition holds; otherwise return False.
+# Return True if list can be sorted by one swap, otherwise return False.
+#
+# Example: solve([1, 2, 3]) -> True.
+# Example: solve([]) -> True.
 #
 
 def solve(lst):

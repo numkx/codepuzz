@@ -4,6 +4,9 @@
 # Description:
 # Keep only numeric characters and return the result.
 #
+# Example: solve('a1b2!') -> '12'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

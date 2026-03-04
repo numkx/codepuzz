@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create list of first n odd numbers and return it.
+# Create list of first n odd numbers and return the result.
+#
+# Example: solve(5) -> [1, 3, 5, 7, 9].
+# Example: solve(1) -> [1].
 #
 
 def solve(n):

@@ -4,6 +4,9 @@
 # Description:
 # Return True if year is leap year, otherwise return False.
 #
+# Example: solve(2000) -> True.
+# Example: solve(1900) -> False.
+#
 
 def solve(n):
     """Implement the solution here."""

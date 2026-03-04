@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find the longest unequal adjacent groups subsequence i.
-# Return True when the condition holds; otherwise return False.
+# Solve longest unequal adjacent groups subsequence i and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

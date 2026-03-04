@@ -4,6 +4,9 @@
 # Description:
 # Remove last digit from integer and return the result.
 #
+# Example: solve(123) -> 12.
+# Example: solve(5) -> 0.
+#
 
 def solve(n):
     """Implement the solution here."""

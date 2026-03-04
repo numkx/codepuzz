@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, remove duplicates from an unsorted list while preserving order.
-# Return the resulting list/collection.
+# Remove duplicates from an unsorted list while preserving order and return the result.
+#
+# Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

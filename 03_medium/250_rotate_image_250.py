@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, rotate the square matrix by 90 degrees.
-# Return the computed result.
+# Rotate image and return the result.
+#
+# Example: solve([1, 2, 3, 4], 1) -> [2, 3, 4, 1].
+# Example: solve([1], 3) -> [1].
 #
 
 def solve(lst, n):

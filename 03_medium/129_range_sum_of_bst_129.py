@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a binary tree and any required parameters, perform the required tree operation.
-# Return the computed result.
+# Solve range sum of bst and return the result.
+#
+# Example: solve([1, 2, 3]) -> 2.
+# Example: solve([]) -> 0.
 #
 
 def solve(lst):

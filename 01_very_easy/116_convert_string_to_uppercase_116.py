@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert string to uppercase and return the converted value.
+# Convert string to uppercase and return the result.
+#
+# Example: solve('hello') -> 'HELLO'.
+# Example: solve('AbC') -> 'ABC'.
 #
 
 def solve(s):

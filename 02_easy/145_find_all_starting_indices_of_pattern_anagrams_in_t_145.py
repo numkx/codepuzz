@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, find all starting indices of pattern anagrams in text.
-# Return True when the condition holds; otherwise return False.
+# Return all starting indices of pattern anagrams in text.
+#
+# Example: solve('abba') -> True.
+# Example: solve('abc') -> False.
 #
 
 def solve(s):

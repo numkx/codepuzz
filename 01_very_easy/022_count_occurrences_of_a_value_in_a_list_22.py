@@ -4,6 +4,9 @@
 # Description:
 # Return the count of occurrences of a value in a list.
 #
+# Example: solve([1, 2, 2, 3], 2) -> 2.
+# Example: solve([5, 5, 5], 5) -> 3.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

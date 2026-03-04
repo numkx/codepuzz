@@ -4,6 +4,9 @@
 # Description:
 # Return minimum element in a list.
 #
+# Example: solve([1, 2, 3]) -> 1.
+# Example: solve([-1, -5, -3]) -> -5.
+#
 
 def solve(lst):
     """Implement the solution here."""

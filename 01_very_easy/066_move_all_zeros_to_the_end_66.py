@@ -4,6 +4,9 @@
 # Description:
 # Move all zeros to the end and return the result.
 #
+# Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

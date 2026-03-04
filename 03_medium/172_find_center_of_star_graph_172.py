@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given graph-style input and any required parameters, find center of star graph.
-# Return the computed result.
+# Return center of star graph.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

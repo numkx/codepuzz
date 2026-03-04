@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return all even numbers from 1 to n.
+# Solve print all even numbers from 1 to n and return the result.
+#
+# Example: solve(1) -> [].
+# Example: solve(2) -> [2].
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a string (or strings) and any required parameters, find the minimum add to make parentheses valid.
-# Return True when the condition holds; otherwise return False.
+# Solve minimum add to make parentheses valid and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

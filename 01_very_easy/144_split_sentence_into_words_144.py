@@ -4,6 +4,9 @@
 # Description:
 # Split sentence into words and return the result.
 #
+# Example: solve('a b c') -> ['a', 'b', 'c'].
+# Example: solve('') -> [].
+#
 
 def solve(s):
     """Implement the solution here."""

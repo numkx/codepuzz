@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert string to lowercase and return the converted value.
+# Convert string to lowercase and return the result.
+#
+# Example: solve('HELLO') -> 'hello'.
+# Example: solve('AbC') -> 'abc'.
 #
 
 def solve(s):

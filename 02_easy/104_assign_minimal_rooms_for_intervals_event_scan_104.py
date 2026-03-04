@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a list of intervals and any required parameters, apply the required algorithm for this problem.
-# Return the resulting list/collection.
+# Solve assign minimal rooms for intervals and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, return all triplets where values are strictly increasing.
-# Return the computed result.
+# Return all triplets where values are strictly increasing.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

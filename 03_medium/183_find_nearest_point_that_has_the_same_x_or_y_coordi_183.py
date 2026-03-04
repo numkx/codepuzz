@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, find nearest point that has the same x or y coordinate.
-# Return the computed result.
+# Return nearest point that has the same x or y coordinate.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

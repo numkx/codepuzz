@@ -4,6 +4,9 @@
 # Description:
 # Rotate list left by k and return the result.
 #
+# Example: solve([1, 2, 3], 1) -> [2, 3, 1].
+# Example: solve([], 1) -> [].
+#
 
 def solve(lst, n):
     """Implement the solution here."""

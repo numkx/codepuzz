@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given an array/list and any required parameters, find the minimum moves to equal array elements.
-# Return True when the condition holds; otherwise return False.
+# Solve minimum moves to equal array elements and return the result.
+#
+# Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

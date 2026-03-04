@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check divisibility by 2.
+# Solve check divisibility by 2 and return the result.
+#
+# Example: solve(2) -> True.
+# Example: solve(3) -> False.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check armstrong number for arbitrary digit length.
-# Return the computed result.
+# Solve check armstrong number for arbitrary digit length and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

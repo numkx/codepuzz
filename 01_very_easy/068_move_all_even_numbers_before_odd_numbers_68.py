@@ -4,6 +4,9 @@
 # Description:
 # Move all even numbers before odd numbers and return the result.
 #
+# Example: solve([1, 2, 3, 4]) -> [2, 4, 1, 3].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

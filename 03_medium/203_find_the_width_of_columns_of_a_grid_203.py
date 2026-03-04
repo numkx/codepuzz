@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a 2D grid/matrix and any required parameters, find the width of columns of a grid.
-# Return the computed result.
+# Return the width of columns of a grid.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Example: solve([[0]]) -> [[0]].
 #
 
 def solve(lst):

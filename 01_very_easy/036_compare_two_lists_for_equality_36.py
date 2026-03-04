@@ -4,6 +4,9 @@
 # Description:
 # Compare two lists for equality and return the result.
 #
+# Example: solve([1, 2], [1, 2]) -> True.
+# Example: solve([1, 2], [2, 1]) -> False.
+#
 
 def solve(lst1, lst2):
     """Implement the solution here."""

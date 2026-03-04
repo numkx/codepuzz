@@ -4,6 +4,9 @@
 # Description:
 # Swap two given indices in a list and return the result.
 #
+# Example: solve([1, 2, 3], 0, 2) -> [3, 2, 1].
+# Example: solve([5, 6], 0, 1) -> [6, 5].
+#
 
 def solve(lst, n1, n2):
     """Implement the solution here."""

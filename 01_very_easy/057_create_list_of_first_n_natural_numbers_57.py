@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create list of first n natural numbers and return it.
+# Create list of first n natural numbers and return the result.
+#
+# Example: solve(5) -> [1, 2, 3, 4, 5].
+# Example: solve(1) -> [1].
 #
 
 def solve(n):

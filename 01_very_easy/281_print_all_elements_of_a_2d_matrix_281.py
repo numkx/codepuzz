@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return all elements of a 2d matrix.
+# Solve print all elements of a 2d matrix and return the result.
+#
+# Example: solve([[1, 2], [3, 4]]) -> [1, 2, 3, 4].
+# Example: solve([[1]]) -> [1].
 #
 
 def solve(lst):

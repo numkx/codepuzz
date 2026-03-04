@@ -4,6 +4,9 @@
 # Description:
 # Reverse digits of an integer and return the result.
 #
+# Example: solve(123) -> 321.
+# Example: solve(-123) -> -321.
+#
 
 def solve(n):
     """Implement the solution here."""

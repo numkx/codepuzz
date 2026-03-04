@@ -4,6 +4,9 @@
 # Description:
 # Remove duplicate elements and return the result.
 #
+# Example: solve([1, 2, 2, 3, 1]) -> [1, 2, 3].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

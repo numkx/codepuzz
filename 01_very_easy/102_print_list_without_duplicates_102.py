@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return list without duplicates.
+# Solve print list without duplicates and return the result.
+#
+# Example: solve([1, 2, 2, 3, 1]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

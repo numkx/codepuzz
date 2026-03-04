@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a linked list and any required parameters, check whether the condition is satisfied.
-# Return True when the condition holds; otherwise return False.
+# Solve palindrome linked list and return the result.
+#
+# Example: solve('hello') -> 'hello'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

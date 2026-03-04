@@ -4,6 +4,9 @@
 # Description:
 # Return smaller of two numbers.
 #
+# Example: solve(2, 3) -> 2.
+# Example: solve(3, 2) -> 2.
+#
 
 def solve(n1, n2):
     """Implement the solution here."""

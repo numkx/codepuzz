@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is prime, otherwise return False.
 #
+# Example: solve(2) -> True.
+# Example: solve(3) -> True.
+#
 
 def solve(n):
     """Implement the solution here."""

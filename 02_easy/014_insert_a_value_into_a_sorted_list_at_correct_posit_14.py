@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, insert a value into a sorted list at correct position.
-# Return the resulting list/collection.
+# Insert a value into a sorted list at correct position and return the result.
+#
+# Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
+# Example: solve([], 0, 5) -> [5].
 #
 
 def solve(lst, n1, n2):

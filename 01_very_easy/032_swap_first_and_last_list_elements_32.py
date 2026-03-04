@@ -4,6 +4,9 @@
 # Description:
 # Swap first and last list elements and return the result.
 #
+# Example: solve([1, 2, 3]) -> [3, 2, 1].
+# Example: solve([5]) -> [5].
+#
 
 def solve(lst):
     """Implement the solution here."""

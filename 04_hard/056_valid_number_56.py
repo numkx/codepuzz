@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, determine whether the string represents a valid numeric value.
-# Return True when the condition holds; otherwise return False.
+# Solve valid number and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

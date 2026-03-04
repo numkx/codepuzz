@@ -4,6 +4,9 @@
 # Description:
 # Return nearest value to target.
 #
+# Example: solve([1, 4, 7], 5) -> 4.
+# Example: solve([1, 4, 7], 6) -> 7.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

@@ -4,6 +4,9 @@
 # Description:
 # Sort a list ascending and return the result.
 #
+# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Example: solve([]) -> [].
+#
 
 def solve(lst):
     """Implement the solution here."""

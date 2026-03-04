@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a linked list and any required parameters, remove the nth node from the end of the list.
-# Return the resulting list/collection.
+# Remove nth node from end of list and return the result.
+#
+# Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

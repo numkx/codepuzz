@@ -4,6 +4,9 @@
 # Description:
 # Return largest element index.
 #
+# Example: solve([3, 1, 2]) -> 0.
+# Example: solve([5]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

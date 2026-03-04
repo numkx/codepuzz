@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an array/list and any required parameters, rotate array.
-# Return the resulting list/collection.
+# Rotate array and return the result.
+#
+# Example: solve([1, 2, 3, 4], 1) -> [2, 3, 4, 1].
+# Example: solve([1], 3) -> [1].
 #
 
 def solve(lst, n):

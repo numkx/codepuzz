@@ -4,6 +4,9 @@
 # Description:
 # Return the count of distinct elements in a list.
 #
+# Example: solve([1, 2, 2, 3]) -> 4.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

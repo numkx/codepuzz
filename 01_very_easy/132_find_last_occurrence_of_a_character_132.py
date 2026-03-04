@@ -4,6 +4,9 @@
 # Description:
 # Return last occurrence of a character.
 #
+# Example: solve('banana', 'a') -> 5.
+# Example: solve('abc', 'd') -> -1.
+#
 
 def solve(s1, s2):
     """Implement the solution here."""

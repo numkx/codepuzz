@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of elements at even indices.
 #
+# Example: solve([1, 2, 3, 4]) -> 4.
+# Example: solve([]) -> 0.
+#
 
 def solve(lst):
     """Implement the solution here."""

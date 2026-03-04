@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, check if all tasks can be completed given prerequisites.
-# Return True when the condition holds; otherwise return False.
+# Return True if all tasks can be completed given prerequisites, otherwise return False.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

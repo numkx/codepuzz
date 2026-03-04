@@ -4,6 +4,9 @@
 # Description:
 # Mask all but last 4 characters of a string and return the result.
 #
+# Example: solve('12345678') -> '****5678'.
+# Example: solve('1234') -> '1234'.
+#
 
 def solve(s):
     """Implement the solution here."""

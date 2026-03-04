@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a linked list and any required parameters, apply the required algorithm for this problem.
-# Return the computed result.
+# Swap nodes in pairs and return the result.
+#
+# Example: solve([1, 2, 3]) -> [1, 2, 3].
+# Example: solve([]) -> [].
 #
 
 def solve(lst):

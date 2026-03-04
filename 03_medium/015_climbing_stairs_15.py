@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the provided input, apply the required algorithm for this problem.
-# Return the computed result.
+# Solve climbing stairs and return the result.
+#
+# Example: solve(1) -> 1.
+# Example: solve(2) -> 2.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, convert 24-hour time to 12-hour format.
-# Return the computed result.
+# Convert 24-hour time to 12-hour format and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given graph-style input and any required parameters, perform the required linked-list operation.
-# Return the computed result.
+# Solve detect cycle in undirected graph using dfs parent tracking and return the result.
+#
+# Example: solve((3, [[0, 1], [1, 2]])) -> True.
+# Example: solve((3, [[0, 1]])) -> False.
 #
 
 def solve(t):

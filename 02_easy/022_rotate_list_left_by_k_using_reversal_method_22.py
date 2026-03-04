@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the provided input, rotate list left by k using reversal method.
-# Return the resulting list/collection.
+# Rotate list left by k using reversal method and return the result.
+#
+# Example: solve([1, 2, 3, 4], 1) -> [2, 3, 4, 1].
+# Example: solve([1], 3) -> [1].
 #
 
 def solve(lst, n):

@@ -4,6 +4,9 @@
 # Description:
 # Duplicate every character in string and return the result.
 #
+# Example: solve('ab') -> 'aabb'.
+# Example: solve('') -> ''.
+#
 
 def solve(s):
     """Implement the solution here."""

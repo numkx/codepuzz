@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert kilometers to miles and return the converted value.
+# Convert kilometers to miles and return the result.
+#
+# Example: solve(1) -> 0.621371.
+# Example: solve(0) -> 0.0.
 #
 
 def solve(n):

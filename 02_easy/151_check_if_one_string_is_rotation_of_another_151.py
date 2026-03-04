@@ -2,8 +2,10 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a string (or strings) and any required parameters, check if one string is rotation of another.
-# Return True when the condition holds; otherwise return False.
+# Return True if one string is rotation of another, otherwise return False.
+#
+# Example: solve('abba') -> True.
+# Example: solve('abc') -> False.
 #
 
 def solve(s):

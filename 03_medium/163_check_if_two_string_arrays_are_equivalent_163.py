@@ -2,8 +2,10 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a string (or strings) and any required parameters, check if two string arrays are equivalent.
-# Return the resulting list/collection.
+# Return True if two string arrays are equivalent, otherwise return False.
+#
+# Example: solve('abba') -> True.
+# Example: solve('abc') -> False.
 #
 
 def solve(s):

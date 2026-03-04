@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the result of multiply matrix by scalar value.
+# Multiply matrix by scalar value and return the result.
+#
+# Example: solve([[1, 2], [3, 4]], 2) -> [[2, 4], [6, 8]].
+# Example: solve([[1]], 0) -> [[0]].
 #
 
 def solve(lst, n):

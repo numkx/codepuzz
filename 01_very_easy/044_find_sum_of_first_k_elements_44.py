@@ -4,6 +4,9 @@
 # Description:
 # Return sum of first k elements.
 #
+# Example: solve([1, 2, 3, 4], 2) -> 3.
+# Example: solve([1, 2, 3], 0) -> 0.
+#
 
 def solve(lst, n):
     """Implement the solution here."""

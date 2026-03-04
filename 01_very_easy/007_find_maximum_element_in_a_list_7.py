@@ -4,6 +4,9 @@
 # Description:
 # Return maximum element in a list.
 #
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve([-1, -5, -3]) -> -1.
+#
 
 def solve(lst):
     """Implement the solution here."""

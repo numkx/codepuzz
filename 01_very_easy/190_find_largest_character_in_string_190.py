@@ -4,6 +4,9 @@
 # Description:
 # Return largest character in string.
 #
+# Example: solve('bca') -> 'c'.
+# Example: solve('a') -> 'a'.
+#
 
 def solve(s):
     """Implement the solution here."""

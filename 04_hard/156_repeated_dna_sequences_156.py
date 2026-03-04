@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, find all 10-letter-long DNA sequences that occur more than once.
-# Return the computed result.
+# Solve repeated dna sequences and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

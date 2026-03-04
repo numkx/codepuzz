@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return check divisibility by 9.
+# Solve check divisibility by 9 and return the result.
+#
+# Example: solve(9) -> True.
+# Example: solve(10) -> False.
 #
 
 def solve(n):

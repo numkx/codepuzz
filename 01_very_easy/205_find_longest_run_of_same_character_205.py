@@ -4,6 +4,9 @@
 # Description:
 # Return longest run of same character.
 #
+# Example: solve('aaabbc') -> 3.
+# Example: solve('') -> 0.
+#
 
 def solve(s):
     """Implement the solution here."""

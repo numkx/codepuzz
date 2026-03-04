@@ -4,6 +4,9 @@
 # Description:
 # Return the count of factors of a number.
 #
+# Example: solve(1) -> 1.
+# Example: solve(6) -> 4.
+#
 
 def solve(n):
     """Implement the solution here."""

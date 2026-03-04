@@ -4,6 +4,9 @@
 # Description:
 # Return True if string is palindrome, otherwise return False.
 #
+# Example: solve('racecar') -> True.
+# Example: solve('abba') -> True.
+#
 
 def solve(s):
     """Implement the solution here."""

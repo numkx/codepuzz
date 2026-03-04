@@ -2,8 +2,10 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the provided input, evaluate the expression containing +, -, *, and / with integer truncation.
-# Return the computed result.
+# Solve basic calculator ii and return the result.
+#
+# Example: solve(5) -> 5.
+# Example: solve(0) -> 0.
 #
 
 def solve(n):

@@ -2,7 +2,10 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return string in reverse.
+# Solve print string in reverse and return the result.
+#
+# Example: solve('hello') -> 'olleh'.
+# Example: solve('') -> ''.
 #
 
 def solve(s):

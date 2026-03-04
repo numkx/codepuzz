@@ -4,6 +4,9 @@
 # Description:
 # Return last element of a list.
 #
+# Example: solve([1, 2, 3]) -> 3.
+# Example: solve(['a', 'b']) -> 'b'.
+#
 
 def solve(lst):
     """Implement the solution here."""
