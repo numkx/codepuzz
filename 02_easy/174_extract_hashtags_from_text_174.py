@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve extract hashtags from text and return the result.
+# Return extract hashtags from text.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

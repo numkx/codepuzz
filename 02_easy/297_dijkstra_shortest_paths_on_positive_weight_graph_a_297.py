@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve dijkstra shortest paths on positive-weight graph and return the result.
+# Return dijkstra shortest paths on positive-weight graph.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

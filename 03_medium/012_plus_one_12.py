@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve plus one and return the result.
+# Return plus one.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 4].
 # Example: solve([4, 3, 2, 1]) -> [4, 3, 2, 2].

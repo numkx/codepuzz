@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Build trie for lowercase words and return the result.
+# Perform the required string operation for "build trie for lowercase words" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

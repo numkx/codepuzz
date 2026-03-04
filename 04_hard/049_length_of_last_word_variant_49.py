@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve length of last word variant and return the result.
+# Perform the required string operation for "length of last word" and return the result.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

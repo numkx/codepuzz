@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve single number iii and return the result.
+# Return the two elements that appear once when all others appear twice.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

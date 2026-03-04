@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve length of last word and return the result.
+# Perform the required string operation for "length of last word" and return the result.
 #
 # Example: solve('Hello World') -> 5.
 # Example: solve('   fly me   to   the moon  ') -> 4.

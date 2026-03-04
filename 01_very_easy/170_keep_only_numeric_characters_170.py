@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Keep only numeric characters and return the result.
+# Return keep only numeric characters.
 #
 # Example: solve('a1b2!') -> '12'.
 # Example: solve('') -> ''.

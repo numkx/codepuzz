@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Generate parentheses and return the result.
+# Return all combinations of well-formed parentheses for n pairs.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

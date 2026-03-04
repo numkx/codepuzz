@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve search insert position variant and return the result.
+# Return search insert position.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve compress repeated chars as char+count and return the result.
+# Return compress repeated chars as char+count.
 #
 # Example: solve('aaabb') -> 'a3b2'.
 # Example: solve('a') -> 'a1'.

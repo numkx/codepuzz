@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve jump game ii and return the result.
+# Return the minimum number of jumps required to reach the last index.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

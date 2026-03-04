@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Interleave two equal-length lists and return the result.
+# Return the interleave two equal-length lists.
 #
 # Example: solve([1, 2], [3, 4]) -> [1, 3, 2, 4].
 # Example: solve([], []) -> [].

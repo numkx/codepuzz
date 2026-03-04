@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve intersection of two arrays and return the result.
+# Compute the required array/list result for "intersection of two arrays" and return it.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

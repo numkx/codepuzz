@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Add strings variant and return the result.
+# Add strings and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

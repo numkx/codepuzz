@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve copy list with random pointer and return the result.
+# Return a deep copy of a linked list where each node has next and random pointers.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

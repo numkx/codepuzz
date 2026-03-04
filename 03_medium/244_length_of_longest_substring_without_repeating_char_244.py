@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve length of longest substring without repeating characters and return the result.
+# Perform the required string operation for "length of longest substring without repeating characters" and return the result.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

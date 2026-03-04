@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert snake_case identifier to camelcase and return the result.
+# Convert snake_case identifier to camelcase and return the converted result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

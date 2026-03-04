@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve path sum ii and return the result.
+# Return all root-to-leaf paths whose node values sum to the target.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

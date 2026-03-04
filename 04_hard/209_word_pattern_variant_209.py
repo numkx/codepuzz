@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve word pattern variant and return the result.
+# Perform the required string operation for "word pattern" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

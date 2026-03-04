@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert string to lowercase and return the result.
+# Convert string to lowercase and return the converted result.
 #
 # Example: solve('HELLO') -> 'hello'.
 # Example: solve('AbC') -> 'abc'.

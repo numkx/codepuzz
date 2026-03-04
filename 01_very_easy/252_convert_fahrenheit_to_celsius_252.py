@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert fahrenheit to celsius and return the result.
+# Convert fahrenheit to celsius and return the converted result.
 #
 # Example: solve(32) -> 0.0.
 # Example: solve(212) -> 100.0.

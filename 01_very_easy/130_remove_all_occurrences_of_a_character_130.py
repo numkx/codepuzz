@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Remove all occurrences of a character and return the result.
+# Remove all occurrences of a character and return the updated result.
 #
 # Example: solve('a b c') -> 'abc'.
 # Example: solve('') -> ''.

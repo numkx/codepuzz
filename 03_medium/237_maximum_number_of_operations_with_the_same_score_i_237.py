@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve maximum number of operations with the same score i and return the result.
+# Return the maximum number of operations with the same score i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

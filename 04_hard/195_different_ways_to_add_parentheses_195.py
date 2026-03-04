@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve different ways to add parentheses and return the result.
+# Return all possible results from computing the expression with different parenthesizations.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

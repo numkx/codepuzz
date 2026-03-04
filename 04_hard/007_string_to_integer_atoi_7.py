@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve string to integer atoi and return the result.
+# Parse the string like atoi and return the clamped 32-bit signed integer result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

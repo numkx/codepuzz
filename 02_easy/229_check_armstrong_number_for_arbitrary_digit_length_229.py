@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve check armstrong number for arbitrary digit length and return the result.
+# Return True when armstrong number for arbitrary digit length, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve sqrt x variant and return the result.
+# Return sqrt x.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

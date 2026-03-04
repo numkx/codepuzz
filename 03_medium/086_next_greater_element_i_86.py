@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve next greater element i and return the result.
+# Return next greater element i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

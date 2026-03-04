@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve to lower case and return the result.
+# Return to lower case.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

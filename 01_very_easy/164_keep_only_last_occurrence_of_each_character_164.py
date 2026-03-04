@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Keep only last occurrence of each character and return the result.
+# Return keep only last occurrence of each character.
 #
 # Example: solve('banana') -> 'bna'.
 # Example: solve('') -> ''.

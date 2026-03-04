@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute median of two already sorted lists and return the result.
+# Return compute median of two already sorted lists.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

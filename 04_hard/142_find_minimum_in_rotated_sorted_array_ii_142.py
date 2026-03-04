@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return minimum in rotated sorted array 2.
+# Return minimum in rotated sorted array ii.
 #
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.

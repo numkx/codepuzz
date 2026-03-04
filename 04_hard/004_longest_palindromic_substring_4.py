@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve longest palindromic substring and return the result.
+# Given a string, return the longest palindromic substring.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

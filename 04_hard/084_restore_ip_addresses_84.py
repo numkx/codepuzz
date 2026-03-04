@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve restore ip addresses and return the result.
+# Return all possible valid IP addresses that can be formed from the string.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

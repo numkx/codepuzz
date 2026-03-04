@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve decompress char+count encoded text and return the result.
+# Return decompress char+count encoded text.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

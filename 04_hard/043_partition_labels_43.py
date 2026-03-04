@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve partition labels and return the result.
+# Partition the string so each character appears in at most one part and return the part sizes.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

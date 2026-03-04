@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve reorder list and return the result.
+# Return reorder list.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

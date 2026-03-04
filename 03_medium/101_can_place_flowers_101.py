@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve can place flowers and return the result.
+# Return can place flowers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

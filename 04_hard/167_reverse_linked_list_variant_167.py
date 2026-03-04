@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse linked list variant and return the result.
+# Reverse linked list and return the result.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve course schedule ii and return the result.
+# Return one valid order to finish all courses, or an empty list if impossible.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve square each list element and return the result.
+# Return square each list element.
 #
 # Example: solve([1, 2, 3]) -> [1, 4, 9].
 # Example: solve([]) -> [].

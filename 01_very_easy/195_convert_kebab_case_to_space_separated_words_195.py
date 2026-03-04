@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert kebab-case to space separated words and return the result.
+# Convert kebab-case to space separated words and return the converted result.
 #
 # Example: solve('AbC') -> 'abc'.
 # Example: solve('HELLO') -> 'hello'.

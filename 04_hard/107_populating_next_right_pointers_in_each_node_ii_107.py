@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve populating next right pointers in each node ii and return the result.
+# Return populating next right pointers in each node ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

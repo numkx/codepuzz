@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Generate first n perfect squares and return the result.
+# Generate first n perfect squares and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

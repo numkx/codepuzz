@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse integer and return the result.
+# Reverse the digits of the integer and return 0 if the reversed value overflows 32-bit signed range.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

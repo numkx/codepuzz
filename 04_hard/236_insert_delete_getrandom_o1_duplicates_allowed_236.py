@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Insert delete getrandom o1 duplicates allowed and return the result.
+# Insert delete getrandom o1 duplicates allowed and return the updated result.
 #
 # Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
 # Example: solve([], 0, 5) -> [5].

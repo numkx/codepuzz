@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve pass the pillow and return the result.
+# Return pass the pillow.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

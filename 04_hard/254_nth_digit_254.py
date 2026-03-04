@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve nth digit and return the result.
+# Return the nth digit in the infinite sequence of positive integers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

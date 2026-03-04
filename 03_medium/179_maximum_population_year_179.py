@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve maximum population year and return the result.
+# Return the maximum population year.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

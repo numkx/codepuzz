@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve goal parser interpretation and return the result.
+# Return goal parser interpretation.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

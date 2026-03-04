@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Generate tribonacci sequence up to n terms and return the result.
+# Generate tribonacci sequence up to n terms and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

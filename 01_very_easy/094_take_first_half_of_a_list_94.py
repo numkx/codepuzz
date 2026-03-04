@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return first half of a list.
+# Return take first half of a list.
 #
 # Example: solve([1, 2, 3, 4]) -> [1, 2].
 # Example: solve([1, 2, 3]) -> [1].

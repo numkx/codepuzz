@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove all adjacent duplicates in string and return the result.
+# Remove all adjacent duplicates in string and return the updated result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

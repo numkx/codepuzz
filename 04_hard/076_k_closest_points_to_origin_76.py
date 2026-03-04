@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve k closest points to origin and return the result.
+# Return k closest points to origin.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve house robber iii and return the result.
+# Return the maximum money that can be robbed from the tree without robbing directly-connected nodes.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

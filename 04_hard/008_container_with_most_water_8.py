@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve container with most water and return the result.
+# Given heights of vertical lines, return the maximum area of water that can be contained between two lines.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

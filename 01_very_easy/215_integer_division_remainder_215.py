@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve integer division remainder and return the result.
+# Return integer division remainder.
 #
 # Example: solve(7, 3) -> 1.
 # Example: solve(10, 2) -> 0.

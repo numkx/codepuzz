@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve isomorphic strings and return the result.
+# Perform the required string operation for "isomorphic strings" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

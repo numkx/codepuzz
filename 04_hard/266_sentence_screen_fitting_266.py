@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve sentence screen fitting and return the result.
+# Return sentence screen fitting.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

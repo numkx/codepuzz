@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum time visiting all points and return the result.
+# Return the minimum time visiting all points.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

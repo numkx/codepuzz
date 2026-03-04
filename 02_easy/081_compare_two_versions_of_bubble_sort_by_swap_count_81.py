@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compare two versions of bubble sort by swap count and return the result.
+# Compare two versions of bubble sort by swap count and return the comparison result.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

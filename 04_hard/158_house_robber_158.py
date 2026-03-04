@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve house robber and return the result.
+# Return the maximum money that can be robbed without robbing adjacent houses.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

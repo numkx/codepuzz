@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Add binary variant and return the result.
+# Add binary and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

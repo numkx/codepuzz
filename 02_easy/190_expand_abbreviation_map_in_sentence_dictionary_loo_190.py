@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve expand abbreviation map in sentence and return the result.
+# Return expand abbreviation map in sentence.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve product of array except self and return the result.
+# Return an array where each index holds the product of all elements except itself.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

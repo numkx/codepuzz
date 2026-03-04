@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse string variant and return the result.
+# Reverse string and return the result.
 #
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.

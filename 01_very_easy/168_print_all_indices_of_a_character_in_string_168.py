@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve print all indices of a character in string and return the result.
+# Perform the required string operation for "print all indices of a character in string" and return the result.
 #
 # Example: solve('banana', 'a') -> [1, 3, 5].
 # Example: solve('abc', 'd') -> [].

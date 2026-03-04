@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve di string match and return the result.
+# Perform the required string operation for "di string match" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

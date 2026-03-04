@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Keep every second character and return the result.
+# Return keep every second character.
 #
 # Example: solve('abcdef') -> 'ace'.
 # Example: solve('') -> ''.

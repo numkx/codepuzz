@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve occurrences after bigram and return the result.
+# Return occurrences after bigram.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

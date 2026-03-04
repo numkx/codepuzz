@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve set mismatch and return the result.
+# Return set mismatch.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

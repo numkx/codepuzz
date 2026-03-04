@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve construct binary tree from preorder and inorder traversal and return the result.
+# Build and return the binary tree from preorder and inorder traversal arrays.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Append digit to integer end and return the result.
+# Return append digit to integer end.
 #
 # Example: solve(12, 3) -> 123.
 # Example: solve(0, 5) -> 5.

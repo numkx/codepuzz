@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace all zeros with -1 and return the result.
+# Replace all zeros with -1 and return the updated result.
 #
 # Example: solve([0, 1, 0]) -> [-1, 1, -1].
 # Example: solve([]) -> [].

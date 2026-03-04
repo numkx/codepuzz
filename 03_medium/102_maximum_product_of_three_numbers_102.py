@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve maximum product of three numbers and return the result.
+# Return the maximum product of three numbers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve next greater element iii and return the result.
+# Return next greater element iii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

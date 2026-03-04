@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve unique binary search trees ii and return the result.
+# Compute the required tree result for "unique binary search trees ii" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

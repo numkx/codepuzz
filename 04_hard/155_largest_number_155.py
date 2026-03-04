@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve largest number and return the result.
+# Arrange numbers so they form the largest possible concatenated number string.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

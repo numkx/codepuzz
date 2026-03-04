@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Move all even numbers before odd numbers and return the result.
+# Return move all even numbers before odd numbers.
 #
 # Example: solve([1, 2, 3, 4]) -> [2, 4, 1, 3].
 # Example: solve([]) -> [].

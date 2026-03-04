@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve unique paths ii and return the result.
+# Return unique paths ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

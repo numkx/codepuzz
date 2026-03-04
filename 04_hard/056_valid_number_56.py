@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve valid number and return the result.
+# Return True if the string is a valid number, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

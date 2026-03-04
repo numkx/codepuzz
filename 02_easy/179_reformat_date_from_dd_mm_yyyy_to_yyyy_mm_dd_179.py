@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve reformat date from dd/mm/yyyy to yyyy-mm-dd and return the result.
+# Return reformat date from dd/mm/yyyy to yyyy-mm-dd.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

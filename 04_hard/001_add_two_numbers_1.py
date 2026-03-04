@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Add two numbers and return the result.
+# Add the two non-negative integers represented by linked lists and return the sum in the same linked-list format.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

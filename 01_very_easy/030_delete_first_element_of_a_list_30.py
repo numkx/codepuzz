@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Delete first element of a list and return the result.
+# Return delete first element of a list.
 #
 # Example: solve([1, 2, 3]) -> [2, 3].
 # Example: solve([5]) -> [].

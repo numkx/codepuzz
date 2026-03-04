@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve flood fill and return the result.
+# Return flood fill.
 #
 # Example: solve([[1, 1, 1], [1, 1, 0], [1, 0, 1]], 1, 1, 2) -> [[2, 2, 2], [2, 2, 0], [2, 0, 1]].
 # Example: solve([[0, 0, 0], [0, 0, 0]], 0, 0, 0) -> [[0, 0, 0], [0, 0, 0]].

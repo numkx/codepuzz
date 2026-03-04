@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve trapping rain water and return the result.
+# Given bar heights, return how much rain water can be trapped after raining.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

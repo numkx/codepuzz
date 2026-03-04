@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve range bitwise and and return the result.
+# Return range bitwise and.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

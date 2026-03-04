@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve stable-sort records by grade then name and return the result.
+# Return stable-sort records by grade then name.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

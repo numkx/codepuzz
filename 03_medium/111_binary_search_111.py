@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve binary search and return the result.
+# Return binary search.
 #
 # Example: solve([-1, 0, 3, 5, 9, 12], 9) -> 4.
 # Example: solve([-1, 0, 3, 5, 9, 12], 2) -> -1.

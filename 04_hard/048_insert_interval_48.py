@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Insert interval and return the result.
+# Insert interval and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

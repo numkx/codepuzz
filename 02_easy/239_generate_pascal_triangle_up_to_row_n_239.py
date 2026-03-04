@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Generate pascal triangle up to row n and return the result.
+# Generate pascal triangle up to row n and return it.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

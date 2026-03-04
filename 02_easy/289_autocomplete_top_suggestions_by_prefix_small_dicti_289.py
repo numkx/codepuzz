@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve autocomplete top suggestions by prefix and return the result.
+# Return autocomplete top suggestions by prefix.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

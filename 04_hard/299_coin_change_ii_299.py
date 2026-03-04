@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve coin change ii and return the result.
+# Return coin change ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

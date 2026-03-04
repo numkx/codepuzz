@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve random pick index and return the result.
+# Given an array and target, return a random index of the target with uniform probability.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

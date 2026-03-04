@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve kruskal minimum spanning tree for small graph and return the result.
+# Compute the required tree result for "kruskal minimum spanning tree for small graph" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

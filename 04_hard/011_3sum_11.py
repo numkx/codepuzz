@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve 3sum and return the result.
+# Return all unique triplets in the array whose sum is 0.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

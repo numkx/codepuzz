@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve truncate sentence to first n words and return the result.
+# Perform the required string operation for "truncate sentence to first n words" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

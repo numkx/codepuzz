@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve largest divisible subset and return the result.
+# Compute the required array/list result for "largest divisible subset" and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

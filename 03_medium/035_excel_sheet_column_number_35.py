@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve excel sheet column number and return the result.
+# Convert the Excel sheet column title to its corresponding number.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

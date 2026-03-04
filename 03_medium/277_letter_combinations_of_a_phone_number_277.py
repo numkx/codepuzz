@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve letter combinations of a phone number and return the result.
+# Given a digit string from 2 to 9, return all possible letter combinations it can represent.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

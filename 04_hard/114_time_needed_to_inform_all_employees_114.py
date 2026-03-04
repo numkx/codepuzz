@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve time needed to inform all employees and return the result.
+# Return time needed to inform all employees.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

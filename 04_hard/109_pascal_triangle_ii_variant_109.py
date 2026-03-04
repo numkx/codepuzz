@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve pascal triangle ii variant and return the result.
+# Return the row at the given index in Pascal's Triangle.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Mask all digits except last four in mixed string and return the result.
+# Perform the required string operation for "mask all digits except last four in mixed string" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

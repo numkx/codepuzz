@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve difference between element sum and digit sum and return the result.
+# Return the difference between element sum and digit sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

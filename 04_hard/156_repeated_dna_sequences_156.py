@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve repeated dna sequences and return the result.
+# Return all 10-letter DNA sequences that occur more than once in the string.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

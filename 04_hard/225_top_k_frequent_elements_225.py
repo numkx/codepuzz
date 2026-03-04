@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve top k frequent elements and return the result.
+# Return the k most frequent elements in the array.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

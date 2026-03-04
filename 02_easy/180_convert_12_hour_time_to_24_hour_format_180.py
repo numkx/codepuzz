@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert 12-hour time to 24-hour format and return the result.
+# Convert 12-hour time to 24-hour format and return the converted result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve first bad version and return the result.
+# Using the provided API, return the first bad version.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

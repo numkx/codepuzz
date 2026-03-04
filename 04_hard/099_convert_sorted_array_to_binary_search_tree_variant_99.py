@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Convert sorted array to binary search tree variant and return the result.
+# Convert sorted array to binary search tree and return the converted result.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

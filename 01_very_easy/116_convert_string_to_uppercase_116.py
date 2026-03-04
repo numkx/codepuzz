@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert string to uppercase and return the result.
+# Convert string to uppercase and return the converted result.
 #
 # Example: solve('hello') -> 'HELLO'.
 # Example: solve('AbC') -> 'ABC'.

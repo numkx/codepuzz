@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Capitalize first letter of a string and return the result.
+# Perform the required string operation for "capitalize first letter of a string" and return the result.
 #
 # Example: solve('hello') -> 'Hello'.
 # Example: solve('') -> ''.

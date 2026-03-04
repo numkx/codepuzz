@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve max number of k sum pairs and return the result.
+# Return the max number of k sum pairs.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove extra spaces and normalize to single spaces and return the result.
+# Remove extra spaces and normalize to single spaces and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

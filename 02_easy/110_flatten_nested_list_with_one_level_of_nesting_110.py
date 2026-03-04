@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Flatten nested list with one level of nesting and return the result.
+# Return flatten nested list with one level of nesting.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

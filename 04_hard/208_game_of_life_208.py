@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve game of life and return the result.
+# Compute the next state of the Game of Life board in-place.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

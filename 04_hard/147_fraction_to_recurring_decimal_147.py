@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve fraction to recurring decimal and return the result.
+# Convert the fraction to a decimal string and wrap repeating decimals in parentheses.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

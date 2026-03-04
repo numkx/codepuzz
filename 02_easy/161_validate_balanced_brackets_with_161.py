@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve validate balanced brackets with , [], {} and return the result.
+# Return True if balanced brackets with , [], {} is valid, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve path sum iv and return the result.
+# Return the path sum iv.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

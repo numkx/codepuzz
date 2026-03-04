@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve combinations and return the result.
+# Return all combinations of k numbers chosen from 1 to n.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

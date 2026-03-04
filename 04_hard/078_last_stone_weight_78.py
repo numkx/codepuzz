@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve last stone weight and return the result.
+# Return last stone weight.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

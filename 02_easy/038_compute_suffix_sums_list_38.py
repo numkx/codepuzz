@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute suffix sums list and return the result.
+# Return the compute suffix sums list.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

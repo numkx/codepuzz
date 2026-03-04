@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve valid perfect square and return the result.
+# Return True if valid perfect square, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

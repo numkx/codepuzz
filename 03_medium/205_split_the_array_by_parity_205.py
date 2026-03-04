@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Split the array by parity and return the result.
+# Compute the required array/list result for "split the array by parity" and return it.
 #
 # Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
 # Example: solve([]) -> [].

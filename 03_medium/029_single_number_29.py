@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve single number and return the result.
+# Return the element that appears exactly once when all others appear twice.
 #
 # Example: solve([2, 2, 1]) -> 1.
 # Example: solve([4, 1, 2, 1, 2]) -> 4.

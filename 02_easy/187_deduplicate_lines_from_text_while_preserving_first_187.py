@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve deduplicate lines from text while preserving first occurrence and return the result.
+# Return deduplicate lines from text while preserving first occurrence.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse nodes in k group and return the result.
+# Reverse linked-list nodes in groups of size k and return the updated list.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return common elements of two lists.
+# Return get common elements of two lists.
 #
 # Example: solve([1, 2, 3], [2, 3, 4]) -> [2, 3].
 # Example: solve([], [1]) -> [].

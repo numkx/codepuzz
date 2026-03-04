@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve coin change and return the result.
+# Return the minimum number of coins needed to make the amount, or -1 if impossible.
 #
 # Example: solve([1, 2, 5], 11) -> 3.
 # Example: solve([2], 3) -> -1.

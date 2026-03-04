@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Create target array in the given order and return the result.
+# Create target array in the given order and return it.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

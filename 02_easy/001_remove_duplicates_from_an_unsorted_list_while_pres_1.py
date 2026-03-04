@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove duplicates from an unsorted list while preserving order and return the result.
+# Remove duplicates from an unsorted list while preserving order and return the updated result.
 #
 # Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

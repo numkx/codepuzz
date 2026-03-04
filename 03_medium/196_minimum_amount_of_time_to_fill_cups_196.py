@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum amount of time to fill cups and return the result.
+# Return the minimum amount of time to fill cups.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

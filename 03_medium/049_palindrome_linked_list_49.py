@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve palindrome linked list and return the result.
+# Given the linked-list input, return the result for palindrome linked list.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

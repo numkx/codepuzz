@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum window substring and return the result.
+# Return the smallest substring of s that contains all characters of t.
 #
 # Example: solve('ADOBECODEBANC', 'ABC') -> 'BANC'.
 # Example: solve('a', 'a') -> 'a'.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Compare two lists for equality and return the result.
+# Compare two lists for equality and return the comparison result.
 #
 # Example: solve([1, 2], [1, 2]) -> True.
 # Example: solve([1, 2], [2, 1]) -> False.

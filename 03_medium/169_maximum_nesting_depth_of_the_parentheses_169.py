@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve maximum nesting depth of the parentheses and return the result.
+# Return the maximum nesting depth of the parentheses.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute factorial recursively and return the result.
+# Return compute factorial recursively.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

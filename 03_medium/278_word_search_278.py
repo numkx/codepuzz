@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve word search and return the result.
+# Return True if the target word exists in the grid using horizontal or vertical neighbors, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

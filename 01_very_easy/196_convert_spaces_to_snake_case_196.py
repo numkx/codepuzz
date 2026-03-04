@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert spaces to snake_case and return the result.
+# Convert spaces to snake_case and return the converted result.
 #
 # Example: solve('hello world') -> 'hello_world'.
 # Example: solve('a b c') -> 'a_b_c'.

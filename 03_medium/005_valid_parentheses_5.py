@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve valid parentheses and return the result.
+# Return True if valid parentheses, otherwise return False.
 #
 # Example: solve('()') -> True.
 # Example: solve('()[]{}') -> True.

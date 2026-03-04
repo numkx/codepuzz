@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve extract anti-diagonal values and return the result.
+# Return extract anti-diagonal values.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

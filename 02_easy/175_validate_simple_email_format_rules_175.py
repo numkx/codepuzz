@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve validate simple email format rules and return the result.
+# Return True if simple email format rules is valid, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

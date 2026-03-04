@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve normalize phone numbers by removing separators and return the result.
+# Return normalize phone numbers by removing separators.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

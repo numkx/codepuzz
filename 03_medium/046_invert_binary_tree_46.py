@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve invert binary tree and return the result.
+# Invert the binary tree and return the root.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

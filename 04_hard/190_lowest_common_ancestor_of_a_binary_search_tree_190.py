@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve lowest common ancestor of a binary search tree and return the result.
+# Return the lowest common ancestor of the two given nodes in the tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

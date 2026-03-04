@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute power a^b with fast exponentiation and return the result.
+# Return compute power a^b with fast exponentiation.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

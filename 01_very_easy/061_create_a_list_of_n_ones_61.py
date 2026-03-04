@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create a list of n ones and return the result.
+# Create a list of n ones and return it.
 #
 # Example: solve(5) -> [1, 1, 1, 1, 1].
 # Example: solve(1) -> [1].

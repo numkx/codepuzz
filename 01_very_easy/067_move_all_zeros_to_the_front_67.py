@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Move all zeros to the front and return the result.
+# Return move all zeros to the front.
 #
 # Example: solve([0, 1, 0, 2]) -> [0, 0, 1, 2].
 # Example: solve([]) -> [].

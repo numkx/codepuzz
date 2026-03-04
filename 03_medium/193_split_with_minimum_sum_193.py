@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Split with minimum sum and return the result.
+# Return the split with minimum sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

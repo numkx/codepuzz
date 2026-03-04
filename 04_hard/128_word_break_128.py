@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve word break and return the result.
+# Perform the required string operation for "word break" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

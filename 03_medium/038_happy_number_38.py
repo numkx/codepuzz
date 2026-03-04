@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve happy number and return the result.
+# Return happy number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

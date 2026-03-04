@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compress repeated chars into char+count and return the result.
+# Return compress repeated chars into char+count.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve 4sum and return the result.
+# Return all unique quadruplets in the array that sum to the target.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve categorize box according to criteria and return the result.
+# Return categorize box according to criteria.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

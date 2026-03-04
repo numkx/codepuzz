@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the number of segments in a string.
+# Perform the required string operation for "number of segments in a string" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

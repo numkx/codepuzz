@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve check divisibility by 3 and return the result.
+# Return True when divisibility by 3, otherwise return False.
 #
 # Example: solve(3) -> True.
 # Example: solve(4) -> False.

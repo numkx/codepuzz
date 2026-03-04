@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve mean of array after removing some elements and return the result.
+# Compute the required array/list result for "mean of array after removing some elements" and return it.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

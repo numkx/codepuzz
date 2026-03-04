@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve longest consecutive sequence and return the result.
+# Return the longest consecutive sequence.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

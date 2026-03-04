@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve difference of number of distinct values on diagonals and return the result.
+# Return difference of number of distinct values on diagonals.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

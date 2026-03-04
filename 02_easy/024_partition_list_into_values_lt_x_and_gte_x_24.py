@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve partition list into values < x and >= x and return the result.
+# Return partition list into values < x and >= x.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Move all zeros to end while keeping non-zero order and return the result.
+# Return move all zeros to end while keeping non-zero order.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

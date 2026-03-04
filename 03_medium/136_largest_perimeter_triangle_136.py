@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve largest perimeter triangle and return the result.
+# Return largest perimeter triangle.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

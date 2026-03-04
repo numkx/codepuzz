@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve bulls and cows and return the result.
+# Return bulls and cows.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

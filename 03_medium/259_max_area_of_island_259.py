@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve max area of island and return the result.
+# Given a binary grid, return the maximum area of any connected island.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

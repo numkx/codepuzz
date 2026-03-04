@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve prime factorization of an integer and return the result.
+# Return prime factorization of an integer.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

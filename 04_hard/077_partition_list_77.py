@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve partition list and return the result.
+# Reorder the linked list so nodes less than x come before nodes greater than or equal to x, preserving relative order.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

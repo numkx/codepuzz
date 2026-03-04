@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve validate username with allowed characters and length and return the result.
+# Return True if username with allowed characters and length is valid, otherwise return False.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

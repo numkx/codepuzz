@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Replace each value with nearest smaller value on right and return the result.
+# Replace each value with nearest smaller value on right and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

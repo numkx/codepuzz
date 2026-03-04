@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace spaces with underscores and return the result.
+# Replace spaces with underscores and return the updated result.
 #
 # Example: solve('a b c') -> 'a_b_c'.
 # Example: solve('') -> ''.

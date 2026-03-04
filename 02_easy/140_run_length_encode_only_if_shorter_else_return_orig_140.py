@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve run-length encode only if shorter else return original and return the result.
+# Return the run-length encode only if shorter else return original.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

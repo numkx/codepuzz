@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve utf 8 validation and return the result.
+# Return True if utf 8 validation, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

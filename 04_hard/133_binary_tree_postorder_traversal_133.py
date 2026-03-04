@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve binary tree postorder traversal and return the result.
+# Return the result of postorder traversal for the given binary tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve print each character of a string and return the result.
+# Perform the required string operation for "print each character of a string" and return the result.
 #
 # Example: solve('abc') -> ['a', 'b', 'c'].
 # Example: solve('') -> [].

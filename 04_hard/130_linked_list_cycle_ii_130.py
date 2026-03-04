@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve linked list cycle ii and return the result.
+# Return the node where the cycle begins in the linked list, or None if there is no cycle.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

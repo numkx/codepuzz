@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve course schedule and return the result.
+# Return True if all courses can be finished given prerequisites, otherwise return False.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

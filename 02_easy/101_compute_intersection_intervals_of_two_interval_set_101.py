@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute intersection intervals of two interval sets and return the result.
+# Compute the required array/list result for "compute intersection intervals of two interval sets" and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

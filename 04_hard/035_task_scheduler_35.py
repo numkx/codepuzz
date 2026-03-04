@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve task scheduler and return the result.
+# Return the minimum intervals needed to finish all tasks with cooldown constraints.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

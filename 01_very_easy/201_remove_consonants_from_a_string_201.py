@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Remove consonants from a string and return the result.
+# Remove consonants from a string and return the updated result.
 #
 # Example: solve('a b c') -> 'abc'.
 # Example: solve('') -> ''.

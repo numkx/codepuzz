@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve triangle and return the result.
+# Given a triangle array, return the minimum path sum from top to bottom.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

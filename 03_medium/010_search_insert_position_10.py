@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve search insert position and return the result.
+# Return search insert position.
 #
 # Example: solve([1, 3, 5, 6], 5) -> 2.
 # Example: solve([1, 3, 5, 6], 2) -> 1.

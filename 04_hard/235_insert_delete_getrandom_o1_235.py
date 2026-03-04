@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Insert delete getrandom o1 and return the result.
+# Insert delete getrandom o1 and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

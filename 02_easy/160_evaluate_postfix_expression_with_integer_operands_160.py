@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve evaluate postfix expression with integer operands and return the result.
+# Evaluate postfix expression with integer operands and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

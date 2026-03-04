@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve check divisibility by 2 and return the result.
+# Return True when divisibility by 2, otherwise return False.
 #
 # Example: solve(2) -> True.
 # Example: solve(3) -> False.

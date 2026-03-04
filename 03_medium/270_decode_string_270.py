@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve decode string and return the result.
+# Decode the encoded string and return the decoded result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

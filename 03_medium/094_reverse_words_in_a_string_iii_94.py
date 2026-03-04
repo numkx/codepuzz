@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Reverse words in a string 2i and return the result.
+# Reverse words in a string iii and return the result.
 #
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve reorder numbered words like "is2 sentence4..." and return the result.
+# Perform the required string operation for "reorder numbered words like "is2 sentence4..."" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

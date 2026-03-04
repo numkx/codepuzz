@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return last character of a string.
+# Perform the required string operation for "get last character of a string" and return the result.
 #
 # Example: solve('abc') -> 'c'.
 # Example: solve('a') -> 'a'.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve how many numbers are smaller than the current number and return the result.
+# Return how many numbers are smaller than the current number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

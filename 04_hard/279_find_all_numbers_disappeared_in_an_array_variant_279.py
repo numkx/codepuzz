@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return all numbers disappeared in an array variant.
+# Return all numbers disappeared in an array.
 #
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.

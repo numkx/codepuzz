@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve determine color of a chessboard square and return the result.
+# Apply the required operation on the given grid/board and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

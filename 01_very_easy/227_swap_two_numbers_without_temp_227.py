@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap two numbers without temp and return the result.
+# Return swap two numbers without temp.
 #
 # Example: solve(2, 3) -> (3, 2).
 # Example: solve(-1, 1) -> (1, -1).

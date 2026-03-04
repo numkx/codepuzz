@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve first missing positive and return the result.
+# Return the smallest missing positive integer from the unsorted array.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

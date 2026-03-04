@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve minimum number of arrows to burst balloons and return the result.
+# Return the minimum number of arrows to burst balloons.
 #
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.

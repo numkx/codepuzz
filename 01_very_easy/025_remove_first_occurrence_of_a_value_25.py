@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Remove first occurrence of a value and return the result.
+# Remove first occurrence of a value and return the updated result.
 #
 # Example: solve([1, 2, 2, 3], 2) -> [1, 2, 3].
 # Example: solve([5, 5, 5], 5) -> [5, 5].

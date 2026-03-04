@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve path sum iii and return the result.
+# Return the number of downward paths in the tree whose values sum to the target.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

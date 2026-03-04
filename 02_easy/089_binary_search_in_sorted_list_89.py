@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve binary search in sorted list and return the result.
+# Return binary search in sorted list.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

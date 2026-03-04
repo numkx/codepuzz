@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve combination sum and return the result.
+# Return all unique combinations where candidate numbers can be reused to reach the target sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

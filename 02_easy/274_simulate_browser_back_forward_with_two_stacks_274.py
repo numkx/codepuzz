@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve simulate browser back/forward with two stacks and return the result.
+# Return simulate browser back/forward with two stacks.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

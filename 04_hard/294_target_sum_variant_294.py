@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve target sum variant and return the result.
+# Return the number of ways to assign + or - to make the target sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

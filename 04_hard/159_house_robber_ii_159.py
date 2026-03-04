@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve house robber ii and return the result.
+# Return the maximum money that can be robbed from circularly arranged houses.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

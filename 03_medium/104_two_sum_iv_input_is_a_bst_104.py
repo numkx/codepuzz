@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve two sum iv input is a bst and return the result.
+# Compute the required tree result for "two sum iv input is a bst" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

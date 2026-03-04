@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve check palindrome ignoring case and return the result.
+# Perform the required string operation for "check palindrome ignoring case" and return the result.
 #
 # Example: solve('RaceCar') -> True.
 # Example: solve('Hello') -> False.

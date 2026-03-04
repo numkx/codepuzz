@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve decode ways and return the result.
+# Return the number of valid decodings for the digit string.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

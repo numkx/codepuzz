@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve mini parser and return the result.
+# Return mini parser.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

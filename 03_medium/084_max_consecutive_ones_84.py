@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve max consecutive ones and return the result.
+# Return max consecutive ones.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

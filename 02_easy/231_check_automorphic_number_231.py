@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve check automorphic number and return the result.
+# Return True when automorphic number, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

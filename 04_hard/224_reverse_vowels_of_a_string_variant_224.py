@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse vowels of a string variant and return the result.
+# Reverse vowels of a string and return the result.
 #
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.

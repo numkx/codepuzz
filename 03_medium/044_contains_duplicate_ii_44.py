@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve contains duplicate ii and return the result.
+# Return True if the input contains duplicate ii, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> True.
 # Example: solve([]) -> True.

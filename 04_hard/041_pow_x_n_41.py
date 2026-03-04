@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve pow x n and return the result.
+# Compute x raised to the power n and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

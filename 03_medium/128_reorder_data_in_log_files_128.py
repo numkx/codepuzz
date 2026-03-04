@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve reorder data in log files and return the result.
+# Return reorder data in log files.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

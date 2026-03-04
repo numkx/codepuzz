@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve greatest english letter in upper and lower case and return the result.
+# Return greatest english letter in upper and lower case.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

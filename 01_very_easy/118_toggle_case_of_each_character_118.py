@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve toggle case of each character and return the result.
+# Return toggle case of each character.
 #
 # Example: solve('AbC') -> 'aBc'.
 # Example: solve('hello') -> 'HELLO'.

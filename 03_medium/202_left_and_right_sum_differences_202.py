@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve left and right sum differences and return the result.
+# Return the left and right sum differences.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve list all factors of a number and return the result.
+# Return list all factors of a number.
 #
 # Example: solve(1) -> [1].
 # Example: solve(6) -> [1, 2, 3, 6].

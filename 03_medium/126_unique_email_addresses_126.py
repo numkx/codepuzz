@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve unique email addresses and return the result.
+# Return unique email addresses.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve palindrome partitioning and return the result.
+# Return all possible partitions of the string where every substring is a palindrome.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

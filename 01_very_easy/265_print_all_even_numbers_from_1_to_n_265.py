@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve print all even numbers from 1 to n and return the result.
+# Return print all even numbers from 1 to n.
 #
 # Example: solve(1) -> [].
 # Example: solve(2) -> [2].

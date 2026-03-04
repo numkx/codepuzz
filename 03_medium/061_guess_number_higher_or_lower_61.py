@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve guess number higher or lower and return the result.
+# Return guess number higher or lower.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

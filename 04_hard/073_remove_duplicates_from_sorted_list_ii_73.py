@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Remove duplicates from sorted list 2 and return the result.
+# Remove duplicates from sorted list ii and return the updated result.
 #
 # Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

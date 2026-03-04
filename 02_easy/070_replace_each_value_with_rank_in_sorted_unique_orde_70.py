@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Replace each value with rank in sorted unique order and return the result.
+# Replace each value with rank in sorted unique order and return the updated result.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

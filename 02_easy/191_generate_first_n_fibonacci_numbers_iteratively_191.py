@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Generate first n fibonacci numbers iteratively and return the result.
+# Generate first n fibonacci numbers iteratively and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

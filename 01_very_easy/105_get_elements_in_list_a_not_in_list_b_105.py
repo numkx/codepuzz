@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return elements in list a not in list b.
+# Return get elements in list a not in list b.
 #
 # Example: solve([1, 2, 3], [2, 4]) -> [1, 3].
 # Example: solve([], [1]) -> [].

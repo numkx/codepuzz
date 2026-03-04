@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve gray code and return the result.
+# Return a valid gray code sequence of length 2^n.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

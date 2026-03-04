@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve combination sum ii and return the result.
+# Return all unique combinations where each number can be used at most once to reach the target sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

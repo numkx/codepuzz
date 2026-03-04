@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve percentage of letter in string and return the result.
+# Perform the required string operation for "percentage of letter in string" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

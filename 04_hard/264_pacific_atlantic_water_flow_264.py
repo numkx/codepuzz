@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve pacific atlantic water flow and return the result.
+# Return pacific atlantic water flow.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

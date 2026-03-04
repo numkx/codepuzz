@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve last visited integers and return the result.
+# Return last visited integers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

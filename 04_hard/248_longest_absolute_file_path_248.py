@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve longest absolute file path and return the result.
+# Return the longest absolute file path.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

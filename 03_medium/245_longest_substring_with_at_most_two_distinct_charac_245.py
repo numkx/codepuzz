@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve longest substring with at most two distinct characters and return the result.
+# Perform the required string operation for "longest substring with at most two distinct characters" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

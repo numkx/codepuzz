@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve fizz buzz and return the result.
+# Generate the Fizz Buzz sequence from 1 to n and return it as a list.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

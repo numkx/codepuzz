@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return champion 2.
+# Return champion ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

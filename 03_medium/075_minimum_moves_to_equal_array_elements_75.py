@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum moves to equal array elements and return the result.
+# Compute the required array/list result for "minimum moves to equal array elements" and return it.
 #
 # Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
 # Example: solve([]) -> [].

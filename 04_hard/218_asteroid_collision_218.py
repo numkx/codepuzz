@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve asteroid collision and return the result.
+# Simulate collisions and return the final state of all asteroids.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

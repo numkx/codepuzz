@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve jump game and return the result.
+# Return jump game.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

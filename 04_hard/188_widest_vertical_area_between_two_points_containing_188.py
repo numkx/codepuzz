@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve widest vertical area between two points containing no points and return the result.
+# Return the widest vertical area between two points containing no points.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

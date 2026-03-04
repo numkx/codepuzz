@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Insert a value into a sorted list at correct position and return the result.
+# Insert a value into a sorted list at correct position and return the updated result.
 #
 # Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
 # Example: solve([], 0, 5) -> [5].

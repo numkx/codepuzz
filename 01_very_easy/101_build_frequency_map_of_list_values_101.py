@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Build frequency map of list values and return the result.
+# Return build frequency map of list values.
 #
 # Example: solve([1, 2, 2, 3]) -> {1: 1, 2: 2, 3: 1}.
 # Example: solve([]) -> {}.

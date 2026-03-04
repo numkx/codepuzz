@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Add two numbers 2 and return the result.
+# Add two numbers ii and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

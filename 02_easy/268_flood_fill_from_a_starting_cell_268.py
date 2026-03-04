@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve flood-fill from a starting cell and return the result.
+# Return flood-fill from a starting cell.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

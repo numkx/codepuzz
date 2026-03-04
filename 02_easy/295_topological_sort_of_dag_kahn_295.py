@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve topological sort of dag and return the result.
+# Return topological sort of dag.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

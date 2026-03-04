@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve partition list into three parts: < x, = x, > x and return the result.
+# Return partition list into three parts: < x, = x, > x.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

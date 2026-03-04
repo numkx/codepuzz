@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve longest common prefix and return the result.
+# Return the longest common prefix.
 #
 # Example: solve(['flower', 'flow', 'flight']) -> 'fl'.
 # Example: solve(['dog', 'racecar', 'car']) -> ''.

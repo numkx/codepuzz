@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace each element with absolute value and return the result.
+# Replace each element with absolute value and return the updated result.
 #
 # Example: solve([-1, 2, -3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve valid sudoku and return the result.
+# Return True if the current Sudoku board is valid according to Sudoku rules, otherwise return False.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

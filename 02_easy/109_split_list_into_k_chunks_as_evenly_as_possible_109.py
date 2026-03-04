@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Split list into k chunks as evenly as possible and return the result.
+# Return split list into k chunks as evenly as possible.
 #
 # Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
 # Example: solve([]) -> [].

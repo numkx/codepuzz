@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the count of primes variant.
+# Return the count of primes.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

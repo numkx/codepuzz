@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert sentence to title case with stop-word exceptions and return the result.
+# Convert sentence to title case with stop-word exceptions and return the converted result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

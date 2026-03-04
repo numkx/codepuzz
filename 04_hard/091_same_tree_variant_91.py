@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve same tree variant and return the result.
+# Return True if the two binary trees are structurally identical with equal node values, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

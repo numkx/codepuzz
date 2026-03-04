@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve richest customer wealth and return the result.
+# Return richest customer wealth.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

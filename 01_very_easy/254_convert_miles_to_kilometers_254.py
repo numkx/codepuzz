@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert miles to kilometers and return the result.
+# Convert miles to kilometers and return the converted result.
 #
 # Example: solve(1) -> 1.60934.
 # Example: solve(0) -> 0.0.

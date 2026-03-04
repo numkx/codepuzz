@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve check palindrome ignoring spaces and return the result.
+# Perform the required string operation for "check palindrome ignoring spaces" and return the result.
 #
 # Example: solve('n u r s e s r u n') -> True.
 # Example: solve('never odd or even') -> True.

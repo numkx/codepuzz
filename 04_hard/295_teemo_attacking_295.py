@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve teemo attacking and return the result.
+# Return the total poisoned duration given attack times and poison duration.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Keep multiplying found values and return the result.
+# Return keep multiplying found values.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

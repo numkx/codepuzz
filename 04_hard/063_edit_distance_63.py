@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve edit distance and return the result.
+# Return the edit distance.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

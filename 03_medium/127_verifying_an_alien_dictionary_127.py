@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve verifying an alien dictionary and return the result.
+# Return True if the words are sorted according to the alien alphabet order, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

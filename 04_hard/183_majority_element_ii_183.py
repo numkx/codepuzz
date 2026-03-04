@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve majority element ii and return the result.
+# Return all elements that appear more than n/3 times in the array.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

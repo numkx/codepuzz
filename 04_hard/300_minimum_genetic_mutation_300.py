@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve minimum genetic mutation and return the result.
+# Return the minimum genetic mutation.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

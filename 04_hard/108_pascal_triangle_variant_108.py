@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve pascal triangle variant and return the result.
+# Generate Pascal's Triangle with the requested number of rows and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

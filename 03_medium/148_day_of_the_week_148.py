@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve day of the week and return the result.
+# Return day of the week.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

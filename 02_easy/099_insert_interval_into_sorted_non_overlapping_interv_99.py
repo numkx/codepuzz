@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Insert interval into sorted non-overlapping intervals and return the result.
+# Insert interval into sorted non-overlapping intervals and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

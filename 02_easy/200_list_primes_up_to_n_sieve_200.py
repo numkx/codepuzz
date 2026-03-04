@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve list primes up to n and return the result.
+# Return list primes up to n.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve min stack and return the result.
+# Implement a stack that supports push, pop, top, and retrieving the minimum in constant time.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

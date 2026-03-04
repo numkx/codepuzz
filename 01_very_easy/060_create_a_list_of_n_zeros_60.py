@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Create a list of n zeros and return the result.
+# Create a list of n zeros and return it.
 #
 # Example: solve(5) -> [0, 0, 0, 0, 0].
 # Example: solve(1) -> [0].

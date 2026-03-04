@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve balanced binary tree and return the result.
+# Return True if the binary tree is height-balanced, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve roman to integer and return the result.
+# Convert the Roman numeral string to its integer value.
 #
 # Example: solve('III') -> 3.
 # Example: solve('LVIII') -> 58.

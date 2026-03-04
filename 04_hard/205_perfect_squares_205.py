@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve perfect squares and return the result.
+# Return the minimum number of perfect square numbers that sum to n.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

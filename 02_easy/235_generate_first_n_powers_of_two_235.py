@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Generate first n powers of two and return the result.
+# Generate first n powers of two and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

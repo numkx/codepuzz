@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve extract main diagonal values and return the result.
+# Return extract main diagonal values.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

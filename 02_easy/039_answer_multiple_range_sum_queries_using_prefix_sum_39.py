@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve answer multiple range-sum queries using prefix sums and return the result.
+# Return the answer multiple range-sum queries using prefix sums.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

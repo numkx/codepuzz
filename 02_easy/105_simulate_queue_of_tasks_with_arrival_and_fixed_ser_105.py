@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve simulate queue of tasks with arrival and fixed service time and return the result.
+# Return simulate queue of tasks with arrival and fixed service time.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

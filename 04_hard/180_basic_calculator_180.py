@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve basic calculator and return the result.
+# Evaluate the expression according to basic calculator rules and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

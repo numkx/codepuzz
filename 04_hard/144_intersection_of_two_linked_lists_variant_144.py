@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve intersection of two linked lists variant and return the result.
+# Given the linked-list input, return the result for intersection of two linked lists.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

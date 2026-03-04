@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve alternate uppercase/lowercase characters and return the result.
+# Return alternate uppercase/lowercase characters.
 #
 # Example: solve('abcdef') -> 'AbCdEf'.
 # Example: solve('a') -> 'A'.

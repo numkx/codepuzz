@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove one value from a sorted list and keep it sorted and return the result.
+# Remove one value from a sorted list and keep it sorted and return the updated result.
 #
 # Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

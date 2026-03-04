@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Design tic tac toe and return outputs for the required operations.
+# Design tic tac toe and return outputs for required operations.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

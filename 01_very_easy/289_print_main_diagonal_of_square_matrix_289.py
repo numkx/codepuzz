@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve print main diagonal of square matrix and return the result.
+# Apply the required operation on the given matrix and return the result.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [1, 4].
 # Example: solve([[5]]) -> [5].

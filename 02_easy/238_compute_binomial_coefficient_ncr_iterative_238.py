@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute binomial coefficient ncr and return the result.
+# Return compute binomial coefficient ncr.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

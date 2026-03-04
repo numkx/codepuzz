@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve counting bits variant and return the result.
+# Return an array where each index i contains the number of set bits in i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

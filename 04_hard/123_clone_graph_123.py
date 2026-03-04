@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve clone graph and return the result.
+# Return a deep copy of the connected undirected graph.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

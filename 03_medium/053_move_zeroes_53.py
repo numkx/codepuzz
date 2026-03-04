@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Move zeroes and return the result.
+# Move all zeros to the end while keeping the relative order of non-zero elements.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

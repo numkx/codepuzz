@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve longest unequal adjacent groups subsequence i and return the result.
+# Return the longest unequal adjacent groups subsequence i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve zigzag conversion and return the result.
+# Rearrange the string in a zigzag pattern with the given row count and return the row-wise reading.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

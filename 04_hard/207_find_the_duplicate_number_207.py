@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the duplicate number.
+# Return the duplicated number in the array without modifying constraints.
 #
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.

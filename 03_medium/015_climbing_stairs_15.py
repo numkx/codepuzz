@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve climbing stairs and return the result.
+# Return climbing stairs.
 #
 # Example: solve(1) -> 1.
 # Example: solve(2) -> 2.

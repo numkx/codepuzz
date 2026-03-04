@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve evaluate expression with + and - only and return the result.
+# Evaluate expression with + and - only and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

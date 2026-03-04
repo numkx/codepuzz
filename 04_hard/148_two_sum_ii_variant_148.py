@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve two sum ii variant and return the result.
+# Return the two sum ii.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

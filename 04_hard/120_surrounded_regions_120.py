@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve surrounded regions and return the result.
+# Capture all regions of O that are fully surrounded by X and return the updated board.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

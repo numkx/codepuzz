@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Implement trie prefix tree and return outputs for the required operations.
+# Implement a Trie with insert, search, and startsWith operations.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert spaces to kebab-case and return the result.
+# Convert spaces to kebab-case and return the converted result.
 #
 # Example: solve('hello world') -> 'hello-world'.
 # Example: solve('a b c') -> 'a-b-c'.

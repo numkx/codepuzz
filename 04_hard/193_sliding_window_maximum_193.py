@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve sliding window maximum and return the result.
+# Return the maximum value in each sliding window of size k.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

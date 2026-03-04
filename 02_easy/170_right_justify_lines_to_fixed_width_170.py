@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve right-justify lines to fixed width and return the result.
+# Return right-justify lines to fixed width.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve kth largest element in a stream and return the result.
+# Maintain a stream and return the current kth largest value after each add operation.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

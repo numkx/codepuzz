@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute minimum left rotations to reach target string and return the result.
+# Perform the required string operation for "compute minimum left rotations to reach target string" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

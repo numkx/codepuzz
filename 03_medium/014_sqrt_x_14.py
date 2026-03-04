@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve sqrt x and return the result.
+# Return sqrt x.
 #
 # Example: solve(4) -> 2.
 # Example: solve(8) -> 2.

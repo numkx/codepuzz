@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Trim leading and trailing spaces and return the result.
+# Return trim leading and trailing spaces.
 #
 # Example: solve('  hi  ') -> 'hi'.
 # Example: solve('hi') -> 'hi'.

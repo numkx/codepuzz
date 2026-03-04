@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve shuffle an array and return the result.
+# Implement reset and shuffle operations that produce a uniformly random permutation.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

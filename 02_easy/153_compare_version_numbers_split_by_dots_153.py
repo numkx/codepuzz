@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compare version numbers split by dots and return the result.
+# Compare version numbers split by dots and return the comparison result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

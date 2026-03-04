@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve path sum variant and return the result.
+# Return True if the binary tree has a root-to-leaf path with the target sum, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

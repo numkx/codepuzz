@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve subarray sum equals k and return the result.
+# Compute the required array/list result for "subarray sum equals k" and return it.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Insert a value at the end of a list and return the result.
+# Insert a value at the end of a list and return the updated result.
 #
 # Example: solve([1, 2, 3], 0) -> [1, 2, 3, 0].
 # Example: solve([], 5) -> [5].

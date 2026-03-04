@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve x of a kind in a deck of cards and return the result.
+# Return x of a kind in a deck of cards.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

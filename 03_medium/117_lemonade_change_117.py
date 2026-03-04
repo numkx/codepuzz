@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve lemonade change and return the result.
+# Return True if you can provide correct change to each customer in order, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

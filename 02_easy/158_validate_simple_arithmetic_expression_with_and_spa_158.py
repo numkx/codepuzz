@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve validate simple arithmetic expression with +,-,*,/ and spaces and return the result.
+# Return True if simple arithmetic expression with +,-,*,/ and spaces is valid, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

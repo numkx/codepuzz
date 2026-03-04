@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve valid palindrome and return the result.
+# Perform the required string operation for "valid palindrome" and return the result.
 #
 # Example: solve('A man, a plan, a canal: Panama') -> True.
 # Example: solve('race a car') -> False.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve maximal square and return the result.
+# Return maximal square.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve next greater element ii and return the result.
+# For each element, return the next greater element in the circular array, or -1.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

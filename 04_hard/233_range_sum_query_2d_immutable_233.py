@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve range sum query 2d immutable and return the result.
+# Given an immutable matrix, return the sum for each queried sub-rectangle.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

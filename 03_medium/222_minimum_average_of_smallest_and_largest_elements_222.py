@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum average of smallest and largest elements and return the result.
+# Return the minimum average of smallest and largest elements.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

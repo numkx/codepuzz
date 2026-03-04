@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap first and last list elements and return the result.
+# Return swap first and last list elements.
 #
 # Example: solve([1, 2, 3]) -> [3, 2, 1].
 # Example: solve([5]) -> [5].

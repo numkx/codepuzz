@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve 3sum closest and return the result.
+# Return the sum of three integers in the array that is closest to the target.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

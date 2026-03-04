@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve check harshad/niven number and return the result.
+# Return True when harshad/niven number, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve student attendance record i and return the result.
+# Return student attendance record i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

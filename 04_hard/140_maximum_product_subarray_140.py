@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve maximum product subarray and return the result.
+# Compute the required array/list result for "maximum product subarray" and return it.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

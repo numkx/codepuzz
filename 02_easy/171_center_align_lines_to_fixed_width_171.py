@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve center-align lines to fixed width and return the result.
+# Return center-align lines to fixed width.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

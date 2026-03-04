@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compare version numbers and return the result.
+# Compare version numbers and return the comparison result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

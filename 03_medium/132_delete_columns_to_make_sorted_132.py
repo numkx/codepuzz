@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Delete columns to make sorted and return the result.
+# Return delete columns to make sorted.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

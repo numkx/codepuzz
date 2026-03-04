@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve contiguous array and return the result.
+# Compute the required array/list result for "contiguous array" and return it.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

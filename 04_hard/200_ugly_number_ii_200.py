@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve ugly number ii and return the result.
+# Return ugly number ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve best time to buy and sell stock ii and return the result.
+# Return the maximum profit for best time to buy and sell stock ii.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve word ladder and return the result.
+# Return the length of the shortest transformation sequence from begin word to end word.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

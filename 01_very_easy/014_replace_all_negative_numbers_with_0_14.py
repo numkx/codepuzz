@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace all negative numbers with 0 and return the result.
+# Replace all negative numbers with 0 and return the updated result.
 #
 # Example: solve([-1, 2, -3]) -> [0, 2, 0].
 # Example: solve([]) -> [].

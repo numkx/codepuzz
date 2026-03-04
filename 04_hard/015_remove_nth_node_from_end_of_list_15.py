@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Remove nth node from end of list and return the result.
+# Remove the nth node from the end of the linked list and return the head.
 #
 # Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

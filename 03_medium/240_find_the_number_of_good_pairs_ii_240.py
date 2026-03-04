@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the number of good pairs 2.
+# Return the number of good pairs ii.
 #
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.

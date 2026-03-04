@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert a number to hexadecimal and return the result.
+# Convert a number to hexadecimal and return the converted result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

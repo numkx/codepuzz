@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve symmetric tree variant and return the result.
+# Return True if the binary tree is symmetric around its center, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

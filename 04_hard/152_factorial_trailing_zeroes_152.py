@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve factorial trailing zeroes and return the result.
+# Return the number of trailing zeroes in n factorial.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

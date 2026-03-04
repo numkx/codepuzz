@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum depth of binary tree and return the result.
+# Compute the required tree result for "minimum depth of binary tree" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

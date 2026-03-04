@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve row with maximum ones and return the result.
+# Return row with maximum ones.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve n ary tree preorder traversal and return the result.
+# Compute the required tree result for "n ary tree preorder traversal" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

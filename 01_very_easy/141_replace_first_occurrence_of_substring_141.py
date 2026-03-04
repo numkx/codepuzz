@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace first occurrence of substring and return the result.
+# Replace first occurrence of substring and return the updated result.
 #
 # Example: solve('a b') -> 'a_b'.
 # Example: solve('') -> ''.

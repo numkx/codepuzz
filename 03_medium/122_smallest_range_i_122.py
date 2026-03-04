@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve smallest range i and return the result.
+# Return smallest range i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

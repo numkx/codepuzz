@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert base b string to decimal and return the result.
+# Convert base b string to decimal and return the converted result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

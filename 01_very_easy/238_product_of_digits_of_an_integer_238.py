@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve product of digits of an integer and return the result.
+# Return product of digits of an integer.
 #
 # Example: solve(123) -> 6.
 # Example: solve(0) -> 0.

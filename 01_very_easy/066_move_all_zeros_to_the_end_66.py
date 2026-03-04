@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Move all zeros to the end and return the result.
+# Return move all zeros to the end.
 #
 # Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
 # Example: solve([]) -> [].

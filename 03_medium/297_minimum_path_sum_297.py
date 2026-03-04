@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum path sum and return the result.
+# Return the minimum path sum from top-left to bottom-right in the grid.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

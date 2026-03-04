@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve valid anagram variant and return the result.
+# Perform the required string operation for "valid anagram" and return the result.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

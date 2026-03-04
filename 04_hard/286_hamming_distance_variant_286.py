@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve hamming distance variant and return the result.
+# Return the hamming distance.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

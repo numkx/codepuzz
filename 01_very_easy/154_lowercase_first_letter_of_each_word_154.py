@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Lowercase first letter of each word and return the result.
+# Perform the required string operation for "lowercase first letter of each word" and return the result.
 #
 # Example: solve('Hello World') -> 'hello world'.
 # Example: solve('') -> ''.

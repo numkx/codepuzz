@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve plus one variant and return the result.
+# Return plus one.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

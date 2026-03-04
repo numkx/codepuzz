@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve insertion sort list and return the result.
+# Return insertion sort list.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

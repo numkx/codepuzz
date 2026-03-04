@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve next permutation and return the result.
+# Rearrange numbers into the next lexicographically greater permutation, or the smallest order if none exists.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve search in rotated sorted array ii and return the result.
+# Compute the required array/list result for "search in rotated sorted array ii" and return it.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

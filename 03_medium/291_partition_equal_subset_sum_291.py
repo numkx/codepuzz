@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve partition equal subset sum and return the result.
+# Compute the required array/list result for "partition equal subset sum" and return it.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

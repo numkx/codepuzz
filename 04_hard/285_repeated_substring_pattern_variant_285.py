@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve repeated substring pattern variant and return the result.
+# Perform the required string operation for "repeated substring pattern" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

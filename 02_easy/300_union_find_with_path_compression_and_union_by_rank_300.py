@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve union-find with path compression and union by rank for connectivity queries and return the result.
+# Return union-find with path compression and union by rank for connectivity queries.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

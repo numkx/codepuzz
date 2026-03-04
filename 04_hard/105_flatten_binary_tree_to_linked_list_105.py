@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Flatten binary tree to linked list and return the result.
+# Given the tree input, return the result for flatten binary tree to linked list.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve contains duplicate and return the result.
+# Return True if the input contains duplicate, otherwise return False.
 #
 # Example: solve([1, 2, 3, 1]) -> True.
 # Example: solve([1, 2, 3, 4]) -> False.

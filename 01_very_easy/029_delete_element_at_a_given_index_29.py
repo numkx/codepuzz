@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Delete element at a given index and return the result.
+# Return delete element at a given index.
 #
 # Example: solve([1, 2, 3], 1) -> [1, 3].
 # Example: solve([5], 0) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve alternate positive and negative values where possible and return the result.
+# Return alternate positive and negative values where possible.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

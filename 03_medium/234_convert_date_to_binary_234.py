@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert date to binary and return the result.
+# Convert date to binary and return the converted result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve license key formatting and return the result.
+# Return license key formatting.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

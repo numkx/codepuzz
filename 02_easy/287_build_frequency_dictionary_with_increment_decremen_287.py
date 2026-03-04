@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Build frequency dictionary with increment/decrement ops and return the result.
+# Return build frequency dictionary with increment/decrement ops.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

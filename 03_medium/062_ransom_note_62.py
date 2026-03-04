@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve ransom note and return the result.
+# Return ransom note.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

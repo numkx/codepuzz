@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve sequence reconstruction and return the result.
+# Return sequence reconstruction.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

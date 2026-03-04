@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve longest palindromic subsequence and return the result.
+# Return the longest palindromic subsequence.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

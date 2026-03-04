@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve kth smallest element in a bst and return the result.
+# Compute the required tree result for "kth smallest element in a bst" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

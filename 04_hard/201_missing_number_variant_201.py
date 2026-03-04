@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve missing number variant and return the result.
+# Return missing number.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

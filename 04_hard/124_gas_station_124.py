@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve gas station and return the result.
+# Return the starting gas station index to complete the circuit, or -1 if impossible.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

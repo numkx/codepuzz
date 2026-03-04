@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve subsets and return the result.
+# Return all possible subsets of the input array.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

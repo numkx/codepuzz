@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Multiply strings and return the result.
+# Multiply two non-negative integers given as strings and return the product as a string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

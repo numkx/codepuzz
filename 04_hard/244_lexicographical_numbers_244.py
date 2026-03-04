@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve lexicographical numbers and return the result.
+# Return lexicographical numbers.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

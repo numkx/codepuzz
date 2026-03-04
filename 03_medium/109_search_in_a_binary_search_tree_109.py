@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve search in a binary search tree and return the result.
+# Compute the required tree result for "search in a binary search tree" and return it.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Delete last element of a list and return the result.
+# Return delete last element of a list.
 #
 # Example: solve([1, 2, 3]) -> [1, 2].
 # Example: solve([5]) -> [].

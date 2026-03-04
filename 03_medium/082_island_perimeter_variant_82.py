@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve island perimeter variant and return the result.
+# Return island perimeter.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve binary tree zigzag level order traversal and return the result.
+# Return the zigzag level-order traversal of the binary tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

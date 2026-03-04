@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve lru cache and return the result.
+# Implement an LRU cache and return outputs for the required cache operations.
 #
 # Example: solve((2, [['put', 1, 1], ['put', 2, 2], ['get', 1], ['put', 3, 3], ['get', 2], ['put', 4, 4], ['get', 1], ['get', 3], ['get', 4]])) -> [None, None, 1, None, -1, None, -1, 3, 4].
 # Example: solve((1, [['put', 1, 1], ['put', 2, 2], ['get', 1], ['get', 2]])) -> [None, None, -1, 2].

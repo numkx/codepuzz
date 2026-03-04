@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute difference in minutes between two times and return the result.
+# Return compute difference in minutes between two times.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

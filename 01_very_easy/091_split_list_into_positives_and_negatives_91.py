@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Split list into positives and negatives and return the result.
+# Return split list into positives and negatives.
 #
 # Example: solve([-1, 2, -3, 4]) -> ([2, 4], [-1, -3]).
 # Example: solve([]) -> ([], []).

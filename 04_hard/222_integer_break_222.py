@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve integer break and return the result.
+# Break n into at least two positive integers and return the maximum product.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

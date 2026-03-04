@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Move all negatives to front while keeping order and return the result.
+# Return move all negatives to front while keeping order.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

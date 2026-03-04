@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve evaluate bracket sequence validity in a text stream and return the result.
+# Evaluate bracket sequence validity in a text stream and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

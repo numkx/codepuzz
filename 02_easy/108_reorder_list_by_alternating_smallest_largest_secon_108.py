@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve reorder list by alternating smallest, largest, second smallest... and return the result.
+# Return reorder list by alternating smallest, largest, second smallest....
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

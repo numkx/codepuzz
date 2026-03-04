@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Replace tabs with configured number of spaces and return the result.
+# Replace tabs with configured number of spaces and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

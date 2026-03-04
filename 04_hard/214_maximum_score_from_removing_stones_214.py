@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve maximum score from removing stones and return the result.
+# Return the maximum score from removing stones.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

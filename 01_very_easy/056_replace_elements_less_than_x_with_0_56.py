@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace elements less than x with 0 and return the result.
+# Replace elements less than x with 0 and return the updated result.
 #
 # Example: solve([1, 5, 3], 3) -> [0, 5, 3].
 # Example: solve([], 1) -> [].

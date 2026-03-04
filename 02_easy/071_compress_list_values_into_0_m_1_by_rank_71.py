@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compress list values into 0..m-1 by rank and return the result.
+# Return compress list values into 0..m-1 by rank.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

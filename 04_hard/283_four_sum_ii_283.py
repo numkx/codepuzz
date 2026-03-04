@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve four sum ii and return the result.
+# Return the four sum ii.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

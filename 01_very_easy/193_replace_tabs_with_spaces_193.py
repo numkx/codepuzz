@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace tabs with spaces and return the result.
+# Replace tabs with spaces and return the updated result.
 #
 # Example: solve('a\tb') -> 'a b'.
 # Example: solve('\t') -> ' '.

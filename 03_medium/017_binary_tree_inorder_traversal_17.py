@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve binary tree inorder traversal and return the result.
+# Return the inorder traversal of the binary tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

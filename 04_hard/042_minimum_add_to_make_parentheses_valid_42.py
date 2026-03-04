@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve minimum add to make parentheses valid and return the result.
+# Return the minimum add to make parentheses valid.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

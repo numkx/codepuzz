@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove adjacent duplicate letters repeatedly until stable and return the result.
+# Remove adjacent duplicate letters repeatedly until stable and return the updated result.
 #
 # Example: solve([1, 2, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

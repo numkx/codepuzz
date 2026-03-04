@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve divisor game and return the result.
+# Return divisor game.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

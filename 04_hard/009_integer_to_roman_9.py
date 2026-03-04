@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve integer to roman and return the result.
+# Convert the integer to its Roman numeral representation.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

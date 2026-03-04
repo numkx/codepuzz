@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve range sum query immutable and return the result.
+# Given immutable array queries, return the range-sum results for requested intervals.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

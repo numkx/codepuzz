@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove intervals fully covered by others and return the result.
+# Remove intervals fully covered by others and return the updated result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

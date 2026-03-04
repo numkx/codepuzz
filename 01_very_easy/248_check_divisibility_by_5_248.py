@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve check divisibility by 5 and return the result.
+# Return True when divisibility by 5, otherwise return False.
 #
 # Example: solve(5) -> True.
 # Example: solve(4) -> False.

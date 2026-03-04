@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve redundant connection and return the result.
+# Return redundant connection.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

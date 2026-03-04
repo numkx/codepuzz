@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Remove duplicate elements and return the result.
+# Remove duplicate elements and return the updated result.
 #
 # Example: solve([1, 2, 2, 3, 1]) -> [1, 2, 3].
 # Example: solve([]) -> [].

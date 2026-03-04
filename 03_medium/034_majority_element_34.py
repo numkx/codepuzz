@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve majority element and return the result.
+# Return the element that appears more than n/2 times in the array.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

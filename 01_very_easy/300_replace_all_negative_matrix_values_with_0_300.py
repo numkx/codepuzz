@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace all negative matrix values with 0 and return the result.
+# Replace all negative matrix values with 0 and return the updated result.
 #
 # Example: solve([[1, -2], [-3, 4]]) -> [[1, 0], [0, 4]].
 # Example: solve([[1]]) -> [[1]].

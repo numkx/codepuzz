@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve palindromic substrings and return the result.
+# Perform the required string operation for "palindromic substrings" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

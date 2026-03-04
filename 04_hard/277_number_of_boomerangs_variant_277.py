@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the number of boomerangs variant.
+# Return the number of boomerangs.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

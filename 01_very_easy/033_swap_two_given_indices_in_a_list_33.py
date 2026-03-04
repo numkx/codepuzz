@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap two given indices in a list and return the result.
+# Return swap two given indices in a list.
 #
 # Example: solve([1, 2, 3], 0, 2) -> [3, 2, 1].
 # Example: solve([5, 6], 0, 1) -> [6, 5].

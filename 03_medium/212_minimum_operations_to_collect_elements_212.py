@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum operations to collect elements and return the result.
+# Return the minimum operations to collect elements.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

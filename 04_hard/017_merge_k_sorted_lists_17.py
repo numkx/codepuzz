@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Merge k sorted lists and return the result.
+# Merge k sorted linked lists and return one sorted linked list.
 #
 # Example: solve([1, 3, 5], [2, 4, 6]) -> [1, 2, 3, 4, 5, 6].
 # Example: solve([], [1]) -> [1].

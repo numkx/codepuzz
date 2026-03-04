@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve available captures for rook and return the result.
+# Return available captures for rook.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

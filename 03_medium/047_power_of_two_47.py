@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve power of two and return the result.
+# Return True if n is a power of two, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

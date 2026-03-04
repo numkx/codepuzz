@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Repeat a string n times and return the result.
+# Perform the required string operation for "repeat a string n times" and return the result.
 #
 # Example: solve('ab', 3) -> 'ababab'.
 # Example: solve('x', 1) -> 'x'.

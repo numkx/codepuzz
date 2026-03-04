@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve round number down to nearest integer and return the result.
+# Return round number down to nearest integer.
 #
 # Example: solve(2.9) -> 2.
 # Example: solve(2.0) -> 2.

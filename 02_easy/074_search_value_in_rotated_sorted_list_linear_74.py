@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve search value in rotated sorted list and return the result.
+# Return search value in rotated sorted list.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

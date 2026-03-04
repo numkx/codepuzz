@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve is subsequence and return the result.
+# Return True if subsequence, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

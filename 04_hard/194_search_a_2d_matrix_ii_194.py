@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve search a 2d matrix ii and return the result.
+# Apply the required operation on the given matrix and return the result.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

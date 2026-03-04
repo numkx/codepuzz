@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve undo/redo simulator for text append/delete commands and return the result.
+# Return undo/redo simulator for text append/delete commands.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

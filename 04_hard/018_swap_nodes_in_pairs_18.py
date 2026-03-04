@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Swap nodes in pairs and return the result.
+# Swap every two adjacent nodes in a linked list and return the head.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve compute lcm of two integers and return the result.
+# Return compute lcm of two integers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

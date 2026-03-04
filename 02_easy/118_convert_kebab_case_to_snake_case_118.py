@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert kebab-case to snake_case and return the result.
+# Convert kebab-case to snake_case and return the converted result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve simulate round-robin processing with quantum q and return the result.
+# Return simulate round-robin processing with quantum q.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

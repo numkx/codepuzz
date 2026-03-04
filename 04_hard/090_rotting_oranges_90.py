@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve rotting oranges and return the result.
+# Return rotting oranges.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve h index and return the result.
+# Given citation counts, return the researcher's h-index.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve third maximum number and return the result.
+# Return third maximum number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

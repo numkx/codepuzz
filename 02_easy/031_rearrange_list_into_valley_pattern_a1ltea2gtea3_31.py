@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve rearrange list into valley pattern a1<=a2>=a3... and return the result.
+# Return rearrange list into valley pattern a1<=a2>=a3....
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

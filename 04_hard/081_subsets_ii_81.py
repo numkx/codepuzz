@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve subsets ii and return the result.
+# Return all unique subsets of the array when duplicates may exist.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

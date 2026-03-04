@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove outermost parentheses groups and return the result.
+# Remove outermost parentheses groups and return the updated result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

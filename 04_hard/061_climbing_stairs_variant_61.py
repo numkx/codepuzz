@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve climbing stairs variant and return the result.
+# Return climbing stairs.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve hamming distance and return the result.
+# Return the hamming distance.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

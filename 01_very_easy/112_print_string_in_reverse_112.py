@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Solve print string in reverse and return the result.
+# Perform the required string operation for "print string in reverse" and return the result.
 #
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.

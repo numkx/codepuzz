@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Keep only first occurrence of each character and return the result.
+# Return keep only first occurrence of each character.
 #
 # Example: solve('banana') -> 'ban'.
 # Example: solve('') -> ''.

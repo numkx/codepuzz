@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve detect cycle in directed graph using dfs colors and return the result.
+# Compute the required linked-list result for "detect cycle in directed graph using dfs colors" and return it.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

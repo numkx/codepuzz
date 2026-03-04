@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve minimum changes to make alternating binary string and return the result.
+# Perform the required string operation for "minimum changes to make alternating binary string" and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve evaluate division and return the result.
+# Evaluate each query ratio using the given equations and values.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Implement selection sort and return number of swaps and return outputs for the required operations.
+# Implement selection sort and return number of swaps and return outputs for required operations.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

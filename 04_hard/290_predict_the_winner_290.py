@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve predict the winner and return the result.
+# Return predict the winner.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

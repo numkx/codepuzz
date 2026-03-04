@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve two sum ii input array is sorted and return the result.
+# Compute the required array/list result for "two sum ii input array is sorted" and return it.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

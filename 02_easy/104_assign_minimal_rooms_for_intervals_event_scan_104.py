@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Solve assign minimal rooms for intervals and return the result.
+# Compute the required array/list result for "assign minimal rooms for intervals" and return it.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

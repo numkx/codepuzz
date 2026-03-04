@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Group anagrams and return the result.
+# Group the strings that are anagrams and return the grouped lists.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

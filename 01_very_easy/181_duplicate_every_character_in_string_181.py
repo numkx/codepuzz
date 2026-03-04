@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Duplicate every character in string and return the result.
+# Perform the required string operation for "duplicate every character in string" and return the result.
 #
 # Example: solve('ab') -> 'aabb'.
 # Example: solve('') -> ''.

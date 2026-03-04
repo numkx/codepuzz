@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Remove last digit from integer and return the result.
+# Remove last digit from integer and return the updated result.
 #
 # Example: solve(123) -> 12.
 # Example: solve(5) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Solve longest valid parentheses and return the result.
+# Return the length of the longest valid parentheses substring.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

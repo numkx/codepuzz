@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Solve diet plan performance and return the result.
+# Return diet plan performance.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
