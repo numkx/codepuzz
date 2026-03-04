@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return fibonacci number.
+# Given a number/integer input, return fibonacci number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

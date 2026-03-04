@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return circular sentence.
+# Given string input, return circular sentence.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

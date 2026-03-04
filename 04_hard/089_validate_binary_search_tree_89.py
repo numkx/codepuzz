@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if the binary tree is a valid binary search tree, otherwise return False.
+# Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

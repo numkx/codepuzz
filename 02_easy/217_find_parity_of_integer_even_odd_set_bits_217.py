@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return parity of integer.
+# Given a number/integer input, return parity of integer.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

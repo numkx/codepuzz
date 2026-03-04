@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given the input, return string length.
+# Given string input, return string length.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

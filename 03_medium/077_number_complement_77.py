@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return number complement.
+# Given a number/integer input, return number complement.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

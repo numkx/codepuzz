@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute integer square root via binary search and return the result.
+# Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

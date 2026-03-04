@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a binary-tree input, return the result for longest substring with at most two distinct characters.
+# Given string input, return the result for longest substring with at most two distinct characters.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

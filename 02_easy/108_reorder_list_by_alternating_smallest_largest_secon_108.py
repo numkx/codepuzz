@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return reorder list by alternating smallest, largest, second smallest....
+# Given a linked list, reorder it to alternate first and last nodes and return the updated list.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

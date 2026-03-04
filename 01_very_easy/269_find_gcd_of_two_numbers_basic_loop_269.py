@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given the input, return gcd of two numbers.
+# Given a number/integer input, return gcd of two numbers.
 #
 # Example: solve(54, 24) -> 6.
 # Example: solve(10, 5) -> 5.

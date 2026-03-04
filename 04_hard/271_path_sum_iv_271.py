@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return path sum iv.
+# Given encoded tree path input, return the total of all root-to-leaf path sums.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

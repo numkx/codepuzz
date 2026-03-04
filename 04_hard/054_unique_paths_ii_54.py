@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return unique paths ii.
+# Given a grid with obstacles, return the number of unique paths from top-left to bottom-right.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

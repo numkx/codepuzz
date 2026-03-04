@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a binary-tree input, return the result for repeated substring pattern.
+# Given string input, return the result for repeated substring pattern.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

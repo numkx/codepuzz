@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return right interval.
+# Given intervals, return for each interval the index of the interval with the smallest start >= current end, or -1.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

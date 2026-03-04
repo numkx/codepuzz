@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a binary-tree input, return the result for length of longest substring without repeating characters.
+# Given string input, return the result for length of longest substring without repeating characters.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return common characters.
+# Given string input, return common characters.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given the input, return lcm of two numbers.
+# Given a number/integer input, return lcm of two numbers.
 #
 # Example: solve(4, 6) -> 12.
 # Example: solve(10, 5) -> 10.

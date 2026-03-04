@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of occurrences of target in sorted list using binary search.
+# Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

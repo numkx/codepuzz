@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for palindrome number.
+# Given an integer, return True if it reads the same forward and backward, otherwise return False.
 #
 # Example: solve(121) -> True.
 # Example: solve(-121) -> False.

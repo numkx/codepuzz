@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return island perimeter.
+# Given a binary grid with one island, return the island perimeter.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return ugly number ii.
+# Given a number/integer input, return ugly number ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

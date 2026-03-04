@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if number is perfect cube, otherwise return False.
+# Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

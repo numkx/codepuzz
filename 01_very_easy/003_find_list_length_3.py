@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given the input, return list length.
+# Given array/list input, return list length.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

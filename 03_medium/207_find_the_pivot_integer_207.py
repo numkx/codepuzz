@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return the pivot integer.
+# Given a number/integer input, return the pivot integer.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

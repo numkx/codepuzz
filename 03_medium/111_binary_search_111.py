@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return binary search.
+# Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
 # Example: solve([-1, 0, 3, 5, 9, 12], 9) -> 4.
 # Example: solve([-1, 0, 3, 5, 9, 12], 2) -> -1.

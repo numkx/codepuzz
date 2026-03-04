@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given the input, return substring index.
+# Given string input, return substring index.
 #
 # Example: solve('hello world', 'world') -> 6.
 # Example: solve('abc', 'd') -> -1.

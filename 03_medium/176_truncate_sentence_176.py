@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return truncate sentence.
+# Given string input, return truncate sentence.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
