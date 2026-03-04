@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given string input, return the result for longest palindrome.
+# Given a string, return the maximum length of a palindrome that can be built with its characters.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the minimum intervals needed to finish all tasks with cooldown constraints.
+# Return the minimum intervals needed to finish all tasks with cooldown (required waiting time) constraints.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

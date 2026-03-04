@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Sort array by parity ii and return the result.
+# Sort array by parity (whether count is even or odd) ii and return the result.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if the target word exists in the grid using horizontal or vertical neighbors, otherwise return False.
+# Given the input, return the required string result for this problem.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

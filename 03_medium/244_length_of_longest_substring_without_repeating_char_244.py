@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for length of longest substring without repeating characters.
+# Given a string, return the required longest-substring value described by the problem constraints.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

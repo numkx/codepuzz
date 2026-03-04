@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the next state of the Game of Life board in-place.
+# Compute the next state of the Game of Life board in-place (modify the original input directly).
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

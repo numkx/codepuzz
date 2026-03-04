@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the number of contiguous arithmetic subarrays of length at least 3.
+# Return the number of contiguous (adjacent, with no gaps) arithmetic subarrays of length at least 3.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

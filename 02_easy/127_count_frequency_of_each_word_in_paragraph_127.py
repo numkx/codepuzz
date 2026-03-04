@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of frequency of each word in paragraph.
+# Given string input, apply the required string operation and return the expected result.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

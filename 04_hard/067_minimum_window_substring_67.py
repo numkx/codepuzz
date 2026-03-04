@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the smallest substring of s that contains all characters of t.
+# Given strings s and t, return the shortest substring of s that contains all characters of t.
 #
 # Example: solve('ADOBECODEBANC', 'ABC') -> 'BANC'.
 # Example: solve('a', 'a') -> 'a'.

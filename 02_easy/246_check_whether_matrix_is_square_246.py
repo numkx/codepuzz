@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if matrix is square, otherwise return False.
+# Given the input, return the required list result for this problem.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

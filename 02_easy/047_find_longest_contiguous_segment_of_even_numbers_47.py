@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous segment of even numbers.
+# Return longest contiguous (adjacent, with no gaps) segment of even numbers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

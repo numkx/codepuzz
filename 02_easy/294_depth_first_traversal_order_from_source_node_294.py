@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return depth-first traversal order from source node.
+# Return depth-first traversal (visiting nodes in a specific order) order from source node.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

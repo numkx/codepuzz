@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return contiguous segment with minimum sum.
+# Return contiguous (adjacent, with no gaps) segment with minimum sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the index of the first occurrence in a string.
+# Given two strings, return the index of the first occurrence of the second string in the first, or -1 if it does not occur.
 #
 # Example: solve('sadbutsad', 'sad') -> 0.
 # Example: solve('leetcode', 'leeto') -> -1.

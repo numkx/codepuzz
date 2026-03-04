@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Compare two strings lexicographically and return the result.
+# Compare two strings lexicographically (in dictionary order) and return the result.
 #
 # Example: solve('abc', 'abd') -> -1.
 # Example: solve('abd', 'abc') -> 1.

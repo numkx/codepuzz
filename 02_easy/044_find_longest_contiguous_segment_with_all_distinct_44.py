@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous segment with all distinct values.
+# Return longest contiguous (adjacent, with no gaps) segment with all distinct values.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

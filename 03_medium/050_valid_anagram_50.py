@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for valid anagram.
+# Given two strings, return True if one is an anagram (same letters in a different order) of the other, otherwise return False.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

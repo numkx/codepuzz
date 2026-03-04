@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return contiguous segment with maximum sum.
+# Return contiguous (adjacent, with no gaps) segment with maximum sum.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

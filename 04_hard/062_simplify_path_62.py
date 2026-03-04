@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Simplify the absolute Unix file path and return its canonical form.
+# Simplify the absolute Unix file path and return its canonical (standard simplified path form) form.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for valid palindrome.
+# Given a string, return True if it is a palindrome after converting to lowercase and removing non-alphanumeric (letters and digits only) characters, otherwise return False.
 #
 # Example: solve('A man, a plan, a canal: Panama') -> True.
 # Example: solve('race a car') -> False.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of islands of 1s in binary grid.
+# Return the count of islands of 1s in binary (base-2 representation using 0 and 1) grid.
 #
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.

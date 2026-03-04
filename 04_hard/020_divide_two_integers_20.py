@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Divide two integers without using multiplication, division, or mod operators, then return the truncated quotient.
+# Divide two integers without using multiplication, division, or mod operators, then return the truncated (remove decimal part toward zero) quotient.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given an immutable matrix, return the sum for each queried sub-rectangle.
+# Given an immutable (does not change after creation) matrix, return the sum for each queried sub-rectangle (smaller rectangle inside a matrix).
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

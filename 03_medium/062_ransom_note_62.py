@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if the ransom note can be constructed from the magazine letters, otherwise return False.
+# Given ransomNote and magazine strings, return True if ransomNote can be constructed from magazine letters, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

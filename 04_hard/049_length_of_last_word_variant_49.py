@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given string input, return the result for length of last word.
+# Given a string containing words and spaces, return the length of the last word.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

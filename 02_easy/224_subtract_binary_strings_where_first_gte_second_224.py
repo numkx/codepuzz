@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Subtract binary strings where first >= second and return the result.
+# Subtract binary (base-2 representation using 0 and 1) strings where first >= second and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all words with maximal length.
+# Given string input, apply the required string operation and return the expected result.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

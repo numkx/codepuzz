@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return shortest word in sentence.
+# Given string input, apply the required string operation and return the expected result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

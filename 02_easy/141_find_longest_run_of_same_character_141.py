@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest run of same character.
+# Given string input, apply the required string operation and return the expected result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

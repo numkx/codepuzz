@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the maximum profit for best time to buy and sell stock with cooldown.
+# Return the maximum profit for best time to buy and sell stock with cooldown (required waiting time).
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

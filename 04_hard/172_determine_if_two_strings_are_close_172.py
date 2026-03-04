@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if two strings are close, otherwise return False.
+# Given string input, apply the required string operation and return the expected result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

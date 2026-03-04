@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given left and right, return the bitwise AND of all numbers in the inclusive range.
+# Given left and right, return the bitwise (operate on base-2 bits: 0 and 1) AND of all numbers in the inclusive range.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous non-increasing segment.
+# Return longest contiguous (adjacent, with no gaps) non-increasing segment.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

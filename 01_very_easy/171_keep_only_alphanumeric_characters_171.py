@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return keep only alphanumeric characters.
+# Return keep only alphanumeric (letters and digits only) characters.
 #
 # Example: solve('a1b2!') -> 'a1b2'.
 # Example: solve('') -> ''.

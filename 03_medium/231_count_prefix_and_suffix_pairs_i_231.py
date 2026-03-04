@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of prefix and suffix pairs i.
+# Return the count of prefix (starting part) and suffix (ending part) pairs i.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

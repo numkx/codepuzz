@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of contiguous segments with sum exactly target.
+# Return the count of contiguous (adjacent, with no gaps) segments with sum exactly target.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

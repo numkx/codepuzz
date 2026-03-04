@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a matrix/grid input, return the result for shortest path in binary matrix.
+# Given a matrix/grid input, return the result for shortest path in binary (base-2 representation using 0 and 1) matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

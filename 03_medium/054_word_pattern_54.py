@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for word pattern.
+# Given a pattern and a space-separated string, return True if they follow the same one-to-one (each item maps to one unique item) mapping, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

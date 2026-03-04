@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if utf 8 validation, otherwise return False.
+# Given the input, return the required numeric result for this problem.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Add binary strings and return the result.
+# Add binary (base-2 representation using 0 and 1) strings and return the result.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

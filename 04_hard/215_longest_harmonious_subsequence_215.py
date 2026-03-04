@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the longest harmonious subsequence.
+# Return the longest harmonious subsequence (keep order; items do not need to be adjacent).
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

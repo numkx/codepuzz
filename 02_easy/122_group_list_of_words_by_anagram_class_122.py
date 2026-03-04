@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given string input, return the result for group list of words by anagram class.
+# Given a list of words, group words that are anagrams and return the grouped lists.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

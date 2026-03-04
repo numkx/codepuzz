@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if the linked list contains a cycle, otherwise return False.
+# Given the input, return the required list result for this problem.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

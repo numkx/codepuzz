@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous segment of odd numbers.
+# Return longest contiguous (adjacent, with no gaps) segment of odd numbers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

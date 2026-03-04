@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Build and return the binary tree from inorder and postorder traversal arrays.
+# Build and return the binary tree from inorder (visit left subtree, then root, then right subtree) and postorder (visit left subtree, then right subtree, then root) traversal (visiting nodes in a specific order) arrays.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

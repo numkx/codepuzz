@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result of level order traversal ii for the given binary tree.
+# Return the result of level order traversal (visiting nodes in a specific order) ii for the given binary tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

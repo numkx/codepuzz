@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest substring with at most k distinct characters.
+# Given a string, return the required longest-substring value described by the problem constraints.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

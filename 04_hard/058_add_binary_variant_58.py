@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Add binary and return the result.
+# Add binary (base-2 representation using 0 and 1) and return the result.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

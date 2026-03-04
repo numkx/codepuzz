@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return all anagrams in a string.
+# Given strings s and p, return all start indices of substrings in s that are anagrams of p.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

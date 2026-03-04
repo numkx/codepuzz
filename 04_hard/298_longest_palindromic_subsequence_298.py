@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the longest palindromic subsequence.
+# Given a string, return the length of the longest palindromic (reads the same forward and backward) subsequence (keep order; items do not need to be adjacent).
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

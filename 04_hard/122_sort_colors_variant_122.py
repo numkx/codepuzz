@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Sort the array containing 0s, 1s, and 2s in-place.
+# Sort the array containing 0s, 1s, and 2s in-place (modify the original input directly).
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

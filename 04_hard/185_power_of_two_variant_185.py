@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if n is a power of two, otherwise return False.
+# Given the input, return the required numeric result for this problem.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

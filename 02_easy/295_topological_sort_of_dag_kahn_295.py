@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return topological sort of dag.
+# Return topological (ordering that respects dependencies) sort of dag.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

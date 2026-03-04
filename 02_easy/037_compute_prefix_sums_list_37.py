@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the compute prefix sums list.
+# Return the compute prefix (starting part) sums list.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

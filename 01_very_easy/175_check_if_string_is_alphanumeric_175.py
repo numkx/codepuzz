@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return True if string is alphanumeric, otherwise return False.
+# Return True if string is alphanumeric (letters and digits only), otherwise return False.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

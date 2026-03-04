@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the linked-list input, return the result for palindrome linked list.
+# Given a linked list, return True if the node values form a palindrome, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

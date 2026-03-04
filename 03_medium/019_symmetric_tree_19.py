@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if the binary tree is symmetric around its center, otherwise return False.
+# Given the input, return the required numeric result for this problem.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

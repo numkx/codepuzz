@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Convert binary string to decimal and return the converted result.
+# Convert binary (base-2 representation using 0 and 1) string to decimal and return the converted result.
 #
 # Example: solve('AbC') -> 'abc'.
 # Example: solve('HELLO') -> 'hello'.

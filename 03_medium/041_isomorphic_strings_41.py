@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for isomorphic strings.
+# Given two strings, return True if characters in the first can map one-to-one (each item maps to one unique item) to the second, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, return the result for palindromic substrings.
+# Given a string, return the number of palindromic (reads the same forward and backward) substrings.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

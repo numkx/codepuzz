@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a number/integer input, return parity of integer.
+# Given a number/integer input, return parity (whether count is even or odd) of integer.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True if the binary tree has a root-to-leaf path with the target sum, otherwise return False.
+# Given the input, return the required numeric result for this problem.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

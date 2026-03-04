@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if binary string has at most one segment of ones, otherwise return False.
+# Return True if binary (base-2 representation using 0 and 1) string has at most one segment of ones, otherwise return False.
 #
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.

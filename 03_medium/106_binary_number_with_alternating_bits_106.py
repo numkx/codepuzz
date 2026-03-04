@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return binary number with alternating bits.
+# Return binary (base-2 representation using 0 and 1) number with alternating bits.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

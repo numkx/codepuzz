@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if subsequence, otherwise return False.
+# Given strings s and t, return True if s is a subsequence (keep order; items do not need to be adjacent) of t, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

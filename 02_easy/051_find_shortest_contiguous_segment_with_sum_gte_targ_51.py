@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Return shortest contiguous segment with sum >= target.
+# Return shortest contiguous (adjacent, with no gaps) segment with sum >= target.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
