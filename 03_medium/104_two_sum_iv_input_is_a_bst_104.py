@@ -4,13 +4,16 @@
 # Description:
 # Given a binary search tree and target k, return True if two nodes sum to k, otherwise return False.
 #
-# Example: solve([1, 2, 3]) -> 2.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([5, 3, 6, 2, 4, None, 7], 28) -> False.
 # Example: solve([]) -> 0.
 #
-# Tags: [binary tree] [two pointers] [list] [array]
+# Tags: [binary tree] [hash map]
 #
 
-def solve(lst):
+def solve(lst, k):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([1, 2, 3],), 2),
-        (([],), 0),
-        (([1],), 1),
-        (([1, None, 2],), 2),
-        (([3, 9, 20, None, None, 15, 7],), 3),
-        (([1, 2, None, 3],), 3),
+        (([5, 3, 6, 2, 4, None, 7], 9), True),
+        (([5, 3, 6, 2, 4, None, 7], 28), False),
+        (([], 1), False),
+        (([2, 1, 3], 4), True),
+        (([2, 1, 3], 1), False),
+        (([1], 2), False),
     ]
     passed = 0
     for args, expected in tests:

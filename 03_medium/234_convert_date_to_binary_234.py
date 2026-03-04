@@ -4,6 +4,9 @@
 # Description:
 # Convert date to binary (base-2 representation using 0 and 1) and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Given a string, capitalize its first character and return the updated string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'Hello'.
 # Example: solve('') -> ''.
 #

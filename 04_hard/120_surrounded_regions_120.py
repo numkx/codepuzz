@@ -4,6 +4,9 @@
 # Description:
 # Capture all regions of O that are fully surrounded by X and return the updated board.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

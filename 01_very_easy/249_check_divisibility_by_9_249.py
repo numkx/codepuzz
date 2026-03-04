@@ -4,6 +4,9 @@
 # Description:
 # Return True when divisibility by 9, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(9) -> True.
 # Example: solve(10) -> False.
 #

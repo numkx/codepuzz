@@ -4,6 +4,9 @@
 # Description:
 # Return nearest value to target.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 4, 7], 5) -> 4.
 # Example: solve([1, 4, 7], 6) -> 7.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Calculate power a^b using loop and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2, 3) -> 8.
 # Example: solve(5, 0) -> 1.
 #

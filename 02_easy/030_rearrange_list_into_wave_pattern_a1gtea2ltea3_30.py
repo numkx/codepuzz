@@ -4,6 +4,9 @@
 # Description:
 # Return rearrange list into wave pattern a1>=a2<=a3....
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

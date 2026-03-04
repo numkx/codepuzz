@@ -4,6 +4,9 @@
 # Description:
 # Divide two integers without using multiplication, division, or mod operators, then return the truncated (remove decimal part toward zero) quotient.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

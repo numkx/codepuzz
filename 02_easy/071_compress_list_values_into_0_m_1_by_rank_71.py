@@ -4,6 +4,9 @@
 # Description:
 # Return compress list values into 0..m-1 by rank.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

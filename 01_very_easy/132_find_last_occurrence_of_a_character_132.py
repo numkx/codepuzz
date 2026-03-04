@@ -4,6 +4,9 @@
 # Description:
 # Return last occurrence of a character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('banana', 'a') -> 5.
 # Example: solve('abc', 'd') -> -1.
 #

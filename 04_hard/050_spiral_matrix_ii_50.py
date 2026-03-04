@@ -4,6 +4,9 @@
 # Description:
 # Given n, generate an n x n matrix filled in spiral order and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return the requested output for percentage of letter in string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

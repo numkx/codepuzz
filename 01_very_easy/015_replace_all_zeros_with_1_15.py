@@ -4,6 +4,9 @@
 # Description:
 # Replace all zeros with -1 and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([0, 1, 0]) -> [-1, 1, -1].
 # Example: solve([]) -> [].
 #

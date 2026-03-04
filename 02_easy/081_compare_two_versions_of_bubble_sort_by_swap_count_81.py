@@ -4,6 +4,9 @@
 # Description:
 # Compare two versions of bubble sort by swap count and return the comparison result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

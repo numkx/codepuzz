@@ -4,13 +4,16 @@
 # Description:
 # Return True if two chessboard squares have the same color, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('a1', 'h3') -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [matrix]
+# Tags: [math]
 #
 
-def solve(n):
+def solve(c1, c2):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,13 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (('a1', 'c3'), True),
+        (('a1', 'h3'), False),
+        (('b1', 'c3'), False),
+        (('d4', 'f6'), True),
+        (('h8', 'a1'), True),
+        (('g2', 'h3'), True),
+        (('', ''), False),
     ]
     passed = 0
     for args, expected in tests:

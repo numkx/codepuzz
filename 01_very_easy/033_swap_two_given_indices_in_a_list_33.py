@@ -4,6 +4,9 @@
 # Description:
 # Return swap two given indices in a list.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 0, 2) -> [3, 2, 1].
 # Example: solve([5, 6], 0, 1) -> [6, 5].
 #

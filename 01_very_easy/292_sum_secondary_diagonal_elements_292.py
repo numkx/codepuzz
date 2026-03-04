@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of secondary diagonal elements.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> 5.
 # Example: solve([[5]]) -> 5.
 #

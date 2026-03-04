@@ -4,6 +4,9 @@
 # Description:
 # Return an array where each index holds the product of all elements except itself.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

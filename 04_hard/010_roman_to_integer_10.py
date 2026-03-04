@@ -4,6 +4,9 @@
 # Description:
 # Convert the Roman numeral string to its integer value.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('III') -> 3.
 # Example: solve('LVIII') -> 58.
 #
@@ -24,6 +27,7 @@ if __name__ == "__main__":
         (('IV',), 4),
         (('IX',), 9),
         (('XL',), 40),
+        (('',), 0),
     ]
     passed = 0
     for args, expected in tests:

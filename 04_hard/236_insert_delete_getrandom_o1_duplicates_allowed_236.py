@@ -4,6 +4,9 @@
 # Description:
 # Insert delete getrandom o1 duplicates allowed and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 1, 9) -> [1, 9, 2, 3].
 # Example: solve([], 0, 5) -> [5].
 #

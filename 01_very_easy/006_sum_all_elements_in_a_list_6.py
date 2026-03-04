@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of all elements in a list.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 6.
 # Example: solve([]) -> 0.
 #

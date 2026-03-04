@@ -4,10 +4,13 @@
 # Description:
 # Given a matrix, return True if all non-diagonal elements are zero, otherwise return False.
 #
-# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 0], [1, 2]]) -> False.
 # Example: solve([[0]]) -> [[0]].
 #
-# Tags: [matrix] [list] [array]
+# Tags: [matrix]
 #
 
 def solve(lst):
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([[1, 2], [3, 4]],), [[1, 2], [3, 4]]),
-        (([[0]],), [[0]]),
-        (([[]],), [[]]),
-        (([[1]],), [[1]]),
-        (([[1, -1]],), [[1, -1]]),
-        (([[5, 6]],), [[5, 6]]),
+        (([[1, 0, 0], [0, 2, 0], [0, 0, 3]],), True),
+        (([[1, 0], [1, 2]],), False),
+        (([[5]],), True),
+        (([[0, 0], [0, 0]],), True),
+        (([[1, 0, 0], [0, 0, 0], [0, 0, 3]],), True),
+        (([[1, 0, 2], [0, 3, 0], [0, 0, 4]],), False),
     ]
     passed = 0
     for args, expected in tests:

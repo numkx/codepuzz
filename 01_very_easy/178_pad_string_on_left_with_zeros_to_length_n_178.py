@@ -4,6 +4,9 @@
 # Description:
 # Given a string and length n, left-pad with zeros until length n and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('42', 5) -> '00042'.
 # Example: solve('123', 3) -> '123'.
 #

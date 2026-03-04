@@ -4,6 +4,9 @@
 # Description:
 # Return the count of odd digits in an integer.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1234) -> 2.
 # Example: solve(0) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Maintain a stream and return the current kth largest value after each add operation.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

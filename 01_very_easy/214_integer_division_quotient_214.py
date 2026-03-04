@@ -4,6 +4,9 @@
 # Description:
 # Return integer division quotient.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(7, 3) -> 2.
 # Example: solve(10, 2) -> 5.
 #

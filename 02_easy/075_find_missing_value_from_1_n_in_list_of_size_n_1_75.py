@@ -4,6 +4,9 @@
 # Description:
 # Return missing value from 1..n in list of size n-1.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.
 #

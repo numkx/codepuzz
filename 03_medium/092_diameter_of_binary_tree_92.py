@@ -4,6 +4,9 @@
 # Description:
 # Given a binary tree, return the length of its diameter (the longest path between two nodes).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Reorder the linked list so nodes less than x come before nodes greater than or equal to x, preserving relative order.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

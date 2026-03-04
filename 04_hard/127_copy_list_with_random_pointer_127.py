@@ -4,6 +4,9 @@
 # Description:
 # Return a deep copy of a linked list where each node has next and random pointers.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

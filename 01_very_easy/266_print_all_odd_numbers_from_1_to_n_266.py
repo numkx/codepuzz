@@ -4,6 +4,9 @@
 # Description:
 # Return all odd numbers from 1 to n.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> [1].
 # Example: solve(2) -> [1].
 #

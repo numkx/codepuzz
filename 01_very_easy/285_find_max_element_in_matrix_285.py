@@ -4,6 +4,9 @@
 # Description:
 # Return max element in matrix.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> 4.
 # Example: solve([[1]]) -> 1.
 #

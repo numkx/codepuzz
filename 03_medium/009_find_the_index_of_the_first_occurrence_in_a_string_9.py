@@ -4,6 +4,9 @@
 # Description:
 # Given two strings, return the index of the first occurrence of the second string in the first, or -1 if it does not occur.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('sadbutsad', 'sad') -> 0.
 # Example: solve('leetcode', 'leeto') -> -1.
 #

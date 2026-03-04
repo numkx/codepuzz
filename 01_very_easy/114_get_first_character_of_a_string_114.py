@@ -4,6 +4,9 @@
 # Description:
 # Return first character of a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 'a'.
 # Example: solve('a') -> 'a'.
 #

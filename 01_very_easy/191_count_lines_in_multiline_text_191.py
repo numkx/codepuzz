@@ -4,6 +4,9 @@
 # Description:
 # Return the count of lines in multiline text.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a\nb\nc') -> 3.
 # Example: solve('') -> 0.
 #

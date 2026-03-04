@@ -4,6 +4,9 @@
 # Description:
 # Return True if valid parentheses, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('()') -> True.
 # Example: solve('()[]{}') -> True.
 #

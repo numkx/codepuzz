@@ -4,6 +4,9 @@
 # Description:
 # Convert the integer to its Roman numeral representation.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

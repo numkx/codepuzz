@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return the requested output for build abbreviation from first letters of words.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

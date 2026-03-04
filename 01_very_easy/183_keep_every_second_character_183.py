@@ -4,6 +4,9 @@
 # Description:
 # Return keep every second character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abcdef') -> 'ace'.
 # Example: solve('') -> ''.
 #

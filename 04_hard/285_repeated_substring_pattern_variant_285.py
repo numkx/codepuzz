@@ -4,10 +4,13 @@
 # Description:
 # Given a string, return True if it can be built by repeating one of its non-empty substrings, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('aba') -> False.
 # Example: solve('') -> ''.
 #
-# Tags: [binary tree] [string]
+# Tags: [string]
 #
 
 def solve(s):
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('abab',), True),
+        (('aba',), False),
+        (('abcabcabcabc',), True),
+        (('a',), False),
+        (('zzzz',), True),
+        (('abcdab',), False),
     ]
     passed = 0
     for args, expected in tests:

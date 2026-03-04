@@ -4,6 +4,9 @@
 # Description:
 # Given array/list input, return the requested output for squares of a sorted array.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

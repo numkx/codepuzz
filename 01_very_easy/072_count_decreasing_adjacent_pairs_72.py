@@ -4,6 +4,9 @@
 # Description:
 # Return the count of decreasing adjacent pairs.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 2, 2, 1]) -> 2.
 # Example: solve([]) -> 0.
 #

@@ -4,13 +4,16 @@
 # Description:
 # Given strings s and p, return all start indices of substrings in s that are anagrams of p.
 #
-# Example: solve('abba') -> True.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('abab', 'ab') -> [0, 1, 2].
 # Example: solve('abc') -> False.
 #
-# Tags: [string]
+# Tags: [string] [sliding window]
 #
 
-def solve(s):
+def solve(s, p):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('abba',), True),
-        (('abc',), False),
-        (('',), True),
-        (('a',), True),
-        (('ab',), False),
-        (('racecar',), True),
+        (('cbaebabacd', 'abc'), [0, 6]),
+        (('abab', 'ab'), [0, 1, 2]),
+        (('aaaaa', 'b'), []),
+        (('baa', 'aa'), [1]),
+        (('abc', 'abc'), [0]),
+        (('abc', 'def'), []),
     ]
     passed = 0
     for args, expected in tests:

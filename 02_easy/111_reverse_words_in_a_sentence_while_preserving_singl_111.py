@@ -4,6 +4,9 @@
 # Description:
 # Reverse words in a sentence while preserving single spaces and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.
 #

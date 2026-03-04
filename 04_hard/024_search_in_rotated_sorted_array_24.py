@@ -4,6 +4,9 @@
 # Description:
 # Search for target in a rotated sorted array and return its index, or -1 if not found.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

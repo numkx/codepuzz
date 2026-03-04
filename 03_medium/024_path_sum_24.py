@@ -4,6 +4,9 @@
 # Description:
 # Return the expected output for path sum.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

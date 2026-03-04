@@ -4,10 +4,13 @@
 # Description:
 # Return True if number is power of two, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(16) -> True.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [integer] [bit manipulation]
 #
 
 def solve(n):
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((1,), True),
+        ((16,), True),
+        ((18,), False),
+        ((0,), False),
+        ((1024,), True),
+        ((3,), False),
     ]
     passed = 0
     for args, expected in tests:

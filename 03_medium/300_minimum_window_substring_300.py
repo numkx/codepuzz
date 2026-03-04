@@ -4,6 +4,9 @@
 # Description:
 # Given strings s and t, return the shortest substring of s that contains all characters of t.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('ADOBECODEBANC', 'ABC') -> 'BANC'.
 # Example: solve('a', 'a') -> 'a'.
 #

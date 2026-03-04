@@ -4,6 +4,9 @@
 # Description:
 # Subtract two matrices and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[5, 6], [7, 8]], [[1, 2], [3, 4]]) -> [[4, 4], [4, 4]].
 # Example: solve([[0]], [[0]]) -> [[0]].
 #

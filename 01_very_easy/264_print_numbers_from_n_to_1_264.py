@@ -4,6 +4,9 @@
 # Description:
 # Return numbers from n to 1.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> [1].
 # Example: solve(3) -> [3, 2, 1].
 #

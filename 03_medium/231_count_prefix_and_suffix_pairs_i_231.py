@@ -4,6 +4,9 @@
 # Description:
 # Return the count of prefix (starting part) and suffix (ending part) pairs i.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

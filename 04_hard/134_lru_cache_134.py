@@ -4,10 +4,13 @@
 # Description:
 # Implement an LRU cache and return outputs for the required cache operations.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve((2, [['put', 1, 1], ['put', 2, 2], ['get', 1], ['put', 3, 3], ['get', 2], ['put', 4, 4], ['get', 1], ['get', 3], ['get', 4]])) -> [None, None, 1, None, -1, None, -1, 3, 4].
 # Example: solve((1, [['put', 1, 1], ['put', 2, 2], ['get', 1], ['get', 2]])) -> [None, None, -1, 2].
 #
-# Tags: [tuple]
+# Tags: [implementation]
 #
 
 def solve(t):
@@ -24,6 +27,7 @@ if __name__ == "__main__":
         (((1, [['put', 2, 1], ['get', 2], ['put', 3, 2], ['get', 2], ['get', 3]]),), [None, 1, None, -1, 2]),
         (((2, []),), []),
         (((2, [['get', 1]]),), [-1]),
+        (((),), []),
     ]
     passed = 0
     for args, expected in tests:

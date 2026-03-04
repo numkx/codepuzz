@@ -4,6 +4,9 @@
 # Description:
 # Given a matrix, return its transpose (swap rows and columns).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2, 3], [4, 5, 6]]) -> [[1, 4], [2, 5], [3, 6]].
 # Example: solve([[1]]) -> [[1]].
 #

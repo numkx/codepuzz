@@ -4,6 +4,9 @@
 # Description:
 # Calculate square of a number and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(3) -> 9.
 # Example: solve(0) -> 0.
 #

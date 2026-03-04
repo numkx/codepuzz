@@ -4,6 +4,9 @@
 # Description:
 # Replace tabs with spaces and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a\tb') -> 'a b'.
 # Example: solve('\t') -> ' '.
 #

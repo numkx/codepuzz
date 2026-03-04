@@ -4,6 +4,9 @@
 # Description:
 # Return True when divisibility by 2, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2) -> True.
 # Example: solve(3) -> False.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Sort list of tuples by second field then first and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

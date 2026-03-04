@@ -4,6 +4,9 @@
 # Description:
 # Return an array where each index i contains the number of set bits in i.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

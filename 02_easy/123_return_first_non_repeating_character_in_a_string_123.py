@@ -4,6 +4,9 @@
 # Description:
 # Return first non-repeating character in a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

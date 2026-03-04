@@ -4,6 +4,9 @@
 # Description:
 # Break n into at least two positive integers and return the maximum product.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

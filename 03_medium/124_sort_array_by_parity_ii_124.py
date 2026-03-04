@@ -4,6 +4,9 @@
 # Description:
 # Sort array by parity (whether count is even or odd) ii and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return the expected output for ant on the boundary.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

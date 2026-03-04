@@ -4,6 +4,9 @@
 # Description:
 # Return largest digit in an integer.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(123) -> 3.
 # Example: solve(0) -> 0.
 #

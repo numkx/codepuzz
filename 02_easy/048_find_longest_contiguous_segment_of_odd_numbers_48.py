@@ -4,6 +4,9 @@
 # Description:
 # Return longest contiguous (adjacent, with no gaps) segment of odd numbers.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

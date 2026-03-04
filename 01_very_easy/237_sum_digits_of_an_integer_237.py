@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of digits of an integer.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(123) -> 6.
 # Example: solve(0) -> 0.
 #

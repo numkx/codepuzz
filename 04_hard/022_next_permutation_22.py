@@ -4,6 +4,9 @@
 # Description:
 # Rearrange numbers into the next lexicographically (in dictionary order) greater permutation, or the smallest order if none exists.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

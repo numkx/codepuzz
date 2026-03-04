@@ -4,10 +4,13 @@
 # Description:
 # Given a bracket string, return True if brackets are balanced and properly nested, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('(]') -> False.
 # Example: solve('') -> ''.
 #
-# Tags: [string]
+# Tags: [string] [stack]
 #
 
 def solve(s):
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('()[]{}',), True),
+        (('(]',), False),
+        (('([{}])',), True),
+        (('(((()',), False),
+        (('',), True),
+        (('{[()]}[]',), True),
     ]
     passed = 0
     for args, expected in tests:

@@ -4,6 +4,9 @@
 # Description:
 # Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([-1, 0, 3, 5, 9, 12], 9) -> 4.
 # Example: solve([-1, 0, 3, 5, 9, 12], 2) -> -1.
 #

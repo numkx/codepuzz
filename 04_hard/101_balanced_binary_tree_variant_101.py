@@ -4,10 +4,13 @@
 # Description:
 # Given a binary tree, return True if it is height-balanced, otherwise return False.
 #
-# Example: solve([1, 2, 3]) -> 2.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([1, 2, 2, 3, 3, None, None, 4, 4]) -> False.
 # Example: solve([]) -> 0.
 #
-# Tags: [binary tree] [tree] [list] [array]
+# Tags: [binary tree] [dfs]
 #
 
 def solve(lst):
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([1, 2, 3],), 2),
-        (([],), 0),
-        (([1],), 1),
-        (([1, None, 2],), 2),
-        (([3, 9, 20, None, None, 15, 7],), 3),
-        (([1, 2, None, 3],), 3),
+        (([3, 9, 20, None, None, 15, 7],), True),
+        (([1, 2, 2, 3, 3, None, None, 4, 4],), False),
+        (([],), True),
+        (([1],), True),
+        (([1, 2, 3, 4, 5, 6, 7],), True),
+        (([1, 2, None, 3, None, 4, None, 5],), False),
     ]
     passed = 0
     for args, expected in tests:

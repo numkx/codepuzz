@@ -4,6 +4,9 @@
 # Description:
 # Return the count of elements greater than x.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 2) -> 1.
 # Example: solve([], 1) -> 0.
 #

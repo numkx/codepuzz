@@ -4,6 +4,9 @@
 # Description:
 # Multiply two same-length lists element-wise and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2], [3, 4]) -> [3, 8].
 # Example: solve([], []) -> [].
 #

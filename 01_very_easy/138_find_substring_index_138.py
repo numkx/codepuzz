@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return substring index.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello world', 'world') -> 6.
 # Example: solve('abc', 'd') -> -1.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return the result of right side view for the given binary tree.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

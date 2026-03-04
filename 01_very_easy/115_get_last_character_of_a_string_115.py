@@ -4,6 +4,9 @@
 # Description:
 # Return last character of a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 'c'.
 # Example: solve('a') -> 'a'.
 #

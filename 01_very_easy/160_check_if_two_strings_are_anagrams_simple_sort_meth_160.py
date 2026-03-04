@@ -4,6 +4,9 @@
 # Description:
 # Return True if two strings are anagrams, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('listen', 'silent') -> True.
 # Example: solve('triangle', 'integral') -> True.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Convert 12-hour time to 24-hour format and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

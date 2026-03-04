@@ -4,6 +4,9 @@
 # Description:
 # Given a list of words, join them with commas and return the resulting string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(['a', 'b', 'c']) -> 'a,b,c'.
 # Example: solve([]) -> ''.
 #

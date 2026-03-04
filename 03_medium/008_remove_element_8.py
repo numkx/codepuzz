@@ -4,6 +4,9 @@
 # Description:
 # Remove element and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 2, 2, 3], 3) -> ([2, 2], 2).
 # Example: solve([0, 1, 2, 2, 3, 0, 4, 2], 2) -> ([0, 1, 3, 0, 4], 5).
 #

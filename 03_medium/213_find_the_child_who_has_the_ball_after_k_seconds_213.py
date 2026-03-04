@@ -4,6 +4,9 @@
 # Description:
 # Return the child who has the ball after k seconds.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

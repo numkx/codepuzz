@@ -4,6 +4,9 @@
 # Description:
 # Build and return the binary tree from preorder (visit root, then left subtree, then right subtree) and inorder (visit left subtree, then root, then right subtree) traversal (visiting nodes in a specific order) arrays.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

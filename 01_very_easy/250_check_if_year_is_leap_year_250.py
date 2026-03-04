@@ -4,6 +4,9 @@
 # Description:
 # Return True if year is leap year, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2000) -> True.
 # Example: solve(1900) -> False.
 #
@@ -23,6 +26,7 @@ if __name__ == "__main__":
         ((2024,), True),
         ((2023,), False),
         ((2400,), True),
+        ((0,), False),
     ]
     passed = 0
     for args, expected in tests:

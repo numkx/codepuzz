@@ -4,6 +4,9 @@
 # Description:
 # Convert octal string to decimal and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('AbC') -> 'abc'.
 # Example: solve('HELLO') -> 'hello'.
 #

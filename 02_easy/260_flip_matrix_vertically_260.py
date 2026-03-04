@@ -4,6 +4,9 @@
 # Description:
 # Given a matrix, flip it vertically (top to bottom) and return the updated matrix.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

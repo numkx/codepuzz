@@ -4,10 +4,13 @@
 # Description:
 # Given a square matrix, return True if it is an identity matrix, otherwise return False.
 #
-# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 0], [0, 0]]) -> False.
 # Example: solve([[0]]) -> [[0]].
 #
-# Tags: [matrix] [list] [array]
+# Tags: [matrix]
 #
 
 def solve(lst):
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([[1, 2], [3, 4]],), [[1, 2], [3, 4]]),
-        (([[0]],), [[0]]),
-        (([[]],), [[]]),
-        (([[1]],), [[1]]),
-        (([[1, -1]],), [[1, -1]]),
-        (([[5, 6]],), [[5, 6]]),
+        (([[1, 0, 0], [0, 1, 0], [0, 0, 1]],), True),
+        (([[1, 0], [0, 0]],), False),
+        (([[1]],), True),
+        (([[0, 0], [0, 0]],), False),
+        (([[1, 0, 0], [0, 1, 0], [0, 0, 2]],), False),
+        (([[1, 0], [0, 1]],), True),
     ]
     passed = 0
     for args, expected in tests:

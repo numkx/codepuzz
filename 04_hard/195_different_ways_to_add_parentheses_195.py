@@ -4,6 +4,9 @@
 # Description:
 # Return all possible results from computing the expression with different parenthesizations (different valid parenthesis placements).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

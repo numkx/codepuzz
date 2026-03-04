@@ -4,6 +4,9 @@
 # Description:
 # Return expand basic char+count text.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a3b2') -> 'aaabb'.
 # Example: solve('x1') -> 'x'.
 #

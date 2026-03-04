@@ -2,12 +2,15 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if number is abundant, deficient, or perfect, otherwise return False.
+# Given an integer n, classify it as "abundant", "deficient", or "perfect" based on the sum of its proper divisors.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(12) -> 'abundant'.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [integer] [math]
 #
 
 def solve(n):
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((6,), 'perfect'),
+        ((12,), 'abundant'),
+        ((8,), 'deficient'),
+        ((1,), 'deficient'),
+        ((28,), 'perfect'),
+        ((18,), 'abundant'),
     ]
     passed = 0
     for args, expected in tests:

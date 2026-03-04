@@ -4,6 +4,9 @@
 # Description:
 # Calculate simple interest and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1000, 5, 2) -> 100.0.
 # Example: solve(500, 10, 1) -> 50.0.
 #

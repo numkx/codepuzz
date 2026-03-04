@@ -4,6 +4,9 @@
 # Description:
 # Return smallest digit in an integer.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(123) -> 1.
 # Example: solve(0) -> 0.
 #

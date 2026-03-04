@@ -4,6 +4,9 @@
 # Description:
 # Return a valid gray code sequence of length 2^n.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

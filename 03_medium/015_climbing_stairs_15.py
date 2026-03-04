@@ -4,6 +4,9 @@
 # Description:
 # Given n stairs, return the number of distinct ways to reach the top using 1 or 2 steps.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> 1.
 # Example: solve(2) -> 2.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return toggle case of each character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('AbC') -> 'aBc'.
 # Example: solve('hello') -> 'HELLO'.
 #

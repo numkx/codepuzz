@@ -4,7 +4,10 @@
 # Description:
 # Given a username string, return True if it satisfies the character and length rules, otherwise return False.
 #
-# Example: solve('abc') -> 3.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('ab') -> False.
 # Example: solve('') -> 0.
 #
 # Tags: [string]
@@ -18,12 +21,13 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('abc',), 3),
-        (('',), 0),
-        (('a',), 1),
-        (('hello',), 5),
-        (('a1b2',), 4),
-        (('Hi There',), 8),
+        (('alice_01',), True),
+        (('ab',), False),
+        (('thisusernameiswaytoolong',), False),
+        (('user-name',), False),
+        (('user123',), True),
+        (('_admin',), True),
+        (('',), False),
     ]
     passed = 0
     for args, expected in tests:

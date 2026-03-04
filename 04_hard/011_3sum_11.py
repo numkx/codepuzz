@@ -4,6 +4,9 @@
 # Description:
 # Return all unique triplets in the array whose sum is 0.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

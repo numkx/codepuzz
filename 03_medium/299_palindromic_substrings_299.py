@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return the number of palindromic (reads the same forward and backward) substrings.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

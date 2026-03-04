@@ -4,6 +4,9 @@
 # Description:
 # Replace first occurrence of substring and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a b') -> 'a_b'.
 # Example: solve('') -> ''.
 #

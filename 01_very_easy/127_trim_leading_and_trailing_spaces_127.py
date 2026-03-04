@@ -4,6 +4,9 @@
 # Description:
 # Return trim leading and trailing spaces.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('  hi  ') -> 'hi'.
 # Example: solve('hi') -> 'hi'.
 #

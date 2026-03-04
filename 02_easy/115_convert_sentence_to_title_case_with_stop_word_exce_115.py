@@ -4,6 +4,9 @@
 # Description:
 # Convert sentence to title case with stop-word exceptions and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

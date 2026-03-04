@@ -4,13 +4,16 @@
 # Description:
 # Return True if output sequence is possible stack permutation, otherwise return False.
 #
-# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([1, 2, 3], [3, 1, 2]) -> False.
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
-# Tags: [array] [stack]
+# Tags: [stack] [list]
 #
 
-def solve(t):
+def solve(inp, out):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(t):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((([['push', 1], ['pop'], ['empty']],),), [None, 1, True]),
-        ((([['push', 2], ['push', 3], ['top']],),), [None, None, 3]),
-        ((([['put', 1, 1], ['get', 1]],),), [None, 1]),
-        ((([['enqueue', 1], ['dequeue']],),), [None, 1]),
-        ((([['insert', 1], ['search', 1]],),), [None, True]),
-        ((([],),), []),
+        (([1, 2, 3], [2, 1, 3]), True),
+        (([1, 2, 3], [3, 1, 2]), False),
+        (([1, 2, 3, 4], [2, 1, 4, 3]), True),
+        (([1], [1]), True),
+        (([1, 2, 3], [1, 3, 2]), True),
+        (([1, 2, 3], [3, 2, 1]), True),
     ]
     passed = 0
     for args, expected in tests:

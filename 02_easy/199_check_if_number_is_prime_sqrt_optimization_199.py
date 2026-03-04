@@ -4,10 +4,13 @@
 # Description:
 # Return True if number is prime, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(4) -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [integer] [math]
 #
 
 def solve(n):
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((2,), True),
+        ((4,), False),
+        ((17,), True),
+        ((1,), False),
+        ((97,), True),
+        ((100,), False),
     ]
     passed = 0
     for args, expected in tests:

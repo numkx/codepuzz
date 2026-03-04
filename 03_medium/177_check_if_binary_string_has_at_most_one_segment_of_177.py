@@ -4,6 +4,9 @@
 # Description:
 # Return True if binary (base-2 representation using 0 and 1) string has at most one segment of ones, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

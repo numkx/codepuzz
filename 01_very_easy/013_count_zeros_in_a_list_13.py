@@ -4,6 +4,9 @@
 # Description:
 # Return the count of zeros in a list.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([0, 1, 0, 2]) -> 2.
 # Example: solve([]) -> 0.
 #

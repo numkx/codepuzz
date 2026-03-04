@@ -4,6 +4,9 @@
 # Description:
 # Create list of first n natural numbers and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> [1, 2, 3, 4, 5].
 # Example: solve(1) -> [1].
 #

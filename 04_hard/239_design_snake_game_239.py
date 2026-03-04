@@ -4,10 +4,13 @@
 # Description:
 # Design snake game and return outputs for required operations.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
-# Tags: [tuple]
+# Tags: [implementation]
 #
 
 def solve(t):
@@ -24,6 +27,7 @@ if __name__ == "__main__":
         ((([['enqueue', 1], ['dequeue']],),), [None, 1]),
         ((([['insert', 1], ['search', 1]],),), [None, True]),
         ((([],),), []),
+        (((),), []),
     ]
     passed = 0
     for args, expected in tests:

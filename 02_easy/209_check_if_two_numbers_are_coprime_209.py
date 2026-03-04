@@ -4,13 +4,16 @@
 # Description:
 # Given two integers, return True if their greatest common divisor is 1, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(12, 18) -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [integer] [math]
 #
 
-def solve(n):
+def solve(a, b):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,13 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((8, 15), True),
+        ((12, 18), False),
+        ((17, 4), True),
+        ((21, 14), False),
+        ((35, 64), True),
+        ((13, 27), True),
+        ((0, 0), False),
     ]
     passed = 0
     for args, expected in tests:

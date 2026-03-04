@@ -4,6 +4,9 @@
 # Description:
 # Given a binary (base-2 representation using 0 and 1) grid, return the maximum area of any connected island.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

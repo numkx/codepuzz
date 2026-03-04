@@ -4,6 +4,9 @@
 # Description:
 # Rotate string left by k and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc', 1) -> 'bca'.
 # Example: solve('abc', 2) -> 'cab'.
 #

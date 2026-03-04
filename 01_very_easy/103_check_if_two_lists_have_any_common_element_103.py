@@ -4,6 +4,9 @@
 # Description:
 # Return True if two lists have any common element, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> True.
 # Example: solve([]) -> True.
 #

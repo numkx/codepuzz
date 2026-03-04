@@ -4,6 +4,9 @@
 # Description:
 # Given a sorted array and a target, return the 1-based indices of the two numbers that add up to the target.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

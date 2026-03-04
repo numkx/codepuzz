@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return True if it is a palindrome ignoring spaces, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('n u r s e s r u n') -> True.
 # Example: solve('never odd or even') -> True.
 #

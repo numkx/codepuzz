@@ -4,6 +4,9 @@
 # Description:
 # Add binary (base-2 representation using 0 and 1) and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('11', '1') -> '100'.
 # Example: solve('1010', '1011') -> '10101'.
 #

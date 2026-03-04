@@ -4,6 +4,9 @@
 # Description:
 # Return alternate uppercase/lowercase characters.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abcdef') -> 'AbCdEf'.
 # Example: solve('a') -> 'A'.
 #

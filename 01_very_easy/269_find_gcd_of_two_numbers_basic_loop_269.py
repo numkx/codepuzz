@@ -4,6 +4,9 @@
 # Description:
 # Given a number/integer input, return gcd of two numbers.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(54, 24) -> 6.
 # Example: solve(10, 5) -> 5.
 #

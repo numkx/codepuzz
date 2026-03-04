@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return the length of the longest palindromic (reads the same forward and backward) subsequence (keep order; items do not need to be adjacent).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

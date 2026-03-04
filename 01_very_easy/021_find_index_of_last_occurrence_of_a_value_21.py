@@ -4,6 +4,9 @@
 # Description:
 # Return index of last occurrence of a value.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 2], 2) -> 3.
 # Example: solve([5, 5, 5], 5) -> 2.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return smallest adjacent difference.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 4, 2]) -> 2.
 # Example: solve([5]) -> 0.
 #

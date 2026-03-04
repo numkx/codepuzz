@@ -4,6 +4,9 @@
 # Description:
 # Return the expected output for flood fill.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 1, 1], [1, 1, 0], [1, 0, 1]], 1, 1, 2) -> [[2, 2, 2], [2, 2, 0], [2, 0, 1]].
 # Example: solve([[0, 0, 0], [0, 0, 0]], 0, 0, 0) -> [[0, 0, 0], [0, 0, 0]].
 #

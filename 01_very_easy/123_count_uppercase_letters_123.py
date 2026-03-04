@@ -4,6 +4,9 @@
 # Description:
 # Return the count of uppercase letters.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('AbC') -> 2.
 # Example: solve('abc') -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return the longest harmonious subsequence (keep order; items do not need to be adjacent).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

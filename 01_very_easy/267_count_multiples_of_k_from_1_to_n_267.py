@@ -4,6 +4,9 @@
 # Description:
 # Return the count of multiples of k from 1 to n.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(10, 2) -> 5.
 # Example: solve(10, 3) -> 3.
 #

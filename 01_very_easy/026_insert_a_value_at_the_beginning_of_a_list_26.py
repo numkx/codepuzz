@@ -4,6 +4,9 @@
 # Description:
 # Insert a value at the beginning of a list and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 0) -> [0, 1, 2, 3].
 # Example: solve([], 5) -> [5].
 #

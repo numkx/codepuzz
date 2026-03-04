@@ -4,6 +4,9 @@
 # Description:
 # Create list of first n odd numbers and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> [1, 3, 5, 7, 9].
 # Example: solve(1) -> [1].
 #

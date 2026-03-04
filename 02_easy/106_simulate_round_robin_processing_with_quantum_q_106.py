@@ -4,6 +4,9 @@
 # Description:
 # Return simulate round-robin processing with quantum q.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

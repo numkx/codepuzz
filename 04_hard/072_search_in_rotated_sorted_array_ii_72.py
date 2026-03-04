@@ -4,13 +4,16 @@
 # Description:
 # Given a rotated sorted array with possible duplicates, return True if target exists, otherwise return False.
 #
-# Example: solve([3, 1, 2]) -> [1, 2, 3].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([2, 5, 6, 0, 0, 1, 2], 3) -> False.
 # Example: solve([]) -> [].
 #
-# Tags: [array] [sorting] [search] [list]
+# Tags: [array] [binary search]
 #
 
-def solve(lst):
+def solve(lst, target):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([3, 1, 2],), [1, 2, 3]),
-        (([],), []),
-        (([1],), [1]),
-        (([2, 2, 1],), [1, 2, 2]),
-        (([-1, 3, 0],), [-1, 0, 3]),
-        (([5, 4],), [4, 5]),
+        (([2, 5, 6, 0, 0, 1, 2], 0), True),
+        (([2, 5, 6, 0, 0, 1, 2], 3), False),
+        (([1, 0, 1, 1, 1], 0), True),
+        (([1, 1, 1, 1], 2), False),
+        (([3, 1], 1), True),
+        (([1], 0), False),
     ]
     passed = 0
     for args, expected in tests:

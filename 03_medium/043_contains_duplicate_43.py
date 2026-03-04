@@ -4,6 +4,9 @@
 # Description:
 # Return True if the input contains duplicate, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 1]) -> True.
 # Example: solve([1, 2, 3, 4]) -> False.
 #

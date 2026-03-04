@@ -4,6 +4,9 @@
 # Description:
 # Given a list of words, group words that are anagrams and return the grouped lists.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

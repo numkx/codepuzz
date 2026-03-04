@@ -4,6 +4,9 @@
 # Description:
 # Return first occurrence of a character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('banana', 'a') -> 1.
 # Example: solve('abc', 'd') -> -1.
 #

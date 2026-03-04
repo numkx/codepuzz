@@ -4,6 +4,9 @@
 # Description:
 # Rotate array and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4], 1) -> [2, 3, 4, 1].
 # Example: solve([1], 3) -> [1].
 #

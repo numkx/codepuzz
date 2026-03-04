@@ -4,13 +4,16 @@
 # Description:
 # Return True if it is a straight line, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 1], [2, 2], [3, 4], [4, 5]]) -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [geometry] [math]
 #
 
-def solve(n):
+def solve(points):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,13 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (([[1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7]],), True),
+        (([[1, 1], [2, 2], [3, 4], [4, 5]],), False),
+        (([[0, 0], [0, 1], [0, 2]],), True),
+        (([[1, 2], [2, 2], [3, 2]],), True),
+        (([[1, 1], [2, 3], [3, 5]],), True),
+        (([[1, 1], [2, 2], [3, 3], [3, 4]],), False),
+        (([[]],), False),
     ]
     passed = 0
     for args, expected in tests:

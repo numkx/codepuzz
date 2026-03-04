@@ -4,6 +4,9 @@
 # Description:
 # Return the count of negative numbers in a sorted matrix.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.
 #

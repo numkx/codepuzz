@@ -4,6 +4,9 @@
 # Description:
 # Return the count of vowels in a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 2.
 # Example: solve('AEIOU') -> 5.
 #

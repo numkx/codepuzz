@@ -4,6 +4,9 @@
 # Description:
 # Calculate factorial of n and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(0) -> 1.
 # Example: solve(1) -> 1.
 #

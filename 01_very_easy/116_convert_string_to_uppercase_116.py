@@ -4,6 +4,9 @@
 # Description:
 # Convert string to uppercase and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'HELLO'.
 # Example: solve('AbC') -> 'ABC'.
 #

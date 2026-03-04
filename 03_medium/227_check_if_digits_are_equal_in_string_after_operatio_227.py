@@ -4,6 +4,9 @@
 # Description:
 # Return True if digits are equal in string after operations i, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Given a sentence, capitalize the first letter of each word and return the updated string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello world') -> 'Hello World'.
 # Example: solve('') -> ''.
 #

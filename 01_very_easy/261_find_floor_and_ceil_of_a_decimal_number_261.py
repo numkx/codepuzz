@@ -4,6 +4,9 @@
 # Description:
 # Return floor and ceil of a decimal number.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2.3) -> (2, 3).
 # Example: solve(2.0) -> (2, 2).
 #

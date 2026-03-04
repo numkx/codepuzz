@@ -4,6 +4,9 @@
 # Description:
 # Add 1 to each list element and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [2, 3, 4].
 # Example: solve([]) -> [].
 #

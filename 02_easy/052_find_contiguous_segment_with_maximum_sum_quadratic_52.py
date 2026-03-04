@@ -4,6 +4,9 @@
 # Description:
 # Return contiguous (adjacent, with no gaps) segment with maximum sum.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return True if two string arrays are equivalent, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

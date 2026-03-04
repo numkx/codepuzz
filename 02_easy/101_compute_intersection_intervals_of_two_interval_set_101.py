@@ -4,6 +4,9 @@
 # Description:
 # Given two interval sets, return their intersection intervals.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

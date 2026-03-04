@@ -4,6 +4,9 @@
 # Description:
 # Return the minimum number of arrows to burst balloons.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.
 #

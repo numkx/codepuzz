@@ -4,6 +4,9 @@
 # Description:
 # Return all 10-letter DNA sequences that occur more than once in the string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

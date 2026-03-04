@@ -2,15 +2,18 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a linked list, return True if it contains a cycle, otherwise return False.
+# Given linked-list values and a cycle index pos, return True if the linked list contains a cycle, otherwise return False.
 #
-# Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([1, 2], 0) -> True.
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].
 #
-# Tags: [linked list] [list]
+# Tags: [linked list]
 #
 
-def solve(t):
+def solve(lst, pos):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(t):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((([['push', 1], ['pop'], ['empty']],),), [None, 1, True]),
-        ((([['push', 2], ['push', 3], ['top']],),), [None, None, 3]),
-        ((([['put', 1, 1], ['get', 1]],),), [None, 1]),
-        ((([['enqueue', 1], ['dequeue']],),), [None, 1]),
-        ((([['insert', 1], ['search', 1]],),), [None, True]),
-        ((([],),), []),
+        (([3, 2, 0, -4], 1), True),
+        (([1, 2], 0), True),
+        (([1], -1), False),
+        (([], -1), False),
+        (([1, 2, 3], -1), False),
+        (([1], 0), True),
     ]
     passed = 0
     for args, expected in tests:

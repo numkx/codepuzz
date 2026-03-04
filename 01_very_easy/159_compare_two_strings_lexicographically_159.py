@@ -4,6 +4,9 @@
 # Description:
 # Compare two strings lexicographically (in dictionary order) and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc', 'abd') -> -1.
 # Example: solve('abd', 'abc') -> 1.
 #

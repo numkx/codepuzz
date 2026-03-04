@@ -4,6 +4,9 @@
 # Description:
 # Given a sentence, lowercase the first letter of each word and return the updated string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('Hello World') -> 'hello world'.
 # Example: solve('') -> ''.
 #

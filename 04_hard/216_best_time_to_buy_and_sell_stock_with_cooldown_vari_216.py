@@ -4,6 +4,9 @@
 # Description:
 # Return the maximum profit for best time to buy and sell stock with cooldown (required waiting time).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

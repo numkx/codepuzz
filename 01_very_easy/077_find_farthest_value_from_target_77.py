@@ -4,6 +4,9 @@
 # Description:
 # Return farthest value from target.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 4, 7], 5) -> 1.
 # Example: solve([1, 4, 7], 6) -> 1.
 #

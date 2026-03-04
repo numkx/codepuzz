@@ -4,6 +4,9 @@
 # Description:
 # Remove last digit from integer and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(123) -> 12.
 # Example: solve(5) -> 0.
 #

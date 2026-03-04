@@ -4,6 +4,9 @@
 # Description:
 # Create list of first n even numbers and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> [2, 4, 6, 8, 10].
 # Example: solve(1) -> [2].
 #

@@ -4,6 +4,9 @@
 # Description:
 # Sort list of strings by length then alphabetically and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.
 #

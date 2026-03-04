@@ -4,6 +4,9 @@
 # Description:
 # Return the sum of three integers in the array that is closest to the target.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

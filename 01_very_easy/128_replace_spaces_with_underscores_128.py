@@ -4,6 +4,9 @@
 # Description:
 # Replace spaces with underscores and return the updated result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a b c') -> 'a_b_c'.
 # Example: solve('') -> ''.
 #

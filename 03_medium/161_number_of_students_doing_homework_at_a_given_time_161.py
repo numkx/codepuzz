@@ -4,6 +4,9 @@
 # Description:
 # Return the number of students doing homework at a given time.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

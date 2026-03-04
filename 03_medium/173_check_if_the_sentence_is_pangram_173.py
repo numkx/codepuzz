@@ -4,13 +4,16 @@
 # Description:
 # Return True if the sentence is pangram, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('leetcode') -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [string] [set]
 #
 
-def solve(n):
+def solve(s):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (('thequickbrownfoxjumpsoverthelazydog',), True),
+        (('leetcode',), False),
+        (('abcdefghijklmnopqrstuvwxyz',), True),
+        (('abcdefghijklmnopqrstuvwxy',), False),
+        (('sphinxofblackquartzjudgemyvow',), True),
+        (('',), False),
     ]
     passed = 0
     for args, expected in tests:

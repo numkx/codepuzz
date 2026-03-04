@@ -4,13 +4,16 @@
 # Description:
 # Given a pattern and a space-separated string, return True if they follow the same one-to-one (each item maps to one unique item) mapping, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('abba', 'dog cat cat fish') -> False.
 # Example: solve('') -> ''.
 #
-# Tags: [string]
+# Tags: [string] [hash map]
 #
 
-def solve(s):
+def solve(pattern, s):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,13 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('abba', 'dog cat cat dog'), True),
+        (('abba', 'dog cat cat fish'), False),
+        (('aaaa', 'dog cat cat dog'), False),
+        (('abba', 'dog dog dog dog'), False),
+        (('abc', 'one two three'), True),
+        (('ab', 'dog dog'), False),
+        (('', ''), False),
     ]
     passed = 0
     for args, expected in tests:

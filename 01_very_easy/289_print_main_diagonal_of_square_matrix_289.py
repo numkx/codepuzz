@@ -4,6 +4,9 @@
 # Description:
 # Return main diagonal of square matrix.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [1, 4].
 # Example: solve([[5]]) -> [5].
 #

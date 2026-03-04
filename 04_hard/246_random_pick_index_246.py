@@ -4,6 +4,9 @@
 # Description:
 # Given an array and target, return a random index of the target with uniform probability (every valid choice is equally likely).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

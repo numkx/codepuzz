@@ -4,6 +4,9 @@
 # Description:
 # Return get elements in list b not in list a.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], [2, 4]) -> [4].
 # Example: solve([], [1]) -> [1].
 #

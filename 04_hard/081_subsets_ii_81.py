@@ -4,6 +4,9 @@
 # Description:
 # Return all unique subsets of the array when duplicates may exist.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

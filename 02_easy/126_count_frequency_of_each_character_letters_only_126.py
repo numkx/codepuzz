@@ -4,6 +4,9 @@
 # Description:
 # Return the count of frequency of each character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Convert miles to kilometers and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> 1.60934.
 # Example: solve(0) -> 0.0.
 #

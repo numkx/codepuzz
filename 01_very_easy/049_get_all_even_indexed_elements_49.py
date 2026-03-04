@@ -4,6 +4,9 @@
 # Description:
 # Return get all even-indexed elements.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4]) -> [1, 3].
 # Example: solve([]) -> [].
 #

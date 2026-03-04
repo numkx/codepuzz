@@ -4,6 +4,9 @@
 # Description:
 # Create a list of n ones and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> [1, 1, 1, 1, 1].
 # Example: solve(1) -> [1].
 #

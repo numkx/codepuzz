@@ -4,6 +4,9 @@
 # Description:
 # Given a string containing words and spaces, return the length of the last word.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.
 #

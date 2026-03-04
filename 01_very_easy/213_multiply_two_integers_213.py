@@ -4,6 +4,9 @@
 # Description:
 # Multiply two integers and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2, 3) -> 6.
 # Example: solve(-1, 1) -> -1.
 #

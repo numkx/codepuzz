@@ -4,6 +4,9 @@
 # Description:
 # Rotate string right by 1 and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 'cab'.
 # Example: solve('a') -> 'a'.
 #

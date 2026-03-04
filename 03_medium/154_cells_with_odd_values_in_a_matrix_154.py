@@ -4,6 +4,9 @@
 # Description:
 # Given matrix size and index operations, return the count of cells with odd values after all operations.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

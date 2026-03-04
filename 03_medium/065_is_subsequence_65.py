@@ -4,13 +4,16 @@
 # Description:
 # Given strings s and t, return True if s is a subsequence (keep order; items do not need to be adjacent) of t, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('axc', 'ahbgdc') -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [string]
+# Tags: [string] [two pointers]
 #
 
-def solve(n):
+def solve(s, t):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (('abc', 'ahbgdc'), True),
+        (('axc', 'ahbgdc'), False),
+        (('', 'ahbgdc'), True),
+        (('ace', 'abcde'), True),
+        (('aec', 'abcde'), False),
+        (('abc', 'abc'), True),
     ]
     passed = 0
     for args, expected in tests:

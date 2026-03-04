@@ -4,6 +4,9 @@
 # Description:
 # Return True if matrix is symmetric, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [2, 1]]) -> True.
 # Example: solve([[1, 0], [2, 1]]) -> False.
 #

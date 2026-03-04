@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return string in reverse.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.
 #

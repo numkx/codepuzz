@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return the longest palindromic (reads the same forward and backward) substring.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Given an array containing numbers from 0 to n with one missing value, return the missing number.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return the minimum number of perfect square numbers that sum to n.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

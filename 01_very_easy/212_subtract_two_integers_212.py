@@ -4,6 +4,9 @@
 # Description:
 # Subtract two integers and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5, 3) -> 2.
 # Example: solve(-1, 1) -> -2.
 #

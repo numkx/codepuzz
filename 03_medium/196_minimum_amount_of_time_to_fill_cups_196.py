@@ -4,6 +4,9 @@
 # Description:
 # Return the minimum amount of time to fill cups.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

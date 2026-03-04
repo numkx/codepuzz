@@ -2,15 +2,18 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a linked list, return True if the node values form a palindrome, otherwise return False.
+# Given linked-list values, return True if they form a palindrome, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([1, 2]) -> False.
 # Example: solve('') -> ''.
 #
-# Tags: [linked list] [list]
+# Tags: [linked list]
 #
 
-def solve(s):
+def solve(lst):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (([1, 2, 2, 1],), True),
+        (([1, 2],), False),
+        (([1],), True),
+        (([],), True),
+        (([1, 2, 3, 2, 1],), True),
+        (([1, 2, 3],), False),
     ]
     passed = 0
     for args, expected in tests:

@@ -4,6 +4,9 @@
 # Description:
 # Convert fahrenheit to celsius and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(32) -> 0.0.
 # Example: solve(212) -> 100.0.
 #

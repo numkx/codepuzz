@@ -4,6 +4,9 @@
 # Description:
 # Return all unique combinations where candidate numbers can be reused to reach the target sum.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

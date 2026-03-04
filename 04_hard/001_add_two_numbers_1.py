@@ -4,6 +4,9 @@
 # Description:
 # Add the two non-negative integers represented by linked lists and return the sum in the same linked-list format.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

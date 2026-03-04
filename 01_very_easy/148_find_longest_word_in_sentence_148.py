@@ -4,6 +4,9 @@
 # Description:
 # Return longest word in sentence.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a bb ccc') -> 'ccc'.
 # Example: solve('') -> ''.
 #

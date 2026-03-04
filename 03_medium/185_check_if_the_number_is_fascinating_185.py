@@ -4,10 +4,13 @@
 # Description:
 # Return True if the number is fascinating, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(100) -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [integer] [math]
 #
 
 def solve(n):
@@ -18,12 +21,13 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((192,), True),
+        ((100,), False),
+        ((273,), True),
+        ((783,), False),
+        ((327,), True),
+        ((219,), False),
+        ((0,), False),
     ]
     passed = 0
     for args, expected in tests:

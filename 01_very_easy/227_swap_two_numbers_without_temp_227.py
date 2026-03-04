@@ -4,6 +4,9 @@
 # Description:
 # Return swap two numbers without temp.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2, 3) -> (3, 2).
 # Example: solve(-1, 1) -> (1, -1).
 #

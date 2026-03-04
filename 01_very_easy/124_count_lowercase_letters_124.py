@@ -4,6 +4,9 @@
 # Description:
 # Return the count of lowercase letters.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('AbC') -> 1.
 # Example: solve('abc') -> 3.
 #

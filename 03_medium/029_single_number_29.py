@@ -4,6 +4,9 @@
 # Description:
 # Return the element that appears exactly once when all others appear twice.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([2, 2, 1]) -> 1.
 # Example: solve([4, 1, 2, 1, 2]) -> 4.
 #

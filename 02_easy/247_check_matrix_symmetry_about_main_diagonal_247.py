@@ -4,10 +4,13 @@
 # Description:
 # Given a square matrix, return True if it is symmetric about the main diagonal, otherwise return False.
 #
-# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 0, 3], [0, 5, 6], [3, 6, 9]]) -> True.
 # Example: solve([[0]]) -> [[0]].
 #
-# Tags: [matrix] [list] [array]
+# Tags: [matrix]
 #
 
 def solve(lst):
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([[1, 2], [3, 4]],), [[1, 2], [3, 4]]),
-        (([[0]],), [[0]]),
-        (([[]],), [[]]),
-        (([[1]],), [[1]]),
-        (([[1, -1]],), [[1, -1]]),
-        (([[5, 6]],), [[5, 6]]),
+        (([[1, 2], [2, 1]],), True),
+        (([[1, 0, 3], [0, 5, 6], [3, 6, 9]],), True),
+        (([[1, 2], [3, 4]],), False),
+        (([[1]],), True),
+        (([[1, 2, 3], [2, 5, 6], [3, 6, 9]],), True),
+        (([[1, 2, 3], [2, 5, 0], [3, 6, 9]],), False),
     ]
     passed = 0
     for args, expected in tests:

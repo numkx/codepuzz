@@ -4,6 +4,9 @@
 # Description:
 # Return the count of consonants in a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 3.
 # Example: solve('AEIOU') -> 0.
 #

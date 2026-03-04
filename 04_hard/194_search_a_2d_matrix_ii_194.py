@@ -4,13 +4,16 @@
 # Description:
 # Given a 2D matrix and target, return True if target exists in the matrix, otherwise return False.
 #
-# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 4, 7, 11], [2, 5, 8, 12], [3, 6, 9, 16]], 15) -> False.
 # Example: solve([[0]]) -> [[0]].
 #
-# Tags: [matrix] [search] [list] [array]
+# Tags: [matrix] [binary search]
 #
 
-def solve(lst):
+def solve(lst, target):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([[1, 2], [3, 4]],), [[1, 2], [3, 4]]),
-        (([[0]],), [[0]]),
-        (([[]],), [[]]),
-        (([[1]],), [[1]]),
-        (([[1, -1]],), [[1, -1]]),
-        (([[5, 6]],), [[5, 6]]),
+        (([[1, 4, 7, 11], [2, 5, 8, 12], [3, 6, 9, 16]], 5), True),
+        (([[1, 4, 7, 11], [2, 5, 8, 12], [3, 6, 9, 16]], 15), False),
+        (([], 1), False),
+        (([[1]], 1), True),
+        (([[1]], 0), False),
+        (([[1, 2], [3, 4]], 3), True),
     ]
     passed = 0
     for args, expected in tests:

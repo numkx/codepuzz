@@ -4,6 +4,9 @@
 # Description:
 # Given an integer n, return all prime numbers less than or equal to n.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

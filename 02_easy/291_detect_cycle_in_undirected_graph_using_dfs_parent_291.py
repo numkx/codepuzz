@@ -4,6 +4,9 @@
 # Description:
 # Given an undirected graph, return True if a cycle exists, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.
 #
@@ -24,6 +27,7 @@ if __name__ == "__main__":
         (((4, [[0, 1], [2, 3]]),), False),
         (((4, [[0, 1], [1, 2], [2, 3]]),), True),
         (((2, []),), False),
+        (((),), False),
     ]
     passed = 0
     for args, expected in tests:

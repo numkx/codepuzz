@@ -4,6 +4,9 @@
 # Description:
 # Return the maximum nesting depth of the parentheses.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

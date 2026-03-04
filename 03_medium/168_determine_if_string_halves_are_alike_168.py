@@ -4,7 +4,10 @@
 # Description:
 # Return True if string halves are alike, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('textbook') -> False.
 # Example: solve('') -> ''.
 #
 # Tags: [string]
@@ -18,12 +21,13 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('book',), True),
+        (('textbook',), False),
+        (('MerryChristmas',), False),
+        (('AbCdEfGh',), True),
+        (('aa',), True),
+        (('bcdf',), True),
+        (('',), False),
     ]
     passed = 0
     for args, expected in tests:

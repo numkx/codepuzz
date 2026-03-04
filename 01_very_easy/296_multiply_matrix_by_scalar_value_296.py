@@ -4,6 +4,9 @@
 # Description:
 # Multiply matrix by scalar value and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]], 2) -> [[2, 4], [6, 8]].
 # Example: solve([[1]], 0) -> [[0]].
 #

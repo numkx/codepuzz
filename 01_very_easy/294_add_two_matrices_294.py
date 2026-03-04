@@ -4,6 +4,9 @@
 # Description:
 # Add two matrices and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]], [[5, 6], [7, 8]]) -> [[6, 8], [10, 12]].
 # Example: solve([[0]], [[0]]) -> [[0]].
 #

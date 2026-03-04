@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return the requested output for mask all but last 4 characters of a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('12345678') -> '****5678'.
 # Example: solve('1234') -> '1234'.
 #

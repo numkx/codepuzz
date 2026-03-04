@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is zero, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(0) -> True.
 # Example: solve(1) -> False.
 #

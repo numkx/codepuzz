@@ -4,6 +4,9 @@
 # Description:
 # Return common characters between two strings.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc', 'bcd') -> 'bc'.
 # Example: solve('abc', 'xyz') -> ''.
 #

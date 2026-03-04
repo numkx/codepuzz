@@ -4,6 +4,9 @@
 # Description:
 # Given a sorted array and a target value, return the target index, or -1 if it is not present.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return True if all elements are same, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 1, 1]) -> True.
 # Example: solve([1, 2, 1]) -> False.
 #

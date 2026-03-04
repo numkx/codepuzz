@@ -4,6 +4,9 @@
 # Description:
 # Return sum of first k elements.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4], 2) -> 3.
 # Example: solve([1, 2, 3], 0) -> 0.
 #

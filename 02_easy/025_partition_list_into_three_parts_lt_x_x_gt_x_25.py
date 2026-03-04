@@ -4,6 +4,9 @@
 # Description:
 # Return partition list into three parts: < x, = x, > x.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

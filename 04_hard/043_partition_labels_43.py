@@ -4,6 +4,9 @@
 # Description:
 # Partition the string so each character appears in at most one part and return the part sizes.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

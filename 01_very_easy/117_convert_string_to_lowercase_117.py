@@ -4,6 +4,9 @@
 # Description:
 # Convert string to lowercase and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('HELLO') -> 'hello'.
 # Example: solve('AbC') -> 'abc'.
 #

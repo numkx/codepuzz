@@ -4,6 +4,9 @@
 # Description:
 # Return all combinations of well-formed parentheses for n pairs.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

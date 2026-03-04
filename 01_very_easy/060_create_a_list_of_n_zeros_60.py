@@ -4,6 +4,9 @@
 # Description:
 # Create a list of n zeros and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> [0, 0, 0, 0, 0].
 # Example: solve(1) -> [0].
 #

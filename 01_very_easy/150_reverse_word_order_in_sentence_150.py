@@ -4,6 +4,9 @@
 # Description:
 # Reverse word order in sentence and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'olleh'.
 # Example: solve('') -> ''.
 #

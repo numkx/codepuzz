@@ -4,6 +4,9 @@
 # Description:
 # Merge two sorted word lists uniquely and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

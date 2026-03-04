@@ -4,6 +4,9 @@
 # Description:
 # Return delete element at a given index.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 1) -> [1, 3].
 # Example: solve([5], 0) -> [].
 #

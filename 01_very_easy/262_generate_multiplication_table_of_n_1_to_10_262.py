@@ -4,6 +4,9 @@
 # Description:
 # Generate multiplication table of n and return it.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2) -> [2, 4, 6, 8, 10, 12, 14, 16, 18, 20].
 # Example: solve(1) -> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
 #

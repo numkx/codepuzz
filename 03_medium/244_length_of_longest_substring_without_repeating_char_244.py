@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return the required longest-substring value described by the problem constraints.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.
 #

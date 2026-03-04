@@ -4,6 +4,9 @@
 # Description:
 # Compute the next state of the Game of Life board in-place (modify the original input directly).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return all possible partitions of the string where every substring is a palindrome.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Reverse digits of an integer and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(123) -> 321.
 # Example: solve(-123) -> -321.
 #

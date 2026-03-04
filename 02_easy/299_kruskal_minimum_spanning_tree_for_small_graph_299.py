@@ -4,6 +4,9 @@
 # Description:
 # Given a weighted graph, return the minimum spanning tree total weight or edges using Kruskal's method.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

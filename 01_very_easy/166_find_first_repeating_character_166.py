@@ -4,6 +4,9 @@
 # Description:
 # Return first repeating character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('swiss') -> 's'.
 # Example: solve('abc') -> None.
 #

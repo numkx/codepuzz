@@ -4,6 +4,9 @@
 # Description:
 # Given a binary tree, flatten it to a right-skewed linked-list order and return the updated tree.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

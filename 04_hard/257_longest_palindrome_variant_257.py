@@ -4,6 +4,9 @@
 # Description:
 # Given a string, return the maximum length of a palindrome that can be built with its characters.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

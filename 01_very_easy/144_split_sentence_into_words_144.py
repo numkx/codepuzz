@@ -4,6 +4,9 @@
 # Description:
 # Given a sentence string, return the list of words.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a b c') -> ['a', 'b', 'c'].
 # Example: solve('') -> [].
 #

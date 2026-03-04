@@ -4,6 +4,9 @@
 # Description:
 # Calculate percentage from marks and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(450, 500) -> 90.0.
 # Example: solve(0, 500) -> 0.0.
 #

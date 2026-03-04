@@ -4,6 +4,9 @@
 # Description:
 # Return list all factors of a number.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> [1].
 # Example: solve(6) -> [1, 2, 3, 6].
 #

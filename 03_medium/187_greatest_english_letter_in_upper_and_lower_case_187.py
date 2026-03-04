@@ -4,6 +4,9 @@
 # Description:
 # Return greatest english letter in upper and lower case.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

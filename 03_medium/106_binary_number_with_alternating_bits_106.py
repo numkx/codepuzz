@@ -4,6 +4,9 @@
 # Description:
 # Return binary (base-2 representation using 0 and 1) number with alternating bits.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

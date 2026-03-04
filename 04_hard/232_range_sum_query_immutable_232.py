@@ -4,6 +4,9 @@
 # Description:
 # Given immutable (does not change after creation) array queries, return the range-sum results for requested intervals.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

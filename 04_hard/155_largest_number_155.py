@@ -4,6 +4,9 @@
 # Description:
 # Arrange numbers so they form the largest possible concatenated number string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

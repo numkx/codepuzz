@@ -4,6 +4,9 @@
 # Description:
 # Given intervals, return the minimum number of rooms needed so intervals do not overlap in a room.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

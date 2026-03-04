@@ -4,6 +4,9 @@
 # Description:
 # Return largest element index.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> 0.
 # Example: solve([5]) -> 0.
 #

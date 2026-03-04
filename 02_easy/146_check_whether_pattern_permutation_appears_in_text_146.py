@@ -2,15 +2,18 @@
 # Difficulty: Easy
 #
 # Description:
-# Given text and a pattern, return True if any permutation of the pattern appears in the text, otherwise return False.
+# Given strings pattern and text, return True if any permutation of pattern appears as a contiguous substring of text, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('ab', 'eidboaoo') -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [array]
+# Tags: [string] [sliding window]
 #
 
-def solve(n):
+def solve(s, t):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (('ab', 'eidbaooo'), True),
+        (('ab', 'eidboaoo'), False),
+        (('adc', 'dcda'), True),
+        (('hello', 'ooolleoooleh'), False),
+        (('a', 'a'), True),
+        (('abc', 'bbbca'), True),
     ]
     passed = 0
     for args, expected in tests:

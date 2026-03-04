@@ -4,6 +4,9 @@
 # Description:
 # Return keep only alphanumeric (letters and digits only) characters.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a1b2!') -> 'a1b2'.
 # Example: solve('') -> ''.
 #

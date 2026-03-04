@@ -4,6 +4,9 @@
 # Description:
 # Return the count of digits in a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('a1b2') -> 2.
 # Example: solve('123') -> 3.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return breadth-first traversal (visiting nodes in a specific order) order from source node.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Convert the positive integer to its Excel sheet column title.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

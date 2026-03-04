@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is odd, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2) -> False.
 # Example: solve(3) -> True.
 #

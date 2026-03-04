@@ -4,6 +4,9 @@
 # Description:
 # Given grid dimensions, return the number of unique paths from top-left to bottom-right.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

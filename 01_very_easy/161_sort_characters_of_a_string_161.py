@@ -4,6 +4,9 @@
 # Description:
 # Sort characters of a string and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('cba') -> 'abc'.
 # Example: solve('') -> ''.
 #

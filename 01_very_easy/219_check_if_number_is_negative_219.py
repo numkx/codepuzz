@@ -4,6 +4,9 @@
 # Description:
 # Return True if number is negative, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(1) -> False.
 # Example: solve(0) -> False.
 #

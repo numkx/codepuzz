@@ -4,6 +4,9 @@
 # Description:
 # Return move all odd numbers before even numbers.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4]) -> [1, 3, 2, 4].
 # Example: solve([]) -> [].
 #

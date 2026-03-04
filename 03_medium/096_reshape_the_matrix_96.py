@@ -4,6 +4,9 @@
 # Description:
 # Given a matrix and new dimensions, return the reshaped matrix if possible, otherwise return the original matrix.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

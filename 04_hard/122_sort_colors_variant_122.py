@@ -4,6 +4,9 @@
 # Description:
 # Sort the array containing 0s, 1s, and 2s in-place (modify the original input directly).
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].
 #

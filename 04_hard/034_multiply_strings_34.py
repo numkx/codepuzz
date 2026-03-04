@@ -4,6 +4,9 @@
 # Description:
 # Multiply two non-negative integers given as strings and return the product as a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

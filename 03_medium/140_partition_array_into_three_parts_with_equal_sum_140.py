@@ -4,6 +4,9 @@
 # Description:
 # Given array/list input, return the requested output for partition array into three parts with equal sum.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.
 #

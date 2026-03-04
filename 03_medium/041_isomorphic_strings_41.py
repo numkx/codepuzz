@@ -4,13 +4,16 @@
 # Description:
 # Given two strings, return True if characters in the first can map one-to-one (each item maps to one unique item) to the second, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('foo', 'bar') -> False.
 # Example: solve('') -> ''.
 #
 # Tags: [string]
 #
 
-def solve(s):
+def solve(s, t):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('egg', 'add'), True),
+        (('foo', 'bar'), False),
+        (('paper', 'title'), True),
+        (('ab', 'aa'), False),
+        (('badc', 'baba'), False),
+        (('a', 'z'), True),
     ]
     passed = 0
     for args, expected in tests:

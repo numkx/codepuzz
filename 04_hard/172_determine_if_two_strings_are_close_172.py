@@ -4,13 +4,16 @@
 # Description:
 # Return True if two strings are close, otherwise return False.
 #
-# Example: solve('hello') -> 'hello'.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('a', 'aa') -> False.
 # Example: solve('') -> ''.
 #
-# Tags: [string]
+# Tags: [string] [hash map]
 #
 
-def solve(s):
+def solve(a, b):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(s):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (('hello',), 'hello'),
-        (('',), ''),
-        (('a',), 'a'),
-        (('abc123',), 'abc123'),
-        (('Hi There',), 'Hi There'),
-        (('x',), 'x'),
+        (('abc', 'bca'), True),
+        (('a', 'aa'), False),
+        (('cabbba', 'abbccc'), True),
+        (('cabbba', 'aabbss'), False),
+        (('uau', 'ssx'), False),
+        (('aaabbbbccddeeeeefffff', 'aaaaabbcccdddeeeeffff'), False),
     ]
     passed = 0
     for args, expected in tests:

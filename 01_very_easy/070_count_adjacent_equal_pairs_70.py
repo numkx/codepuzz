@@ -4,6 +4,9 @@
 # Description:
 # Return the count of adjacent equal pairs.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 1, 2, 2, 2]) -> 3.
 # Example: solve([]) -> 0.
 #

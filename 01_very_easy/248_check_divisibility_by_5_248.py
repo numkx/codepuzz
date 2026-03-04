@@ -4,6 +4,9 @@
 # Description:
 # Return True when divisibility by 5, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> True.
 # Example: solve(4) -> False.
 #

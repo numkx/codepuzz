@@ -4,6 +4,9 @@
 # Description:
 # Return True if a value exists in a list, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3], 2) -> True.
 # Example: solve([1, 2, 3], 4) -> False.
 #

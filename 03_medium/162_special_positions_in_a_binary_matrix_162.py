@@ -4,6 +4,9 @@
 # Description:
 # Given a binary matrix, return the count of special positions with 1 and zeros in the rest of row and column.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].
 #

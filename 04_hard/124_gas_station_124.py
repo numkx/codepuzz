@@ -4,6 +4,9 @@
 # Description:
 # Return the starting gas station index to complete the circuit, or -1 if impossible.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

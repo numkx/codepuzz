@@ -4,6 +4,9 @@
 # Description:
 # Multiply each list element by 2 and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [2, 4, 6].
 # Example: solve([]) -> [].
 #

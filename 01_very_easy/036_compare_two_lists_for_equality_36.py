@@ -4,6 +4,9 @@
 # Description:
 # Compare two lists for equality and return the comparison result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2], [1, 2]) -> True.
 # Example: solve([1, 2], [2, 1]) -> False.
 #

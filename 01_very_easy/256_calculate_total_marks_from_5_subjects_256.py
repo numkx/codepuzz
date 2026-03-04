@@ -4,6 +4,9 @@
 # Description:
 # Calculate total marks from 5 subjects and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([10, 20, 30, 40, 50]) -> 150.
 # Example: solve([0, 0, 0, 0, 0]) -> 0.
 #
@@ -23,6 +26,7 @@ if __name__ == "__main__":
         (([100, 100, 100, 100, 100],), 500),
         (([50, 50, 50, 50, 50],), 250),
         (([1, 2, 3, 4, 5],), 15),
+        (([],), 0),
     ]
     passed = 0
     for args, expected in tests:

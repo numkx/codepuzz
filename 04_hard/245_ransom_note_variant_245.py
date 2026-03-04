@@ -4,13 +4,16 @@
 # Description:
 # Given ransomNote and magazine strings, return True if ransomNote can be constructed from magazine letters, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve('aa', 'ab') -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [string] [hash map]
 #
 
-def solve(n):
+def solve(note, magazine):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        (('a', 'b'), False),
+        (('aa', 'ab'), False),
+        (('aa', 'aab'), True),
+        (('hello', 'lloehxyz'), True),
+        (('abc', 'cba'), True),
+        (('aabb', 'ab'), False),
     ]
     passed = 0
     for args, expected in tests:

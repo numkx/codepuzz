@@ -4,6 +4,9 @@
 # Description:
 # Return larger of two numbers.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2, 3) -> 3.
 # Example: solve(3, 2) -> 3.
 #

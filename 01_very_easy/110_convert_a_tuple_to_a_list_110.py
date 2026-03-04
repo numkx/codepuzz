@@ -4,10 +4,13 @@
 # Description:
 # Convert a tuple to a list and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve((1, 2, 3)) -> [1, 2, 3].
 # Example: solve(()) -> [].
 #
-# Tags: [list] [tuple]
+# Tags: [list]
 #
 
 def solve(t):

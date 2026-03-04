@@ -4,6 +4,9 @@
 # Description:
 # Return take first half of a list.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4]) -> [1, 2].
 # Example: solve([1, 2, 3]) -> [1].
 #

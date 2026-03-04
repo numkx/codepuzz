@@ -4,6 +4,9 @@
 # Description:
 # Return longest run of same character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('aaabbc') -> 3.
 # Example: solve('') -> 0.
 #

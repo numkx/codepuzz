@@ -4,6 +4,9 @@
 # Description:
 # Return first non-repeating character.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('swiss') -> 'w'.
 # Example: solve('aabb') -> None.
 #

@@ -4,6 +4,9 @@
 # Description:
 # Return round number up to nearest integer.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(2.1) -> 3.
 # Example: solve(2.0) -> 2.
 #

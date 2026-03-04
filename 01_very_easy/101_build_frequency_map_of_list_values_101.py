@@ -4,6 +4,9 @@
 # Description:
 # Return build frequency map of list values.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 2, 3]) -> {1: 1, 2: 2, 3: 1}.
 # Example: solve([]) -> {}.
 #

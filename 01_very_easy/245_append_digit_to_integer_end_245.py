@@ -4,6 +4,9 @@
 # Description:
 # Return append digit to integer end.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(12, 3) -> 123.
 # Example: solve(0, 5) -> 5.
 #

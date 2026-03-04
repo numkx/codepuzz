@@ -4,6 +4,9 @@
 # Description:
 # Return pair with sum equal to target.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3, 4], 5) -> [1, 4].
 # Example: solve([2, 2], 4) -> [2, 2].
 #

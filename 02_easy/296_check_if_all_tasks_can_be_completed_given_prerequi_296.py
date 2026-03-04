@@ -4,13 +4,16 @@
 # Description:
 # Return True if all tasks can be completed given prerequisites, otherwise return False.
 #
-# Example: solve(5) -> 5.
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve(2, [[1, 0], [0, 1]]) -> False.
 # Example: solve(0) -> 0.
 #
-# Tags: [integer]
+# Tags: [graph] [dfs]
 #
 
-def solve(n):
+def solve(n, prereqs):
     """Implement the solution here."""
     raise NotImplementedError
 
@@ -18,12 +21,12 @@ def solve(n):
 # Tests
 if __name__ == "__main__":
     tests = [
-        ((5,), 5),
-        ((0,), 0),
-        ((-1,), -1),
-        ((10,), 10),
-        ((1,), 1),
-        ((7,), 7),
+        ((2, [[1, 0]]), True),
+        ((2, [[1, 0], [0, 1]]), False),
+        ((4, [[1, 0], [2, 1], [3, 2]]), True),
+        ((3, [[0, 1], [1, 2], [2, 0]]), False),
+        ((5, []), True),
+        ((1, [[0, 0]]), False),
     ]
     passed = 0
     for args, expected in tests:

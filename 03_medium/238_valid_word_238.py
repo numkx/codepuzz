@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return the requested output for valid word.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abba') -> True.
 # Example: solve('abc') -> False.
 #

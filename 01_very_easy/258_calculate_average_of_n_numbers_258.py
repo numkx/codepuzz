@@ -4,6 +4,9 @@
 # Description:
 # Calculate average of n numbers and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.0.
 # Example: solve([5]) -> 5.0.
 #

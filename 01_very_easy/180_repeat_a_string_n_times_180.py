@@ -4,6 +4,9 @@
 # Description:
 # Given a string and integer n, return the string repeated n times.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('ab', 3) -> 'ababab'.
 # Example: solve('x', 1) -> 'x'.
 #

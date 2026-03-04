@@ -4,6 +4,9 @@
 # Description:
 # Reverse a list in-place (modify the original input directly) and return the result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> [3, 2, 1].
 # Example: solve([]) -> [].
 #

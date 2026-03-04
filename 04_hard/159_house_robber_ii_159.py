@@ -4,6 +4,9 @@
 # Description:
 # Return the maximum money that can be robbed from circularly arranged houses.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

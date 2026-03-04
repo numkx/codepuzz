@@ -4,6 +4,9 @@
 # Description:
 # Return second largest element.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([5, 5, 4]) -> 4.
 #
@@ -23,6 +26,7 @@ if __name__ == "__main__":
         (([9, 1],), 1),
         (([-1, -2, -3],), -2),
         (([1, 1, 1, 2],), 1),
+        (([],), 0),
     ]
     passed = 0
     for args, expected in tests:

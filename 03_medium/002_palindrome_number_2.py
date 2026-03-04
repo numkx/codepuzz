@@ -4,6 +4,9 @@
 # Description:
 # Given an integer, return True if it reads the same forward and backward, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(121) -> True.
 # Example: solve(-121) -> False.
 #

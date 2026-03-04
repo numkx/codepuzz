@@ -4,6 +4,9 @@
 # Description:
 # Given a string, duplicate every character and return the new string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('ab') -> 'aabb'.
 # Example: solve('') -> ''.
 #

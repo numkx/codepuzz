@@ -4,6 +4,9 @@
 # Description:
 # Convert spaces to kebab-case and return the converted result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello world') -> 'hello-world'.
 # Example: solve('a b c') -> 'a-b-c'.
 #

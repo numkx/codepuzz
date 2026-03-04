@@ -4,6 +4,9 @@
 # Description:
 # Return majority value if frequency exceeds half.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.
 #

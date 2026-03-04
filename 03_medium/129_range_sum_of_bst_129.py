@@ -4,6 +4,9 @@
 # Description:
 # Given a binary search tree and range [low, high], return the sum of node values within the range.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.
 #

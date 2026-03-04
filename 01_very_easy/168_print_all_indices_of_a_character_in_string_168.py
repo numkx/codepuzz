@@ -4,6 +4,9 @@
 # Description:
 # Return all indices of a character in string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('banana', 'a') -> [1, 3, 5].
 # Example: solve('abc', 'd') -> [].
 #

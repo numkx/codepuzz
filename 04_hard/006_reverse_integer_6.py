@@ -4,6 +4,9 @@
 # Description:
 # Reverse the digits of the integer and return 0 if the reversed value overflows 32-bit signed range.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

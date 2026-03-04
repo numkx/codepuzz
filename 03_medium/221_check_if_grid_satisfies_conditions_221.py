@@ -4,10 +4,13 @@
 # Description:
 # Return True if grid satisfies conditions, otherwise return False.
 #
-# Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
+# Example: solve([[1, 1, 1], [0, 0, 0]]) -> False.
 # Example: solve([[0]]) -> [[0]].
 #
-# Tags: [matrix] [list] [array]
+# Tags: [matrix]
 #
 
 def solve(lst):
@@ -18,12 +21,12 @@ def solve(lst):
 # Tests
 if __name__ == "__main__":
     tests = [
-        (([[1, 2], [3, 4]],), [[1, 2], [3, 4]]),
-        (([[0]],), [[0]]),
-        (([[]],), [[]]),
-        (([[1]],), [[1]]),
-        (([[1, -1]],), [[1, -1]]),
-        (([[5, 6]],), [[5, 6]]),
+        (([[1, 0, 2], [1, 0, 2]],), True),
+        (([[1, 1, 1], [0, 0, 0]],), False),
+        (([[0]],), True),
+        (([[1, 2], [1, 3]],), False),
+        (([[2, 1], [2, 1], [2, 1]],), True),
+        (([[1, 2, 1]],), True),
     ]
     passed = 0
     for args, expected in tests:

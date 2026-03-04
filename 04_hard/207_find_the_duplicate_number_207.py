@@ -4,6 +4,9 @@
 # Description:
 # Return the duplicated number in the array without modifying constraints.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 2, 3]) -> 1.
 # Example: solve([]) -> -1.
 #

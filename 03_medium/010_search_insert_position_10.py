@@ -4,6 +4,9 @@
 # Description:
 # Return search insert position.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve([1, 3, 5, 6], 5) -> 2.
 # Example: solve([1, 3, 5, 6], 2) -> 1.
 #

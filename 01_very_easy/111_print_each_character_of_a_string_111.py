@@ -4,6 +4,9 @@
 # Description:
 # Return each character of a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('abc') -> ['a', 'b', 'c'].
 # Example: solve('') -> [].
 #

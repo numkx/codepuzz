@@ -4,6 +4,9 @@
 # Description:
 # Simplify the absolute Unix file path and return its canonical (standard simplified path form) form.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
 #

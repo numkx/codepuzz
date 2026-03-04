@@ -4,10 +4,13 @@
 # Description:
 # Return the number of connected components in an undirected graph.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.
 #
-# Tags: [graph] [tuple]
+# Tags: [graph]
 #
 
 def solve(t):
@@ -24,6 +27,7 @@ if __name__ == "__main__":
         (((4, [[0, 1], [2, 3]]),), False),
         (((4, [[0, 1], [1, 2], [2, 3]]),), True),
         (((2, []),), False),
+        (((),), False),
     ]
     passed = 0
     for args, expected in tests:

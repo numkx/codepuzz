@@ -4,6 +4,9 @@
 # Description:
 # Given string input, return the requested output for keep only vowels from a string.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('alphabet') -> 'aae'.
 # Example: solve('xyz') -> ''.
 #

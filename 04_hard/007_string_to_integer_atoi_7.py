@@ -4,6 +4,9 @@
 # Description:
 # Parse the string like atoi and return the clamped (limited to allowed min/max range) 32-bit signed integer result.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.
 #

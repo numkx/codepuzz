@@ -4,6 +4,9 @@
 # Description:
 # Return True if string is palindrome, otherwise return False.
 #
+# Constraints:
+# Handle empty inputs, single-element inputs, and boundary values when applicable.
+#
 # Example: solve('racecar') -> True.
 # Example: solve('abba') -> True.
 #
