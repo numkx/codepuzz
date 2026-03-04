@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required tree result for "kth smallest element in a bst" and return it.
+# Given a binary search tree and integer k, return the kth smallest node value.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

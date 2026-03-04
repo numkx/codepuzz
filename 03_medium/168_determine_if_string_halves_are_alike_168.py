@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Return True if string halves are alike, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

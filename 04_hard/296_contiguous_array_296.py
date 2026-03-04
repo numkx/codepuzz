@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required array/list result for "contiguous (adjacent, with no gaps) array" and return it.
+# Given array/list input, return the requested output for contiguous array.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

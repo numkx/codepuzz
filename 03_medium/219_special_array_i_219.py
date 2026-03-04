@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required array/list result for "special array i" and return it.
+# Given array/list input, return the requested output for special array i.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

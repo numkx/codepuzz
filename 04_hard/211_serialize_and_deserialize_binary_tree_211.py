@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required tree result for "serialize and deserialize binary tree" and return it.
+# Serialize a binary tree to a string and deserialize it back to the original tree structure.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

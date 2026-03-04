@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return range addition ii.
+# Return the expected output for range addition ii.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

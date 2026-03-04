@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return duplicate zeros.
+# Return the expected output for duplicate zeros.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

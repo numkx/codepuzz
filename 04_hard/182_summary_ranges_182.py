@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return summary ranges.
+# Return the expected output for summary ranges.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

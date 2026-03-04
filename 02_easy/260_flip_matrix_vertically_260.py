@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for flip matrix vertically.
+# Given a matrix, flip it vertically (top to bottom) and return the updated matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

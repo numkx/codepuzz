@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the tree input, return the result for flatten binary tree to linked list.
+# Given a binary tree, flatten it to a right-skewed linked-list order and return the updated tree.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

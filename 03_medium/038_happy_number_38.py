@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return the expected output for happy number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

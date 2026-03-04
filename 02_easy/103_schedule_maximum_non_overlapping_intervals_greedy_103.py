@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required array/list result for "schedule maximum non-overlapping intervals" and return it.
+# Given intervals, return the maximum number of non-overlapping intervals that can be selected.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

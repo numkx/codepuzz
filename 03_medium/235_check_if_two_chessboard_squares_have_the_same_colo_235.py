@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return True if two chessboard squares have the same color, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given an expression string, return True if its format is valid under the stated rules, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Given string input, return the requested output for string compression.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

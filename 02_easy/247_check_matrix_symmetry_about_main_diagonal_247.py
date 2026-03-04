@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for check matrix symmetry about main diagonal.
+# Given a square matrix, return True if it is symmetric about the main diagonal, otherwise return False.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

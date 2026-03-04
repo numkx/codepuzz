@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a matrix/grid input, return the result for determine color of a chessboard square.
+# Given a chessboard coordinate, return True if the square color matches the required condition, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

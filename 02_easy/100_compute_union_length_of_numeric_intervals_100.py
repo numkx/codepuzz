@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required array/list result for "compute union length of numeric intervals" and return it.
+# Given numeric intervals, return the total covered length of their union.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

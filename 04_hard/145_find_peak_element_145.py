@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return peak element.
+# Return peak element.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

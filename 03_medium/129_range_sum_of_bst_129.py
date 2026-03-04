@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required tree result for "range sum of bst" and return it.
+# Given a binary search tree and range [low, high], return the sum of node values within the range.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

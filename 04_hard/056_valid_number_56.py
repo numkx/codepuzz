@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return the expected output for valid number.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

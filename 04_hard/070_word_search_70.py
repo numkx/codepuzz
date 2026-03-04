@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return the required string result for this problem.
+# Given string input, return the requested output for word search.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

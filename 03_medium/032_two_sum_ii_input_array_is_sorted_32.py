@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required array/list result for "two sum ii input array is sorted" and return it.
+# Given a sorted array and a target, return the 1-based indices of the two numbers that add up to the target.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

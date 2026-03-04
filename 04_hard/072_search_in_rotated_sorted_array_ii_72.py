@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required array/list result for "search in rotated sorted array ii" and return it.
+# Given a rotated sorted array with possible duplicates, return True if target exists, otherwise return False.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for reshape matrix if element count matches.
+# Given a matrix and new dimensions, return the reshaped matrix if possible, otherwise return the original matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> 10.
 # Example: solve([[0]]) -> 0.

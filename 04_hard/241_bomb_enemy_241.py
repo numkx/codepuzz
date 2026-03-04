@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return bomb enemy.
+# Return the expected output for bomb enemy.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required tree result for "kruskal minimum spanning tree for small graph" and return it.
+# Given a weighted graph, return the minimum spanning tree total weight or edges using Kruskal's method.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

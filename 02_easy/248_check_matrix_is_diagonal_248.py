@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for check matrix is diagonal.
+# Given a matrix, return True if all non-diagonal elements are zero, otherwise return False.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return pivot index.
+# Return pivot index.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

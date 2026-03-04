@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return candy.
+# Return the expected output for candy.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

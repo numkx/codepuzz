@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for check matrix is identity.
+# Given a square matrix, return True if it is an identity matrix, otherwise return False.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

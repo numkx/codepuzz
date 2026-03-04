@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given an integer n, return True if n is a power of ten, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

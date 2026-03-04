@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required array/list result for "squares of a sorted array" and return it.
+# Given array/list input, return the requested output for squares of a sorted array.
 #
 # Example: solve([3, 1, 2]) -> [1, 2, 3].
 # Example: solve([]) -> [].

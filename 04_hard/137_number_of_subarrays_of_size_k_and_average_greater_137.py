@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required array/list result for "number of subarrays of size k and average greater than threshold" and return it.
+# Given array/list input, return the requested output for number of subarrays of size k and average greater than threshold.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required array/list result for "combination sum iii" and return it.
+# Given array/list input, return the requested output for combination sum iii.
 #
 # Example: solve([1, 2, 3]) -> 3.
 # Example: solve([]) -> 0.

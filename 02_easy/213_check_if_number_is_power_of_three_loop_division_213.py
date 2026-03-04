@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return True if number is power of three, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return closest person.
+# Return closest person.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

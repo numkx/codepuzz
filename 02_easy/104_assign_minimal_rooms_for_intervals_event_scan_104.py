@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required array/list result for "assign minimal rooms for intervals" and return it.
+# Given intervals, return the minimum number of rooms needed so intervals do not overlap in a room.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

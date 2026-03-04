@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return nim game.
+# Return the expected output for nim game.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

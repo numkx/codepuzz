@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return the expected output for path sum.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

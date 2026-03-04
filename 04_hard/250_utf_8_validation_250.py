@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return the expected output for utf 8 validation.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

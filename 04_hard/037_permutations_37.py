@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required array/list result for "permutations" and return it.
+# Given array/list input, return the requested output for permutations.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

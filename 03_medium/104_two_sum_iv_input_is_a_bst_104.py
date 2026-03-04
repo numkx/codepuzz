@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required tree result for "two sum iv input is a bst" and return it.
+# Given a binary search tree and target k, return True if two nodes sum to k, otherwise return False.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

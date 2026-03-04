@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required linked-list result for "detect cycle in directed graph using dfs colors" and return it.
+# Given a directed graph, return True if a cycle exists, otherwise return False.
 #
 # Example: solve((3, [[0, 1], [1, 2]])) -> True.
 # Example: solve((3, [[0, 1]])) -> False.

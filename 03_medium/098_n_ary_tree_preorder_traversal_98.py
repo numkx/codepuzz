@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required tree result for "n ary tree preorder (visit root, then left subtree, then right subtree) traversal (visiting nodes in a specific order)" and return it.
+# Given an N-ary tree, return its preorder traversal.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

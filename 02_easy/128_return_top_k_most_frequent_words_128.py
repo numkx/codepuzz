@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Return top k most frequent words.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return True if all tasks can be completed given prerequisites, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Compute the required array/list result for "split the array by parity (whether count is even or odd)" and return it.
+# Given array/list input, return the requested output for split the array by parity.
 #
 # Example: solve([0, 1, 0, 2]) -> [1, 2, 0, 0].
 # Example: solve([]) -> [].

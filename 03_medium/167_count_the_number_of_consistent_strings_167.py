@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Return the count of the number of consistent strings.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

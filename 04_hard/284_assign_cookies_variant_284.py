@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return assign cookies.
+# Return the expected output for assign cookies.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

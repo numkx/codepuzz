@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return long pressed name.
+# Return the expected output for long pressed name.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

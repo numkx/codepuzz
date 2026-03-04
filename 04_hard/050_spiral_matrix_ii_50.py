@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a matrix/grid input, return the result for spiral matrix ii.
+# Given n, generate an n x n matrix filled in spiral order and return it.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

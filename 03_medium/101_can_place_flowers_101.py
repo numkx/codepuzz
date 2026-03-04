@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return can place flowers.
+# Return the expected output for can place flowers.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

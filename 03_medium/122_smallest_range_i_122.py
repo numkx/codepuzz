@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return smallest range i.
+# Return the expected output for smallest range i.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

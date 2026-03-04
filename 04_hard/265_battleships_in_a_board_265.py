@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a matrix/grid input, return the result for battleships in a board.
+# Given a board, return the number of battleships present.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

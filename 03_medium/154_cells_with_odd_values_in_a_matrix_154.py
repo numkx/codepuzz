@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a matrix/grid input, return the result for cells with odd values in a matrix.
+# Given matrix size and index operations, return the count of cells with odd values after all operations.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

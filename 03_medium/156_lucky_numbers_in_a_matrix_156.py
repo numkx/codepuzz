@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a matrix/grid input, return the result for lucky numbers in a matrix.
+# Given a matrix, return all lucky numbers (minimum in row and maximum in column).
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

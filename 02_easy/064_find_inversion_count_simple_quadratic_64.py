@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return inversion count.
+# Return inversion count.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return relative ranks.
+# Return the expected output for relative ranks.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

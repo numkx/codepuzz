@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given two integers, return True if their greatest common divisor is 1, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

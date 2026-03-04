@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given string input, return the result for mask all but last 4 characters of a string.
+# Given string input, return the requested output for mask all but last 4 characters of a string.
 #
 # Example: solve('12345678') -> '****5678'.
 # Example: solve('1234') -> '1234'.

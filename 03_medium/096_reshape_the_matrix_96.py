@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given a matrix/grid input, return the result for reshape the matrix.
+# Given a matrix and new dimensions, return the reshaped matrix if possible, otherwise return the original matrix.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

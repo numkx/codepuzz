@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given a username string, return True if it satisfies the character and length rules, otherwise return False.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

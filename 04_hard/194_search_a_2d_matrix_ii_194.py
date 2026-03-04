@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a matrix/grid input, return the result for search a 2d matrix ii.
+# Given a 2D matrix and target, return True if target exists in the matrix, otherwise return False.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

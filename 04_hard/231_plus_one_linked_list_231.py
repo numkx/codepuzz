@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the linked-list input, return the result for plus one linked list.
+# Given a linked list of digits, add one to the represented number and return the updated list.
 #
 # Example: solve(([['push', 1], ['pop'], ['empty']],)) -> [None, 1, True].
 # Example: solve(([['push', 2], ['push', 3], ['top']],)) -> [None, None, 3].

@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Return index of first non-repeating character.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

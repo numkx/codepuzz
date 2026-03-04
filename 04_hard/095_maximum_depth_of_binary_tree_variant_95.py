@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Compute the required tree result for "maximum depth of binary tree" and return it.
+# Given a binary tree, return its maximum depth.
 #
 # Example: solve([1, 2, 3]) -> 2.
 # Example: solve([]) -> 0.

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return ones and zeroes.
+# Return the expected output for ones and zeroes.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

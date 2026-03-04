@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return height checker.
+# Return the expected output for height checker.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

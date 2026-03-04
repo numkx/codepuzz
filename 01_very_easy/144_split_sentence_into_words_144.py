@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given string input, return the result for split sentence into words.
+# Given a sentence string, return the list of words.
 #
 # Example: solve('a b c') -> ['a', 'b', 'c'].
 # Example: solve('') -> [].

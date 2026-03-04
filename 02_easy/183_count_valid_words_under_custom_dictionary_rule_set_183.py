@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Return the count of valid words under custom dictionary rule set.
 #
 # Example: solve('abc') -> 3.
 # Example: solve('') -> 0.

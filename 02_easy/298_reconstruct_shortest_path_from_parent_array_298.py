@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required array/list result for "reconstruct shortest path from parent array" and return it.
+# Given a parent array, reconstruct and return the shortest path sequence.
 #
 # Example: solve([1, 2, 3]) -> [1, 2, 3].
 # Example: solve([]) -> [].

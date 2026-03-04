@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given string input, return the result for join words with spaces.
+# Given a list of words, join them with single spaces and return the resulting string.
 #
 # Example: solve(['a', 'b', 'c']) -> 'a b c'.
 # Example: solve([]) -> ''.

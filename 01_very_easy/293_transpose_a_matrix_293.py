@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for transpose a matrix.
+# Given a matrix, return its transpose (swap rows and columns).
 #
 # Example: solve([[1, 2, 3], [4, 5, 6]]) -> [[1, 4], [2, 5], [3, 6]].
 # Example: solve([[1]]) -> [[1]].

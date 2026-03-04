@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Given a matrix/grid input, return the result for flatten matrix into a list.
+# Given a matrix, flatten it row by row into a single list and return it.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [1, 2, 3, 4].
 # Example: solve([[1]]) -> [1].

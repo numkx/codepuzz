@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given string input, apply the required string operation and return the expected result.
+# Given string input, return the requested output for number of good ways to split a string.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

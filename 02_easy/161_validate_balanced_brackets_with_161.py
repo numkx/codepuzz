@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required string result for this problem.
+# Given a bracket string, return True if brackets are balanced and properly nested, otherwise return False.
 #
 # Example: solve('hello') -> 'hello'.
 # Example: solve('') -> ''.

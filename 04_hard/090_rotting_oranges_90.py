@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return rotting oranges.
+# Return the expected output for rotting oranges.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

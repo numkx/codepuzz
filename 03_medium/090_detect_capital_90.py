@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return detect capital.
+# Return the expected output for detect capital.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

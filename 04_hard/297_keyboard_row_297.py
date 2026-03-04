@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given a matrix/grid input, return the result for keyboard row.
+# Given a list of words, return words that can be typed using letters from a single keyboard row.
 #
 # Example: solve([[1, 2], [3, 4]]) -> [[1, 2], [3, 4]].
 # Example: solve([[0]]) -> [[0]].

@@ -2,7 +2,7 @@
 # Difficulty: Hard
 #
 # Description:
-# Given the input, return the count of primes.
+# Return the count of primes.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

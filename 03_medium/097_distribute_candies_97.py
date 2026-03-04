@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return distribute candies.
+# Return the expected output for distribute candies.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

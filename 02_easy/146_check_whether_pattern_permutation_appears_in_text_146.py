@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given text and a pattern, return True if any permutation of the pattern appears in the text, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

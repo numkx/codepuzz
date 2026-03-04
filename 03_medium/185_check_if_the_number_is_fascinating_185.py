@@ -2,7 +2,7 @@
 # Difficulty: Medium
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Return True if the number is fascinating, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

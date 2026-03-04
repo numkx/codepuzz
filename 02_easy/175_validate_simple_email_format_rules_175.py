@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Given the input, return the required numeric result for this problem.
+# Given a string, return True if it matches the simplified email rules, otherwise return False.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.

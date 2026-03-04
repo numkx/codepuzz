@@ -2,7 +2,7 @@
 # Difficulty: Easy
 #
 # Description:
-# Compute the required array/list result for "compute combinations count for repeated test cases efficiently" and return it.
+# Given repeated combination queries, return the combination count for each query.
 #
 # Example: solve(5) -> 5.
 # Example: solve(0) -> 0.
