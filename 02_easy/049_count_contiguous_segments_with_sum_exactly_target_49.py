@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of contiguous segments with sum exactly target.
+# Given an array/list and any required parameters, count contiguous segments with sum exactly target.
+# Return the computed result.
 #
 
 def solve(lst):

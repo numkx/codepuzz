@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the index of the first occurrence in a string.
+# Given a string (or strings) and any required parameters, find the index of the first occurrence in a string.
+# Return the resulting string.
 #
 
 def solve(s1, s2):

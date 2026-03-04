@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse linked list variant and return the result.
+# Given a linked list and any required parameters, reverse linked list.
+# Return the resulting list/collection.
 #
 
 def solve(t):

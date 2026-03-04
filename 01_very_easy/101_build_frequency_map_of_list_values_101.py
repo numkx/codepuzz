@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Return build frequency map of list values.
 #
 
 def solve(lst):

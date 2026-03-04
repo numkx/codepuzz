@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the maximum amount that can be robbed without robbing directly-linked houses.
+# Return the computed result.
 #
 
 def solve(n):

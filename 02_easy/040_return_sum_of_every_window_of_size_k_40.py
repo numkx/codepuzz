@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, return sum of every window of size k.
+# Return the computed result.
 #
 
 def solve(lst):

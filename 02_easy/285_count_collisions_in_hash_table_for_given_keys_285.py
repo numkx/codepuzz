@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of collisions in hash table for given keys.
+# Given the provided input, count collisions in hash table for given keys.
+# Return the computed result.
 #
 
 def solve(n):

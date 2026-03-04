@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, generate first n perfect squares.
+# Return the computed result.
 #
 
 def solve(n):

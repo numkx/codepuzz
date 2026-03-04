@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of triplets with sum less than target.
+# Given an array/list and any required parameters, count triplets with sum less than target.
+# Return the computed result.
 #
 
 def solve(lst):

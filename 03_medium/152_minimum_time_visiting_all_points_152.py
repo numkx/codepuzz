@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the minimum time visiting all points.
+# Return the computed result.
 #
 
 def solve(n):

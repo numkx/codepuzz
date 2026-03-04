@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Insert interval and return the updated result.
+# Given a list of intervals and any required parameters, insert the new interval and merge overlaps.
+# Return the resulting list/collection.
 #
 
 def solve(n):

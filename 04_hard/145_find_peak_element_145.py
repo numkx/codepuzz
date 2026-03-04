@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return peak element.
+# Given the provided input, find peak element.
+# Return the computed result.
 #
 
 def solve(n):

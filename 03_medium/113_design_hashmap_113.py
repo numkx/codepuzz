@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given the provided input, design hashmap.
+# Return the computed result.
 #
 
 def solve(t):

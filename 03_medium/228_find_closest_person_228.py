@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return closest person.
+# Given the provided input, find closest person.
+# Return the computed result.
 #
 
 def solve(n):

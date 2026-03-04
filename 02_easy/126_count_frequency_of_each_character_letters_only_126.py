@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of frequency of each character.
+# Given the provided input, count frequency of each character.
+# Return the computed result.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Insert a value into a sorted list at correct position and return the updated result.
+# Given the provided input, insert a value into a sorted list at correct position.
+# Return the resulting list/collection.
 #
 
 def solve(lst, n1, n2):

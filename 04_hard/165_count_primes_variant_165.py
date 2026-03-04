@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the count of primes variant.
+# Given the provided input, count primes.
+# Return the computed result.
 #
 
 def solve(n):

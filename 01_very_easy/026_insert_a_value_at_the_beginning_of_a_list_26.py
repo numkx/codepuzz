@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Insert a value at the beginning of a list and return the updated result.
+# Insert a value at the beginning of a list and return the result.
 #
 
 def solve(lst, x):

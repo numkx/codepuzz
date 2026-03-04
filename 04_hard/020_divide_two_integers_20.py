@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, compute integer division without using built-in division operators.
+# Return the computed result.
 #
 
 def solve(n):

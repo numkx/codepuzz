@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of partitions with even sum difference.
+# Given an array/list and any required parameters, count partitions with even sum difference.
+# Return the computed result.
 #
 
 def solve(lst):

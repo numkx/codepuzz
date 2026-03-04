@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Merge two sorted word lists uniquely and return the merged result.
+# Given a string (or strings) and any required parameters, merge two sorted word lists uniquely.
+# Return the resulting list/collection.
 #
 
 def solve(s):

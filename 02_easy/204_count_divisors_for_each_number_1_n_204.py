@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of divisors for each number 1..n.
+# Given the provided input, count divisors for each number 1..n.
+# Return the computed result.
 #
 
 def solve(n):

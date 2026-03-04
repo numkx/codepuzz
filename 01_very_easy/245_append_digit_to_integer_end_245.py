@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Append digit to integer end and return the result.
 #
 
 def solve(n1, n2):

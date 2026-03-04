@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if one list is a subset of another, otherwise return False.
+# Given the provided input, check whether one list is a subset of another.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

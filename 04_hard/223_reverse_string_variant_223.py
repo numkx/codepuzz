@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse string variant and return the result.
+# Given a string (or strings) and any required parameters, reverse string.
+# Return the resulting string.
 #
 
 def solve(s):

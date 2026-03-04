@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return contiguous segment with minimum sum.
+# Given an array/list and any required parameters, find contiguous segment with minimum sum.
+# Return the computed result.
 #
 
 def solve(lst):

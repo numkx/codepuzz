@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace all negative matrix values with 0 and return the updated result.
+# Replace all negative matrix values with 0 and return the result.
 #
 
 def solve(lst):

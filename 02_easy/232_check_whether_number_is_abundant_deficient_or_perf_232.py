@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if number is abundant, deficient, or perfect, otherwise return False.
+# Given the provided input, check whether number is abundant, deficient, or perfect.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Reverse words in a string iii and return the result.
+# Given a string (or strings) and any required parameters, reverse words in a string iii.
+# Return the resulting string.
 #
 
 def solve(s):

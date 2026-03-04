@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return parity of integer.
+# Given the provided input, find parity of integer.
+# Return the computed result.
 #
 
 def solve(n):

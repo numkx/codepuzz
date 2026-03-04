@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, convert the fraction to a decimal string, wrapping repeating digits in parentheses.
+# Return the computed result.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return missing and repeated values.
+# Given the provided input, find missing and repeated values.
+# Return the computed result.
 #
 
 def solve(lst):

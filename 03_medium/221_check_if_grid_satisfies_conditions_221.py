@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if grid satisfies conditions, otherwise return False.
+# Given a 2D grid/matrix and any required parameters, check if grid satisfies conditions.
+# Return the computed result.
 #
 
 def solve(lst):

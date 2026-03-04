@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove linked list elements and return the result.
+# Given a linked list and any required parameters, remove linked list elements.
+# Return the resulting list/collection.
 #
 
 def solve(t):

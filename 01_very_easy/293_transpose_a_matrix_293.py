@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Transpose a matrix and return the transposed result.
+# Transpose a matrix and return the result.
 #
 
 def solve(lst):

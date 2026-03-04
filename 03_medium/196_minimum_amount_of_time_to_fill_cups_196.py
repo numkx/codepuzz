@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the minimum amount of time to fill cups.
+# Return the computed result.
 #
 
 def solve(n):

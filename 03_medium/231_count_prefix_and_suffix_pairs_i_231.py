@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of prefix and suffix pairs i.
+# Given the provided input, count prefix and suffix pairs i.
+# Return the computed result.
 #
 
 def solve(lst):

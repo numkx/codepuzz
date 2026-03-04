@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return kth smallest value from two sorted lists.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

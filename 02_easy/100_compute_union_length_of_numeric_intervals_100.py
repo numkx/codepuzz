@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a list of intervals and any required parameters, compute union length of numeric intervals.
+# Return the resulting list/collection.
 #
 
 def solve(n):

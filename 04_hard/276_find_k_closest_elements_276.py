@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return k closest elements.
+# Given the provided input, find k closest elements.
+# Return the computed result.
 #
 
 def solve(n):

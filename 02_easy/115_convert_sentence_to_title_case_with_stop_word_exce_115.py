@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert sentence to title case with stop-word exceptions and return the converted value.
+# Given a string (or strings) and any required parameters, convert sentence to title case with stop-word exceptions.
+# Return the resulting string.
 #
 
 def solve(s):

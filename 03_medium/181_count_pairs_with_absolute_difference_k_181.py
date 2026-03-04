@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of pairs with absolute difference k.
+# Given the provided input, count pairs with absolute difference k.
+# Return the computed result.
 #
 
 def solve(lst):

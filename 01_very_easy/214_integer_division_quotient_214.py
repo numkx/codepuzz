@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the integer quotient after division.
+# Return integer division quotient.
 #
 
 def solve(n1, n2):

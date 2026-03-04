@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Insert a value at a given index and return the updated result.
+# Insert a value at a given index and return the result.
 #
 
 def solve(lst, n, x):

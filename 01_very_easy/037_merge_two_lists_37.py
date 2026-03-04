@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Merge two lists and return the merged result.
+# Merge two lists and return the result.
 #
 
 def solve(lst1, lst2):

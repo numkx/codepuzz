@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, count contiguous subarrays that form arithmetic sequences.
+# Return the computed result.
 #
 
 def solve(n):

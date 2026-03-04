@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Round number down to nearest integer and return the result.
 #
 
 def solve(n):

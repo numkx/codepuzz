@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the number of good pairs i.
+# Given the provided input, find the number of good pairs i.
+# Return the computed result.
 #
 
 def solve(lst):

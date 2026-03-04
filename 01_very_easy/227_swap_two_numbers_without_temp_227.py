@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap two numbers without temp and return the updated result.
+# Swap two numbers without temp and return the result.
 #
 
 def solve(n1, n2):

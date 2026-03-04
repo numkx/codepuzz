@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of asterisks.
+# Given the provided input, count asterisks.
+# Return the computed result.
 #
 
 def solve(n):

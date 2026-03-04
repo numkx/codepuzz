@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, return first non-repeating character in a string.
+# Return the resulting string.
 #
 
 def solve(s):

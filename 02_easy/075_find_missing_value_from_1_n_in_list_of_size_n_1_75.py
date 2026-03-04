@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return missing value from 1..n in list of size n-1.
+# Given the provided input, find missing value from 1..n in list of size n-1.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

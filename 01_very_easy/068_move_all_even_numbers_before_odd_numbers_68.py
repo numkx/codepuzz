@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a list/string result for the given input.
+# Move all even numbers before odd numbers and return the result.
 #
 
 def solve(lst):

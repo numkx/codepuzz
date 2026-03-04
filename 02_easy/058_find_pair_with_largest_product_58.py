@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return pair with largest product.
+# Given the provided input, find pair with largest product.
+# Return the computed result.
 #
 
 def solve(lst):

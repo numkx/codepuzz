@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given the provided input, implement stack using list with push/pop/peek.
+# Return the resulting list/collection.
 #
 
 def solve(t):

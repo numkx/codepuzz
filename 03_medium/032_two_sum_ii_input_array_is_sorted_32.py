@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the required pair (indices or values) whose sum equals the target.
+# Given an array/list and any required parameters, check whether the condition is satisfied.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

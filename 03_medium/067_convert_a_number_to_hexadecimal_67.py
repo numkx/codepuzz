@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert a number to hexadecimal and return the converted value.
+# Given the provided input, convert a number to hexadecimal.
+# Return the computed result.
 #
 
 def solve(n):

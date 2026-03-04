@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the first value that never repeats.
+# Given the provided input, find the first value that never repeats.
+# Return the computed result.
 #
 
 def solve(n):

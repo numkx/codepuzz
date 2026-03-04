@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, find the minimum add to make parentheses valid.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

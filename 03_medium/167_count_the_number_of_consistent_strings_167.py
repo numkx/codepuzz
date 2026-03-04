@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of the number of consistent strings.
+# Given a string (or strings) and any required parameters, count the number of consistent strings.
+# Return the resulting string.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if one string swap can make strings equal, otherwise return False.
+# Given a string (or strings) and any required parameters, check if one string swap can make strings equal.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

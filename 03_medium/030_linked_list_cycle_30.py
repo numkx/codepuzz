@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a linked list and any required parameters, perform the required linked-list operation.
+# Return the resulting list/collection.
 #
 
 def solve(t):

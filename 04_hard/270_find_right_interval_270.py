@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return right interval.
+# Given a list of intervals and any required parameters, find right interval.
+# Return the resulting list/collection.
 #
 
 def solve(n):

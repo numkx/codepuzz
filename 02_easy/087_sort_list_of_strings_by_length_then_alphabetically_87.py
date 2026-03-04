@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Sort list of strings by length then alphabetically and return the result.
+# Given a string (or strings) and any required parameters, sort list of strings by length then alphabetically.
+# Return the resulting list/collection.
 #
 
 def solve(s):

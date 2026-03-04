@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Rotate image and return the result.
+# Given the provided input, rotate the square matrix by 90 degrees.
+# Return the computed result.
 #
 
 def solve(lst, n):

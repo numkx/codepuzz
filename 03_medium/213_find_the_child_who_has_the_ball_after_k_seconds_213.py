@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the child who has the ball after k seconds.
+# Given the provided input, find the child who has the ball after k seconds.
+# Return the computed result.
 #
 
 def solve(n):

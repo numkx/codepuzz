@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, find all unique triplets that sum to zero.
+# Return the computed result.
 #
 
 def solve(lst):

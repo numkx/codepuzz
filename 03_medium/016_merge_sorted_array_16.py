@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Merge sorted array and return the merged result.
+# Given an array/list and any required parameters, merge sorted array.
+# Return the resulting list/collection.
 #
 
 def solve(lst1, lst2):

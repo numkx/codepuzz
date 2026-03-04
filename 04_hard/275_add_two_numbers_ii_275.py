@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, add the represented numbers and build the resulting number format.
+# Return the computed result.
 #
 
 def solve(n):

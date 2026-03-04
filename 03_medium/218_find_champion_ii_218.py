@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return champion ii.
+# Given the provided input, find champion ii.
+# Return the computed result.
 #
 
 def solve(n):

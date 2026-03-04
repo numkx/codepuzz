@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given a binary tree and any required parameters, implement trie prefix tree.
+# Return the computed result.
 #
 
 def solve(lst):

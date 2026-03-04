@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert date to binary and return the converted value.
+# Given the provided input, convert date to binary.
+# Return the computed result.
 #
 
 def solve(n):

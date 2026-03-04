@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of connected components in undirected graph.
+# Given graph-style input and any required parameters, count connected components in undirected graph.
+# Return the computed result.
 #
 
 def solve(t):

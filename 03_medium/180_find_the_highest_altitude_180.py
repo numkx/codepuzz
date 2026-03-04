@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the highest altitude.
+# Given the provided input, find the highest altitude.
+# Return the computed result.
 #
 
 def solve(n):

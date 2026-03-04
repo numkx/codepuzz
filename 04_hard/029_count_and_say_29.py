@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the count of and say.
+# Given the provided input, count and say.
+# Return the computed result.
 #
 
 def solve(n):

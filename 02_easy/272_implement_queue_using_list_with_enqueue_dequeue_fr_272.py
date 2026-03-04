@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given the provided input, implement queue using list with enqueue/dequeue/front.
+# Return the resulting list/collection.
 #
 
 def solve(t):

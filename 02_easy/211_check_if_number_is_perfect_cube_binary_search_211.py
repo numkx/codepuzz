@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if number is perfect cube, otherwise return False.
+# Given the provided input, check if number is perfect cube.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

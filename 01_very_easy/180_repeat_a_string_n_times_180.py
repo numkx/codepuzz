@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Repeat a string n times and return the result.
 #
 
 def solve(s, n):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, compute gcd of list of integers.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

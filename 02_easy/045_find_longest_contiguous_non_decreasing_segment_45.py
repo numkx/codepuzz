@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous non-decreasing segment.
+# Given the provided input, find longest contiguous non-decreasing segment.
+# Return the computed result.
 #
 
 def solve(n):

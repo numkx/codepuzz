@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert decimal to binary string and return the converted value.
+# Given a string (or strings) and any required parameters, convert decimal to binary string.
+# Return the resulting string.
 #
 
 def solve(s):

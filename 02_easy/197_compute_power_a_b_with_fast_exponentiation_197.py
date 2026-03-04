@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, compute power a^b with fast exponentiation.
+# Return the computed result.
 #
 
 def solve(n):

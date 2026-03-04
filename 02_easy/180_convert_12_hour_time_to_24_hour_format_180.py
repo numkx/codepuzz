@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert 12-hour time to 24-hour format and return the converted value.
+# Given the provided input, convert 12-hour time to 24-hour format.
+# Return the computed result.
 #
 
 def solve(n):

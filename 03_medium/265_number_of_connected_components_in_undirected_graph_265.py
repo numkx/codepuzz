@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given graph-style input and any required parameters, find the number of connected components in undirected graph.
+# Return the computed result.
 #
 
 def solve(t):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove one value from a sorted list and keep it sorted and return the result.
+# Given the provided input, remove one value from a sorted list and keep it sorted.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

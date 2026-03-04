@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, evaluate bracket sequence validity in a text stream.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

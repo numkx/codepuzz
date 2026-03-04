@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Sort characters by frequency and return the result.
+# Given the provided input, sort characters by frequency.
+# Return the computed result.
 #
 
 def solve(s):

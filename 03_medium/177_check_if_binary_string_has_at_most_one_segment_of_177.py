@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if binary string has at most one segment of ones, otherwise return False.
+# Given a string (or strings) and any required parameters, check if binary string has at most one segment of ones.
+# Return the resulting string.
 #
 
 def solve(s):

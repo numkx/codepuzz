@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return first and last position of element in sorted array.
+# Given an array/list and any required parameters, find first and last position of element in sorted array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

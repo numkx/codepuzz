@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the maximum profit under the transaction rules for this variant.
+# Given the provided input, find the maximum profit with at most two transactions.
+# Return the computed result.
 #
 
 def solve(lst):

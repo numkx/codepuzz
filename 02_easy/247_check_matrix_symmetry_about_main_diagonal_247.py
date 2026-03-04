@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a 2D grid/matrix and any required parameters, check matrix symmetry about main diagonal.
+# Return the computed result.
 #
 
 def solve(lst):

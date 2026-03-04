@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove duplicates from sorted array and return the result.
+# Given an array/list and any required parameters, remove duplicates from sorted array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of frequency of each word in paragraph.
+# Given a string (or strings) and any required parameters, count frequency of each word in paragraph.
+# Return the resulting string.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the pivot integer.
+# Given the provided input, find the pivot integer.
+# Return the computed result.
 #
 
 def solve(n):

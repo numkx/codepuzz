@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the town judge.
+# Given the provided input, find the town judge.
+# Return the computed result.
 #
 
 def solve(n):

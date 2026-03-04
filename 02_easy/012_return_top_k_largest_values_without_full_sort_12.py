@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return top k largest values.
+# Return the computed result.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return if path exists in graph.
+# Given graph-style input and any required parameters, find if path exists in graph.
+# Return the computed result.
 #
 
 def solve(t):

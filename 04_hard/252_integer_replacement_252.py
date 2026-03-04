@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the minimum number of replacements needed to reduce n to 1.
+# Return the computed result.
 #
 
 def solve(n):

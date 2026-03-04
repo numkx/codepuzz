@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given the provided input, implement quicksort with first-element pivot.
+# Return the computed result.
 #
 
 def solve(t):

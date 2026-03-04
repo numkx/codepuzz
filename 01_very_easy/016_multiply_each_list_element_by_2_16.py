@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Return the result of multiply each list element by 2.
 #
 
 def solve(lst):

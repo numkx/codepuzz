@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a numeric value for the given input.
+# Return pad string on left with zeros to length n.
 #
 
 def solve(s, n):

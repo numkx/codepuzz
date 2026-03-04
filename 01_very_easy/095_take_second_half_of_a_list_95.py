@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Take second half of a list and return the result.
 #
 
 def solve(lst):

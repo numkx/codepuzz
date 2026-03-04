@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return minimum in rotated sorted array.
+# Given an array/list and any required parameters, find minimum in rotated sorted array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

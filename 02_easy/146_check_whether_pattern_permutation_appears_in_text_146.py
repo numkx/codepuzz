@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if pattern permutation appears in text, otherwise return False.
+# Given an array/list and any required parameters, check whether pattern permutation appears in text.
+# Return the resulting list/collection.
 #
 
 def solve(n):

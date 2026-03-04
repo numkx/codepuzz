@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace each element with absolute value and return the updated result.
+# Replace each element with absolute value and return the result.
 #
 
 def solve(lst):

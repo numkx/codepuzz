@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return all numbers in a matrix in spiral order.
+# Given a 2D grid/matrix and any required parameters, find all numbers in a matrix in spiral order.
+# Return the computed result.
 #
 
 def solve(lst):

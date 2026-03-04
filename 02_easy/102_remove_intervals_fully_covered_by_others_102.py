@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove intervals fully covered by others and return the result.
+# Given a list of intervals and any required parameters, remove intervals fully covered by others.
+# Return the resulting list/collection.
 #
 
 def solve(n):

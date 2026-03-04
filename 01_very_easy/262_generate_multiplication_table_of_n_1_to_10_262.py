@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Generate multiplication table of n and return it.
 #
 
 def solve(n):

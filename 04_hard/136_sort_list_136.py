@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Sort list and return the result.
+# Given the provided input, sort list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if two chessboard squares have the same color, otherwise return False.
+# Given a 2D grid/matrix and any required parameters, check if two chessboard squares have the same color.
+# Return the computed result.
 #
 
 def solve(n):

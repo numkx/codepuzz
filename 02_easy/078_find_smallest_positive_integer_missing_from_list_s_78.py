@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return smallest positive integer missing from list.
+# Given the provided input, find smallest positive integer missing from list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

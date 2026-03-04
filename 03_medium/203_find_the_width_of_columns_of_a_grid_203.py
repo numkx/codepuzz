@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the width of columns of a grid.
+# Given a 2D grid/matrix and any required parameters, find the width of columns of a grid.
+# Return the computed result.
 #
 
 def solve(lst):

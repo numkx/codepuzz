@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Rotate list right by k using reversal method and return the result.
+# Given the provided input, rotate list right by k using reversal method.
+# Return the resulting list/collection.
 #
 
 def solve(lst, n):

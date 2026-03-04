@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Lowercase first letter of each word and return the result.
 #
 
 def solve(s):

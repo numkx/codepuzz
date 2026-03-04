@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Reverse a queue using a stack and return the result.
+# Given the provided input, reverse a queue using a stack.
+# Return the computed result.
 #
 
 def solve(t):

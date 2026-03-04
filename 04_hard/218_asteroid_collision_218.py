@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, simulate collisions and return the final state of asteroids.
+# Return the computed result.
 #
 
 def solve(n):

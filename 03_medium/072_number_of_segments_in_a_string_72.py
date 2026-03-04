@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, find the number of segments in a string.
+# Return the resulting string.
 #
 
 def solve(s):

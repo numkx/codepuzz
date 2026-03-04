@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a list/string result for the given input.
+# Join words with spaces and return the result.
 #
 
 def solve(lst):

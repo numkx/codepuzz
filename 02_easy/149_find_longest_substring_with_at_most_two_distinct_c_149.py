@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest substring with at most two distinct characters.
+# Given a binary tree and any required parameters, find longest substring with at most two distinct characters.
+# Return the resulting string.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all values occurring more than n/3 times.
+# Given the provided input, find all values occurring more than n/3 times.
+# Return the computed result.
 #
 
 def solve(n):

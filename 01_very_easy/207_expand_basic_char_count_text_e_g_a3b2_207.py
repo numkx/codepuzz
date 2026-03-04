@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a numeric value for the given input.
+# Return expand basic char+count text.
 #
 
 def solve(s):

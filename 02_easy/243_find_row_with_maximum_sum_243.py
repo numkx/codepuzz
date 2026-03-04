@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return row with maximum sum.
+# Given an array/list and any required parameters, find row with maximum sum.
+# Return the computed result.
 #
 
 def solve(lst):

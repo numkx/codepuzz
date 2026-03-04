@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Delete first element of a list and return the updated result.
+# Delete first element of a list and return the result.
 #
 
 def solve(lst):

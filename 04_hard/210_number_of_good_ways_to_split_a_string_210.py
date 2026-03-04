@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, find the number of good ways to split a string.
+# Return the resulting string.
 #
 
 def solve(s):

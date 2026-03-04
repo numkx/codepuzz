@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, compute the total amount of trapped rain water.
+# Return the computed result.
 #
 
 def solve(n):

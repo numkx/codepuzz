@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of connected components in 2d character grid.
+# Given a 2D grid/matrix and any required parameters, count connected components in 2d character grid.
+# Return the computed result.
 #
 
 def solve(s):

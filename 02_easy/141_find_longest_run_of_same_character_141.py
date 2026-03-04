@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest run of same character.
+# Given the provided input, find longest run of same character.
+# Return the computed result.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, partition equal subset sum.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

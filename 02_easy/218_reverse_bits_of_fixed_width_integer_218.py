@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Reverse bits of fixed-width integer and return the result.
+# Given the provided input, reverse bits of fixed-width integer.
+# Return the computed result.
 #
 
 def solve(n):

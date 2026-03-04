@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Trim leading and trailing spaces and return the result.
 #
 
 def solve(s):

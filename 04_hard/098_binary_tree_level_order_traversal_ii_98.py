@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a binary tree and any required parameters, perform the required tree operation.
+# Return the computed result.
 #
 
 def solve(lst):

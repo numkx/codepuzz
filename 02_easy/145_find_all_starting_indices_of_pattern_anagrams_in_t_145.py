@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all starting indices of pattern anagrams in text.
+# Given a string (or strings) and any required parameters, find all starting indices of pattern anagrams in text.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

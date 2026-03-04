@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, generate all valid combinations of parentheses.
+# Return the computed result.
 #
 
 def solve(s):

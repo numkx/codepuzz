@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a list of intervals and any required parameters, apply the required algorithm for this problem.
+# Return the resulting list/collection.
 #
 
 def solve(n):

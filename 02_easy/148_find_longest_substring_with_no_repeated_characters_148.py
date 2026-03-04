@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest substring with no repeated characters.
+# Given a binary tree and any required parameters, find longest substring with no repeated characters.
+# Return the resulting string.
 #
 
 def solve(s):

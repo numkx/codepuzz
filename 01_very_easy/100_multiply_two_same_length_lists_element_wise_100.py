@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a numeric value for the given input.
+# Return the result of multiply two same-length lists element-wise.
 #
 
 def solve(lst1, lst2):

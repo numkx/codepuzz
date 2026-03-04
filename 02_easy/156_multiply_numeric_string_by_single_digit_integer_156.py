@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, perform the required string operation.
+# Return the resulting string.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find all values that appear more than n/3 times.
+# Return the computed result.
 #
 
 def solve(lst):

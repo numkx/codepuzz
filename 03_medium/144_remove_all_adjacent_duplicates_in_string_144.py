@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove all adjacent duplicates in string and return the result.
+# Given a string (or strings) and any required parameters, remove all adjacent duplicates in string.
+# Return the resulting string.
 #
 
 def solve(s):

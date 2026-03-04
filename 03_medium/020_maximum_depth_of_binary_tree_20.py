@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a binary tree and any required parameters, find the maximum depth of binary tree.
+# Return the computed result.
 #
 
 def solve(lst):

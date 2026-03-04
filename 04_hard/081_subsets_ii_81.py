@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return all unique subsets when the input may contain duplicates.
+# Return the computed result.
 #
 
 def solve(n):

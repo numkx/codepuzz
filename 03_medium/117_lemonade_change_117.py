@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, determine whether you can provide correct change to each customer in order.
+# Return the computed result.
 #
 
 def solve(n):

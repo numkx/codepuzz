@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return common prefix across list of strings.
+# Given a string (or strings) and any required parameters, find common prefix across list of strings.
+# Return the resulting list/collection.
 #
 
 def solve(s):

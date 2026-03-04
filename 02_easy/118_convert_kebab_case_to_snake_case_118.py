@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert kebab-case to snake_case and return the converted value.
+# Given the provided input, convert kebab-case to snake_case.
+# Return the computed result.
 #
 
 def solve(n):

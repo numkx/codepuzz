@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return all duplicates in an array.
+# Given an array/list and any required parameters, find all duplicates in an array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

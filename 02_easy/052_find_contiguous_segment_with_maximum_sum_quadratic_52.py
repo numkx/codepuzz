@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return contiguous segment with maximum sum.
+# Given an array/list and any required parameters, find contiguous segment with maximum sum.
+# Return the computed result.
 #
 
 def solve(lst):

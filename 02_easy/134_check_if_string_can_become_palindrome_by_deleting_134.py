@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if string can become palindrome by deleting one character, otherwise return False.
+# Given a string (or strings) and any required parameters, check if string can become palindrome by deleting one character.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

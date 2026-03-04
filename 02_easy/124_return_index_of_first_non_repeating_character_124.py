@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return index of first non-repeating character.
+# Return the computed result.
 #
 
 def solve(s):

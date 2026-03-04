@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of trailing zeros in n!.
+# Given the provided input, count trailing zeros in n!.
+# Return the computed result.
 #
 
 def solve(n):

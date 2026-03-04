@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return all numbers disappeared in an array.
+# Given an array/list and any required parameters, find all numbers disappeared in an array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

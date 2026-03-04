@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove adjacent duplicate letters repeatedly until stable and return the result.
+# Given the provided input, remove adjacent duplicate letters repeatedly until stable.
+# Return the computed result.
 #
 
 def solve(lst):

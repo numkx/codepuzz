@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap first and last list elements and return the updated result.
+# Swap first and last list elements and return the result.
 #
 
 def solve(lst):

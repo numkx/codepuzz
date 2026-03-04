@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find all 10-letter-long DNA sequences that occur more than once.
+# Return the computed result.
 #
 
 def solve(n):

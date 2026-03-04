@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Mask all but last 4 characters of a string and return the result.
 #
 
 def solve(s):

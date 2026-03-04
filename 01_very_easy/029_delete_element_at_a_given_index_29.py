@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Delete element at a given index and return the updated result.
+# Delete element at a given index and return the result.
 #
 
 def solve(lst, n):

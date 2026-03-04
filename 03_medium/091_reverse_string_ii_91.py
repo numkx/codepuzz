@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Reverse string ii and return the result.
+# Given a string (or strings) and any required parameters, reverse string ii.
+# Return the resulting string.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the count of complete tree nodes.
+# Given a binary tree and any required parameters, count complete tree nodes.
+# Return the computed result.
 #
 
 def solve(lst):

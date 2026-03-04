@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Sort colors and return the result.
+# Given the provided input, sort the array containing 0, 1, and 2 in-place.
+# Return the computed result.
 #
 
 def solve(lst):

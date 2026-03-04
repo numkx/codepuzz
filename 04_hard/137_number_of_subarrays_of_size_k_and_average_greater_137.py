@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, find the number of subarrays of size k and average greater than threshold.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

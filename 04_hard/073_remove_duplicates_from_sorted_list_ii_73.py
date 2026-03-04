@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Remove duplicates from sorted list ii and return the result.
+# Given the provided input, remove duplicates from sorted list ii.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

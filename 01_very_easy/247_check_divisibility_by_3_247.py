@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a boolean value for the given input.
+# Return check divisibility by 3.
 #
 
 def solve(n):

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap two numbers using temp variable and return the updated result.
+# Swap two numbers using temp variable and return the result.
 #
 
 def solve(n1, n2):

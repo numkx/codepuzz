@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True when the input is anagram, otherwise return False.
+# Given a string (or strings) and any required parameters, check whether the condition is satisfied.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Sort strings naturally and return the result.
+# Given a string (or strings) and any required parameters, sort strings naturally.
+# Return the resulting string.
 #
 
 def solve(s):

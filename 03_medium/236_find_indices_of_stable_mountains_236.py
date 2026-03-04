@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return indices of stable mountains.
+# Given the provided input, find indices of stable mountains.
+# Return the computed result.
 #
 
 def solve(n):

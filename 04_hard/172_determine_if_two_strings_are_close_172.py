@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, determine if two strings are close.
+# Return the resulting string.
 #
 
 def solve(s):

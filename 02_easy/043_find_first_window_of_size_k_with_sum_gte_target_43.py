@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return first window of size k with sum >= target.
+# Given an array/list and any required parameters, find first window of size k with sum >= target.
+# Return the computed result.
 #
 
 def solve(lst):

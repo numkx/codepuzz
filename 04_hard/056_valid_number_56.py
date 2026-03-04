@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return True when the input is number, otherwise return False.
+# Given the provided input, determine whether the string represents a valid numeric value.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

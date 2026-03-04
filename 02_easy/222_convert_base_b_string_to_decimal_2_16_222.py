@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert base b string to decimal and return the converted value.
+# Given a string (or strings) and any required parameters, convert base b string to decimal.
+# Return the resulting string.
 #
 
 def solve(s):

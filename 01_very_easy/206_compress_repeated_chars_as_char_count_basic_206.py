@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a numeric value for the given input.
+# Return compress repeated chars as char+count.
 #
 
 def solve(s):

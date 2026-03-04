@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return pair with target sum in unsorted list.
+# Given an array/list and any required parameters, find pair with target sum in unsorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

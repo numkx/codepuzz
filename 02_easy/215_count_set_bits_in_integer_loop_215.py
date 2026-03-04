@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of set bits in integer.
+# Given the provided input, count set bits in integer.
+# Return the computed result.
 #
 
 def solve(n):

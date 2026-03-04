@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of pairs that form a complete day i.
+# Given the provided input, count pairs that form a complete day i.
+# Return the computed result.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of items matching a rule.
+# Given the provided input, count items matching a rule.
+# Return the computed result.
 #
 
 def solve(n):

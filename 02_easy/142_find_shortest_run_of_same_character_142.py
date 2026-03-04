@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return shortest run of same character.
+# Given the provided input, find shortest run of same character.
+# Return the computed result.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Convert the integer to its Roman numeral form.
+# Given a string (or strings) and any required parameters, convert the integer to its Roman numeral representation.
+# Return the resulting string.
 #
 
 def solve(s):

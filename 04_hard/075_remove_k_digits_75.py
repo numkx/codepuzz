@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Remove k digits and return the result.
+# Given the provided input, remove k digits.
+# Return the computed result.
 #
 
 def solve(n):

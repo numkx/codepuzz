@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of frequencies of all values in a list.
+# Given the provided input, count frequencies of all values in a list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

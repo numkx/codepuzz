@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Merge k sorted lists and return the merged result.
+# Given the provided input, merge all sorted lists into one sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst1, lst2):

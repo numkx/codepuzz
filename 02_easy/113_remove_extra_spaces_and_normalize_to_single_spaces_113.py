@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove extra spaces and normalize to single spaces and return the result.
+# Given the provided input, remove extra spaces and normalize to single spaces.
+# Return the computed result.
 #
 
 def solve(n):

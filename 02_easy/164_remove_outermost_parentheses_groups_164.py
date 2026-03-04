@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove outermost parentheses groups and return the result.
+# Given a string (or strings) and any required parameters, remove outermost parentheses groups.
+# Return the resulting list/collection.
 #
 
 def solve(s):

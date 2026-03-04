@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the third distinct maximum value.
+# Given the provided input, find the third distinct maximum value.
+# Return the computed result.
 #
 
 def solve(n):

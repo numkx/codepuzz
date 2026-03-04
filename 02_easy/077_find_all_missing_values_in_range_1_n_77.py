@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all missing values in range 1..n.
+# Given the provided input, find all missing values in range 1..n.
+# Return the computed result.
 #
 
 def solve(lst):

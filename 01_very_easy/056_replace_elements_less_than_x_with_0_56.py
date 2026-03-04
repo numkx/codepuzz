@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace elements less than x with 0 and return the updated result.
+# Replace elements less than x with 0 and return the result.
 #
 
 def solve(lst, n):

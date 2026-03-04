@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Swap two given indices in a list and return the updated result.
+# Swap two given indices in a list and return the result.
 #
 
 def solve(lst, n1, n2):

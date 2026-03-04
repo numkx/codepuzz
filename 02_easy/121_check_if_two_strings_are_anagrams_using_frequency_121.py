@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if two strings are anagrams using frequency map, otherwise return False.
+# Given a string (or strings) and any required parameters, check if two strings are anagrams using frequency map.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

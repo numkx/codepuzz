@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the difference of two arrays.
+# Given an array/list and any required parameters, find the difference of two arrays.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return a list/string result for the given input.
+# Join words with commas and return the result.
 #
 
 def solve(lst):

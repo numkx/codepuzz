@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace a character with another character and return the updated result.
+# Replace a character with another character and return the result.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, find the minimum path sum.
+# Return the computed result.
 #
 
 def solve(lst):

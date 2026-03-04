@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return pivot index.
+# Given the provided input, find pivot index.
+# Return the computed result.
 #
 
 def solve(n):

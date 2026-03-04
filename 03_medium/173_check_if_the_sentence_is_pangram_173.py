@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if the sentence is pangram, otherwise return False.
+# Given the provided input, check if the sentence is pangram.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

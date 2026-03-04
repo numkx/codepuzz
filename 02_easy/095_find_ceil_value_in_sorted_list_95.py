@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return ceil value in sorted list.
+# Given the provided input, find ceil value in sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

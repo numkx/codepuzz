@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Rotate square matrix 90 degrees counterclockwise and return the result.
+# Given a 2D grid/matrix and any required parameters, rotate square matrix 90 degrees counterclockwise.
+# Return the computed result.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return lucky integer in an array.
+# Given an array/list and any required parameters, find lucky integer in an array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

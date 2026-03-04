@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous segment of odd numbers.
+# Given the provided input, find longest contiguous segment of odd numbers.
+# Return the computed result.
 #
 
 def solve(n):

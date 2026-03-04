@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Merge overlapping closed intervals and return the merged result.
+# Given a list of intervals and any required parameters, merge overlapping closed intervals.
+# Return the resulting list/collection.
 #
 
 def solve(n):

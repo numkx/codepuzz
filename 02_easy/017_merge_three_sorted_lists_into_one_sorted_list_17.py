@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Merge three sorted lists into one sorted list and return the merged result.
+# Given the provided input, merge three sorted lists into one sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst1, lst2):

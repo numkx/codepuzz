@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert the Roman numeral string to an integer.
+# Given a string (or strings) and any required parameters, convert the Roman numeral to its integer value.
+# Return the resulting string.
 #
 
 def solve(s):

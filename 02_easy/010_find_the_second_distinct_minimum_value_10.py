@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the second distinct minimum value.
+# Given the provided input, find the second distinct minimum value.
+# Return the computed result.
 #
 
 def solve(n):

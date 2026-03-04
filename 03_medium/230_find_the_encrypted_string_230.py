@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the encrypted string.
+# Given a string (or strings) and any required parameters, find the encrypted string.
+# Return the resulting string.
 #
 
 def solve(s):

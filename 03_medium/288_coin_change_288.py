@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the minimum number of coins needed for the amount, or -1 if impossible.
+# Given the provided input, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst, n):

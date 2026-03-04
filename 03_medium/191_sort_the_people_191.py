@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Sort the people and return the result.
+# Given the provided input, sort the people.
+# Return the computed result.
 #
 
 def solve(lst):

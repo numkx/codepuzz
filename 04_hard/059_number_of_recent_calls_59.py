@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return the number of recent requests in the last 3000 milliseconds.
+# Return the computed result.
 #
 
 def solve(n):

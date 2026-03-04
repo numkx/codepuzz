@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if list can be sorted by one swap, otherwise return False.
+# Given the provided input, check if list can be sorted by one swap.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Sort the matrix diagonally and return the result.
+# Given a 2D grid/matrix and any required parameters, sort the matrix diagonally.
+# Return the computed result.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the duplicate number.
+# Given the provided input, find the duplicate number.
+# Return the computed result.
 #
 
 def solve(lst):

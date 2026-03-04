@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, partition list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

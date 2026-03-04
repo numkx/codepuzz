@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if matrix is square, otherwise return False.
+# Given a 2D grid/matrix and any required parameters, check whether matrix is square.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

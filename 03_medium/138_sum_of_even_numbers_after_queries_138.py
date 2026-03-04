@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the sum of of even numbers after queries.
+# Given an array/list and any required parameters, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst):

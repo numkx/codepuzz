@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Insert delete getrandom o1 and return the updated result.
+# Given the provided input, support insert, delete, and random retrieval in average O(1) time.
+# Return the computed result.
 #
 
 def solve(n):

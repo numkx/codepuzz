@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of tested devices.
+# Given the provided input, count tested devices.
+# Return the computed result.
 #
 
 def solve(n):

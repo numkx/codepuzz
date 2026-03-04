@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return common characters.
+# Given the provided input, find common characters.
+# Return the computed result.
 #
 
 def solve(s):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse linked list ii and return the result.
+# Given a linked list and any required parameters, reverse linked list ii.
+# Return the resulting list/collection.
 #
 
 def solve(t):

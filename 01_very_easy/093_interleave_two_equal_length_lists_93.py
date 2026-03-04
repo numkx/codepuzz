@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Interleave two equal-length lists and return the result.
+# Return interleave two equal-length lists.
 #
 
 def solve(lst1, lst2):

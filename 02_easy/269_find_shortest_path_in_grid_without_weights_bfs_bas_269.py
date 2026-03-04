@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return shortest path in grid without weights.
+# Given a 2D grid/matrix and any required parameters, find shortest path in grid without weights.
+# Return the computed result.
 #
 
 def solve(lst):

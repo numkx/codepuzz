@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the count of numbers with unique digits.
+# Given the provided input, count numbers with unique digits.
+# Return the computed result.
 #
 
 def solve(n):

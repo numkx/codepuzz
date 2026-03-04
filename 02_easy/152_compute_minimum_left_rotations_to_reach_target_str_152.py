@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, compute minimum left rotations to reach target string.
+# Return the resulting string.
 #
 
 def solve(s):

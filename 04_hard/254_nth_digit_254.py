@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the nth digit in the infinite integer sequence.
+# Return the computed result.
 #
 
 def solve(n):

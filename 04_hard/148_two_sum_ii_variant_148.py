@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the required pair (indices or values) whose sum equals the target.
+# Given an array/list and any required parameters, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst):

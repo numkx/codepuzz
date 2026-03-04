@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Implement least-recently-used cache behavior and return operation outputs.
+# Given the provided input, support cache operations with least-recently-used eviction.
+# Return the computed result.
 #
 
 def solve(t):

@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace tabs with spaces and return the updated result.
+# Replace tabs with spaces and return the result.
 #
 
 def solve(s):

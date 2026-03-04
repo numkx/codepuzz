@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all unique pairs with target sum.
+# Given an array/list and any required parameters, find all unique pairs with target sum.
+# Return the computed result.
 #
 
 def solve(lst):

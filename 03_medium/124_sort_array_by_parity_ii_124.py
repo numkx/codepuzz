@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Sort array by parity ii and return the result.
+# Given an array/list and any required parameters, sort array by parity ii.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

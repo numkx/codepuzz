@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if sentence is palindrome after cleanup, otherwise return False.
+# Given a string (or strings) and any required parameters, check if sentence is palindrome after cleanup.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

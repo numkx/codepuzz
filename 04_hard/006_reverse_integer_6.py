@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Reverse integer and return the result.
+# Given the provided input, reverse integer.
+# Return the computed result.
 #
 
 def solve(n):

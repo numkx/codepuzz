@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the count of digits that divide a number.
+# Given the provided input, count digits that divide a number.
+# Return the computed result.
 #
 
 def solve(n):

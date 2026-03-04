@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Reverse bits and return the result.
+# Given the provided input, reverse bits.
+# Return the computed result.
 #
 
 def solve(n):

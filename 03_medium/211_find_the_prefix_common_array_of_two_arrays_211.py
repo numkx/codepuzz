@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the prefix common array of two arrays.
+# Given an array/list and any required parameters, find the prefix common array of two arrays.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

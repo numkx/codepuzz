@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return all anagrams in a string.
+# Given a string (or strings) and any required parameters, find all anagrams in a string.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

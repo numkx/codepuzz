@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the number of students doing homework at a given time.
+# Return the computed result.
 #
 
 def solve(n):

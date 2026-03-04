@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a binary tree and any required parameters, find the shortest substring that contains all required characters.
+# Return the resulting string.
 #
 
 def solve(s1, s2):

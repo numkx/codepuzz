@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove outermost parentheses and return the result.
+# Given a string (or strings) and any required parameters, remove outermost parentheses.
+# Return the computed result.
 #
 
 def solve(s):

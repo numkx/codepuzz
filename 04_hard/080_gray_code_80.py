@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, generate a valid gray code sequence of length 2^n.
+# Return the computed result.
 #
 
 def solve(n):

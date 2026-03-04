@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the sum of each column in matrix.
+# Given a 2D grid/matrix and any required parameters, perform the required matrix/grid operation.
+# Return the computed result.
 #
 
 def solve(lst):

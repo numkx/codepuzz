@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return inversion count.
+# Given the provided input, find inversion count.
+# Return the computed result.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Insert interval into sorted non-overlapping intervals and return the updated result.
+# Given a list of intervals and any required parameters, insert the new interval and merge overlaps.
+# Return the resulting list/collection.
 #
 
 def solve(n):

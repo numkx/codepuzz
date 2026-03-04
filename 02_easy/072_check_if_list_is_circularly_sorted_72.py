@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if list is circularly sorted, otherwise return False.
+# Given the provided input, check if list is circularly sorted.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

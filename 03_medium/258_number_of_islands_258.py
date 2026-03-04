@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the number of connected islands in the grid.
+# Given graph-style input and any required parameters, find the number of islands.
+# Return the computed result.
 #
 
 def solve(lst):

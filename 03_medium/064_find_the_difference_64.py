@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the difference.
+# Given the provided input, find the difference.
+# Return the computed result.
 #
 
 def solve(n):

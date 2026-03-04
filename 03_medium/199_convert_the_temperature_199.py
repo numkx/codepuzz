@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Convert the temperature and return the converted value.
+# Given the provided input, convert the temperature.
+# Return the computed result.
 #
 
 def solve(n):

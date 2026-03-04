@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return triplet with target sum.
+# Given an array/list and any required parameters, find triplet with target sum.
+# Return the computed result.
 #
 
 def solve(lst):

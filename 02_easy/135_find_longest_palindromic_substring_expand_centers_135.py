@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest palindromic substring.
+# Given a binary tree and any required parameters, find longest palindromic substring.
+# Return the resulting string.
 #
 
 def solve(s):

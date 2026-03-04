@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Reverse vowels of a string and return the result.
+# Given a string (or strings) and any required parameters, reverse vowels of a string.
+# Return the resulting string.
 #
 
 def solve(s):

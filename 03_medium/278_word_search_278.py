@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, determine whether the target word exists in the board.
+# Return the resulting string.
 #
 
 def solve(s):

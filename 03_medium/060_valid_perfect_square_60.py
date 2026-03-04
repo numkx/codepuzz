@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True when the input is perfect square, otherwise return False.
+# Given the provided input, check whether the condition is satisfied.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

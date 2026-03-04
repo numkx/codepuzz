@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Sort list of tuples by second field then first and return the result.
+# Given the provided input, sort list of tuples by second field then first.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

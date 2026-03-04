@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, add large integers stored as digit arrays.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

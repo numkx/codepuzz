@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Convert sorted list to binary search tree and return the converted value.
+# Given a binary tree and any required parameters, convert sorted list to binary search tree.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, return bit counts for every number from 0 to n.
+# Return the computed result.
 #
 
 def solve(n):

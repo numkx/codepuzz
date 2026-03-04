@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Remove nth node from end of list and return the result.
+# Given a linked list and any required parameters, remove the nth node from the end of the list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

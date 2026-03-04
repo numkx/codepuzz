@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return all neighbors of cell.
+# Given the provided input, find all neighbors of cell.
+# Return the computed result.
 #
 
 def solve(n):

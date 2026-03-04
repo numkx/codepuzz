@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the sum of of digits raised to position index.
+# Given an array/list and any required parameters, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst):

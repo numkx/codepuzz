@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace all zeros with -1 and return the updated result.
+# Replace all zeros with -1 and return the result.
 #
 
 def solve(lst):

@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return floor value in sorted list.
+# Given the provided input, find floor value in sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

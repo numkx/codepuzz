@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace first occurrence of substring and return the updated result.
+# Replace first occurrence of substring and return the result.
 #
 
 def solve(s):

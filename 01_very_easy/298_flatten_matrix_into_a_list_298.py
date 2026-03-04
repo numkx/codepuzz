@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Flatten matrix into a list and return the flattened output.
+# Flatten matrix into a list and return the result.
 #
 
 def solve(lst):

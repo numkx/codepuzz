@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if output sequence is possible stack permutation, otherwise return False.
+# Given an array/list and any required parameters, check if output sequence is possible stack permutation.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(t):

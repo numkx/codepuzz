@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the array concatenation value.
+# Given an array/list and any required parameters, find the array concatenation value.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

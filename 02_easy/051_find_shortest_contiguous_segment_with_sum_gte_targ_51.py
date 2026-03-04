@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return shortest contiguous segment with sum >= target.
+# Given an array/list and any required parameters, find shortest contiguous segment with sum >= target.
+# Return the computed result.
 #
 
 def solve(lst):

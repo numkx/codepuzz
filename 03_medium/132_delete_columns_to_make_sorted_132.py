@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Delete columns to make sorted and return the updated result.
+# Given the provided input, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst):

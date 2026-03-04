@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, check armstrong number for arbitrary digit length.
+# Return the computed result.
 #
 
 def solve(n):

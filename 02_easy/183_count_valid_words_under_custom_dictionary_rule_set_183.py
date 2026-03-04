@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of valid words under custom dictionary rule set.
+# Given a string (or strings) and any required parameters, count valid words under custom dictionary rule set.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

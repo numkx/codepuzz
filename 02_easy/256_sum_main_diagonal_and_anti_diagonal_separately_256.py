@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the sum of main diagonal and anti-diagonal separately.
+# Given an array/list and any required parameters, apply the required algorithm for this problem.
+# Return the computed result.
 #
 
 def solve(lst):

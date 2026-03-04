@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Replace spaces with underscores and return the updated result.
+# Replace spaces with underscores and return the result.
 #
 
 def solve(s):

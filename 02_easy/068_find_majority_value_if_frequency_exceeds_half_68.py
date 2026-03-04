@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return majority value if frequency exceeds half.
+# Given the provided input, find majority value if frequency exceeds half.
+# Return the computed result.
 #
 
 def solve(lst):

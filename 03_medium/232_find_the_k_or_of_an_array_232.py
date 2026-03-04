@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the k or of an array.
+# Given an array/list and any required parameters, find the k or of an array.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

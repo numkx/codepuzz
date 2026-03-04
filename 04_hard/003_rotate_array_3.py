@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Rotate array and return the result.
+# Given an array/list and any required parameters, rotate array.
+# Return the resulting list/collection.
 #
 
 def solve(lst, n):

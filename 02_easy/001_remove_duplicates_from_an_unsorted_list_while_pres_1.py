@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Remove duplicates from an unsorted list while preserving order and return the result.
+# Given the provided input, remove duplicates from an unsorted list while preserving order.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

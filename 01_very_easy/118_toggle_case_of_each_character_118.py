@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Toggle case of each character and return the result.
 #
 
 def solve(s):

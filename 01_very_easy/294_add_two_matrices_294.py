@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the required output for the given input.
+# Return the result of add two matrices.
 #
 
 def solve(lst1, lst2):

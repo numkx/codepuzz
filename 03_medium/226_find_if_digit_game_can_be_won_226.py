@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return if digit game can be won.
+# Given the provided input, find if digit game can be won.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True when the input is sudoku, otherwise return False.
+# Given a 2D grid/matrix and any required parameters, verify whether the Sudoku board configuration is valid.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

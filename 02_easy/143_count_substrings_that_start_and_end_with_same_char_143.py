@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of substrings that start and end with same character.
+# Given a binary tree and any required parameters, count substrings that start and end with same character.
+# Return the resulting string.
 #
 
 def solve(s):

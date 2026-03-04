@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the count of all palindromic substrings.
+# Given a binary tree and any required parameters, count all palindromic substrings.
+# Return the resulting string.
 #
 
 def solve(s):

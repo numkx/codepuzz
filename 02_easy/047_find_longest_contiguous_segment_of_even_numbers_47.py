@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return longest contiguous segment of even numbers.
+# Given the provided input, find longest contiguous segment of even numbers.
+# Return the computed result.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return center of star graph.
+# Given graph-style input and any required parameters, find center of star graph.
+# Return the computed result.
 #
 
 def solve(t):

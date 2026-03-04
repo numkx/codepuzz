@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert snake_case identifier to camelcase and return the converted value.
+# Given the provided input, convert snake_case identifier to camelcase.
+# Return the computed result.
 #
 
 def solve(n):

@@ -2,7 +2,8 @@
 # Difficulty: Hard
 #
 # Description:
-# Implement the required operations and return outputs in order.
+# Given the provided input, design hit counter.
+# Return the computed result.
 #
 
 def solve(t):

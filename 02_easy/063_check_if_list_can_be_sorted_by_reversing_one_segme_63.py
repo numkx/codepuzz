@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if list can be sorted by reversing one segment, otherwise return False.
+# Given the provided input, check if list can be sorted by reversing one segment.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(lst):

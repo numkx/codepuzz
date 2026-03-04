@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given a string (or strings) and any required parameters, check whether the condition is satisfied.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):

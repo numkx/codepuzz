@@ -2,7 +2,7 @@
 # Difficulty: Very Easy
 #
 # Description:
-# Return the remainder after division.
+# Return integer division remainder.
 #
 
 def solve(n1, n2):

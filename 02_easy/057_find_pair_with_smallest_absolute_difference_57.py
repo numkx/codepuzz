@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return pair with smallest absolute difference.
+# Given the provided input, find pair with smallest absolute difference.
+# Return the computed result.
 #
 
 def solve(lst):

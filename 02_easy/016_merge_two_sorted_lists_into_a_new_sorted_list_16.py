@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Merge two sorted lists into a new sorted list and return the merged result.
+# Given the provided input, merge two sorted lists into a new sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst1, lst2):

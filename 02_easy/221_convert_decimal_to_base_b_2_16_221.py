@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Convert decimal to base b and return the converted value.
+# Given the provided input, convert decimal to base b.
+# Return the computed result.
 #
 
 def solve(n):

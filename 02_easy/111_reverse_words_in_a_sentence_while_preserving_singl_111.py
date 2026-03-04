@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Reverse words in a sentence while preserving single spaces and return the result.
+# Given a string (or strings) and any required parameters, reverse words in a sentence while preserving single spaces.
+# Return the resulting string.
 #
 
 def solve(s):

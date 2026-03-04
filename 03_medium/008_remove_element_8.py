@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Remove element and return the result.
+# Given the provided input, remove element.
+# Return the computed result.
 #
 
 def solve(lst, n):

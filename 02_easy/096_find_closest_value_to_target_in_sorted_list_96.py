@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return closest value to target in sorted list.
+# Given the provided input, find closest value to target in sorted list.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

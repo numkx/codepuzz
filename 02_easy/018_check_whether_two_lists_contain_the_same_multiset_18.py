@@ -2,7 +2,8 @@
 # Difficulty: Easy
 #
 # Description:
-# Return True if two lists contain the same multiset of values, otherwise return False.
+# Given the provided input, check whether two lists contain the same multiset of values.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

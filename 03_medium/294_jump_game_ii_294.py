@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given the provided input, find the minimum number of jumps to reach the last index.
+# Return the computed result.
 #
 
 def solve(n):

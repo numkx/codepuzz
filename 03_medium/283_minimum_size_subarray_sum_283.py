@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return the result after applying the required operation to the input.
+# Given an array/list and any required parameters, find the minimum size subarray sum.
+# Return the resulting list/collection.
 #
 
 def solve(lst):

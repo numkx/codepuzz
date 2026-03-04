@@ -2,7 +2,8 @@
 # Difficulty: Medium
 #
 # Description:
-# Return True if digits are equal in string after operations i, otherwise return False.
+# Given a string (or strings) and any required parameters, check if digits are equal in string after operations i.
+# Return True when the condition holds; otherwise return False.
 #
 
 def solve(s):
